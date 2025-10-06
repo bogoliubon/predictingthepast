@@ -1,0 +1,291 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://epidoc.stoa.org/schema/9.4/tei-epidoc.rng"
+schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://epidoc.stoa.org/schema/9.4/tei-epidoc.rng"
+schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<tei:TEI xml:id="ItAnt_Faliscan_45" xmlns:dcr="http://www.isocat.org/ns/dcr" xmlns:tei="http://www.tei-c.org/ns/1.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <tei:teiHeader>
+        <tei:fileDesc>
+            <tei:titleStmt>
+                <tei:title>Inscription ItAnt_Faliscan_45</tei:title>
+           </tei:titleStmt>            
+            <tei:editionStmt>
+                <tei:edition>
+                    <tei:idno>ItAnt_Faliscan_45</tei:idno>
+                </tei:edition>              
+                <tei:editor>
+                    <tei:persName>Greta Mozzato</tei:persName>
+                </tei:editor>
+            </tei:editionStmt>
+            <tei:publicationStmt>
+                <tei:authority>PRIN 2017 "Lingue e culture dell'Italia antica: linguistica storica e modelli digitali | Languages and Cultures of Ancient Italy. Historical Linguistics and Digital Models"</tei:authority>
+                <tei:date>2023</tei:date>
+                <tei:idno type="URI" subtype="handle"><!-- verrà riempito in automatico dopo l'inserimento in CLARIN --></tei:idno>
+                <tei:availability>
+                    <tei:licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">This file is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International license – (CC BY-NC-SA 4.0).</tei:licence>
+                </tei:availability>
+            </tei:publicationStmt>
+            <tei:sourceDesc>               
+                <tei:msDesc>
+                    <tei:msIdentifier>
+                        <tei:settlement ref="https://www.geonames.org/3169070">Roma</tei:settlement>
+                        <tei:institution ana="https://www.museoetru.it/">ETRU Museo Nazionale Etrusco di Villa Giulia</tei:institution>
+                        <tei:idno type="museumID">1674</tei:idno>
+                        <tei:msName>red-figure kylix from Falerii Veteres</tei:msName>
+                        <tei:altIdentifier type="trismegistos">
+                            <tei:idno source="www.trismegistos.org/text/817838">TM 817838</tei:idno>
+                        </tei:altIdentifier>
+                        <tei:altIdentifier type="traditionalID">
+                            <tei:idno source="http://zotero.org/groups/2552746/items/NJFZRK23">Vetter 244 a</tei:idno>
+                        </tei:altIdentifier>
+                        <tei:altIdentifier type="traditionalID">
+                            <tei:idno source="http://zotero.org/groups/2552746/items/USHGF3E7">Giacomelli 5 I</tei:idno>
+                        </tei:altIdentifier>
+                        <tei:altIdentifier type="traditionalID">
+                            <tei:idno source="http://zotero.org/groups/2552746/items/84FQ2UI4">Bakkum 59</tei:idno>
+                        </tei:altIdentifier>
+                    </tei:msIdentifier>
+                    <tei:msContents>
+                        <tei:summary>
+                            <tei:p>This is one of the two inscribed red-figure kylikes found in La Penna necropolis in Falerii Veteres. The two kylikes (Vetter 244 a-b; Giacomelli 5 I-II; Bakkum 59-60; ItAnt_Faliscan_45-46) are very similar, have almost the same inscription and depict an erotic scene. Another similar kylix, but without inscription, has been found in Falerii Veteres, thus pointing to a series production (see <tei:ref target="http://zotero.org/groups/2552746/items/37UB6ZHR"><tei:bibl>Rigobianco 2017</tei:bibl></tei:ref>, page 173, note 5)</tei:p>
+                        </tei:summary>
+                    </tei:msContents>
+                    <tei:physDesc>
+                        <tei:objectDesc>
+                            <tei:supportDesc>
+                                <tei:support>
+                                    <tei:objectType ana="http://vocab.getty.edu/page/aat/300198842">kylix</tei:objectType>
+                                    <tei:rs type="objectShape"></tei:rs>
+                                    <tei:note></tei:note>
+                                    <tei:material ana="http://vocab.getty.edu/page/aat/300010439">clay</tei:material>
+                                    <tei:dimensions type="objectDimensions" unit="cm" precision="high">
+                                        <tei:height></tei:height>
+                                        <tei:width></tei:width>
+                                        <tei:depth></tei:depth>
+                                        <tei:dim type="diameter">15</tei:dim> 
+                                    </tei:dimensions>
+                                    <tei:rs type="reuse">no</tei:rs>
+                                </tei:support>
+                               <tei:condition>well-preserved
+                                   <tei:note></tei:note>
+                               </tei:condition>    
+                            </tei:supportDesc>
+                            <tei:layoutDesc>
+                                <tei:layout columns="1" writtenLines="1">
+                                    <tei:rs type="execution" ana="http://vocab.getty.edu/page/aat/300033618">painted</tei:rs> 
+                                    <tei:rs type="opistography">no</tei:rs>                 
+                                    <tei:note type="layoutNotes">The inscription is painted around the central tondo of the kylix</tei:note>
+                                    <tei:dimensions type="lineDimension" unit="cm" precision="high">
+                                        <tei:height></tei:height>
+                                        <tei:width></tei:width>
+                                    </tei:dimensions> 
+                                </tei:layout>
+                            </tei:layoutDesc>
+                        </tei:objectDesc>
+                        <tei:handDesc>
+                            <tei:handNote>
+                                <tei:note type="palaeographicNotes">⟨r⟩ in carefo and cra have different shape. In order to explain such a difference, it has been suggested that they stand for different phones. Specifically, ⟨r⟩ in carefo would have been used for a not yet completely rhotacised /s/ (see, for example, <tei:ref target="http://zotero.org/groups/2552746/items/QY9BTP3H"><tei:bibl>Bonfante 1966</tei:bibl></tei:ref>). Alternatively, the difference has been explained as due to an error made by the scribe during the transcription of the text (see, for example, <tei:ref target="http://zotero.org/groups/2552746/items/37UB6ZHR"><tei:bibl>Rigobianco 2017</tei:bibl></tei:ref>)</tei:note>
+                          </tei:handNote>
+                        </tei:handDesc>
+                        <tei:scriptDesc>   
+                            <tei:scriptNote>
+                                <tei:rs type="writingSystem" subtype="alphabet" ref="https://www.prin-italia-antica.unifi.it/p215.html">Faliscan alphabet</tei:rs>
+                                <tei:rs type="wordDivision">punctuation
+                                    <tei:rs type="syllabicPuntuactionSimplification"></tei:rs>                               
+                                    <tei:rs type="syllabicPuntuactionApplication"></tei:rs>
+                                </tei:rs>                                    
+                            </tei:scriptNote>                                                     
+                        </tei:scriptDesc>
+                        <tei:decoDesc>
+                            <tei:decoNote>The central tondo is decorated with two red-varnished figures, a nude woman and a nude man. The latter has a cloak on his shoulders. Such a scene is commonly interpreted as erotic (see, for example, <tei:ref target="http://zotero.org/groups/2552746/items/USHGF3E7"><tei:bibl>Giacomelli 1963</tei:bibl></tei:ref>) and the two figures have been tentatively identified as either Dionysus and Semele or Dyonisus and Ariadne (see, for example, <tei:ref target="http://zotero.org/groups/2552746/items/USHGF3E7"><tei:bibl>Giacomelli 1963</tei:bibl></tei:ref>page 49, note 41 and <tei:ref target="http://zotero.org/groups/2552746/items/84FQ2UI4"><tei:bibl>Bakkum 2009</tei:bibl></tei:ref> page 434, note 224). On the right of the two figures, there are depicted a plant and a bird, probably an owl</tei:decoNote>
+                        </tei:decoDesc>
+                    </tei:physDesc>
+                    <tei:history>
+                        <tei:origin>
+                            <tei:origPlace type="composed">
+                                <tei:placeName type="ancient" ref="https://pleiades.stoa.org/places/413126">Falerii Veteres</tei:placeName>
+                                <tei:placeName type="modern" ref="https://www.geonames.org/3178595">Civita Castellana</tei:placeName>
+                            </tei:origPlace>
+                            <tei:origDate notBefore-custom="-0400" notAfter-custom="-0301" cert="medium">4th century BC</tei:origDate>
+                        </tei:origin>
+                        <tei:provenance type="found" subtype="discovered" when="1887">
+                            <tei:placeName type="ancient" ref="https://pleiades.stoa.org/places/413126">Falerii Veteres</tei:placeName>
+                            <tei:placeName type="modern" ref="https://www.geonames.org/3178595">Civita Castellana</tei:placeName>
+                            <tei:placeName type="detailed">La Penna necropolis</tei:placeName>
+                            <tei:persName></tei:persName>
+                        </tei:provenance>
+                        <tei:provenance type="observed" subtype="seen" when="2023">
+                            <tei:persName>Luca Rigobianco</tei:persName>
+                        </tei:provenance>
+                    </tei:history>
+                </tei:msDesc>
+            </tei:sourceDesc>
+        </tei:fileDesc>
+        <tei:encodingDesc>
+            <tei:p source="https://epidoc.stoa.org/gl/latest/">Marked-up according to the EpiDoc Guidelines</tei:p>
+        </tei:encodingDesc>
+        <tei:profileDesc>
+            <tei:langUsage> 
+                <tei:language ident="xfa" source="https://iso639-3.sil.org/code/xfa">Faliscan</tei:language>            
+                <tei:language ident="xfa-Ital-x-xfafal" source="https://www.prin-italia-antica.unifi.it/p215.html" ana="https://unicode.org/iso15924/iso15924-codes.html">Faliscan in Faliscan alphabet</tei:language>
+            </tei:langUsage>
+            <tei:textClass>
+                <tei:keywords scheme="https://www.eagle-network.eu/resources/vocabularies/typeins/">
+                    <tei:term ref="https://www.eagle-network.eu/voc/typeins/lod/106">other</tei:term>
+                </tei:keywords>
+            </tei:textClass>
+        </tei:profileDesc>
+    </tei:teiHeader>
+    <tei:facsimile>
+        <tei:graphic n="1" url="https://www.museoetru.it/agro-falisco-e-capenate/kylix-a-figure-rosse-da-falerii-veteres">
+            <tei:desc>Photos of the kylix from the website of the Museum of Villa Giulia<tei:ref type="licence"
+                    target="https://creativecommons.org/licenses/by-nc-sa/4.0/">This file is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International license – (CC BY-NC-SA 4.0).</tei:ref>
+            </tei:desc>
+        </tei:graphic>
+    </tei:facsimile>
+    <tei:text>
+        <tei:body>
+            <tei:div type="edition" subtype="interpretative" xml:space="preserve">
+                <tei:div type="textpart" n="face_a" style="text-direction:r-to-l" rend="ductus:sinistrorse">
+                    <tei:ab>                                
+                        <tei:lb n="1" xml:id="Fal_45_l_1"/>
+                        <!-- Leida;Fal_45_l_1_w_1;foied -->
+                            <tei:w xml:id="Fal_45_l_1_w_1" xml:lang="xfa-Ital-x-xfafal">foied</tei:w><tei:pc unit="word">·</tei:pc>
+                        <!-- Leida;Fal_45_l_1_w_2;uino -->
+                            <tei:w xml:id="Fal_45_l_1_w_2" xml:lang="xfa-Ital-x-xfafal">uino</tei:w><tei:pc unit="word">·</tei:pc>
+                        <!-- Leida;Fal_45_l_1_w_3;pipafo -->
+                            <tei:w xml:id="Fal_45_l_1_w_3" xml:lang="xfa-Ital-x-xfafal">pipafo</tei:w><tei:pc unit="word">·</tei:pc>
+                        <!-- Leida;Fal_45_l_1_w_4;cra -->
+                            <tei:w xml:id="Fal_45_l_1_w_4" xml:lang="xfa-Ital-x-xfafal">cra</tei:w><tei:pc unit="word">·</tei:pc>
+                        <!-- Leida;Fal_45_l_1_w_5;carefo -->
+                            <tei:w xml:id="Fal_45_l_1_w_5" xml:lang="xfa-Ital-x-xfafal">carefo</tei:w><tei:pc unit="word">·</tei:pc>
+                    </tei:ab>
+                </tei:div>
+            </tei:div>
+            <tei:div type="translation" xml:lang="ita">
+                <tei:p>Oggi berrò vino, domani starò senza</tei:p>
+                <tei:desc>
+                    <tei:persName>Luca Rigobianco</tei:persName>
+                    <tei:ref type="licence" target="http://creativecommons.org/licenses/by-sa/4.0/">This file is licensed under the Creative Commons Attribution-ShareAlike 4.0 license.</tei:ref>
+                </tei:desc>
+            </tei:div>
+            <tei:div type="translation" xml:lang="eng">
+                <tei:p>Today I will drink wine, tomorrow I will do without</tei:p>
+                <tei:desc>
+                    <tei:persName>Luca Rigobianco</tei:persName>
+                    <tei:ref type="licence" target="http://creativecommons.org/licenses/by-sa/4.0/">This file is licensed under the Creative Commons Attribution-ShareAlike 4.0 license.</tei:ref>
+                </tei:desc>
+            </tei:div>
+            <tei:div type="apparatus" xml:lang="eng" resp="GretaMozzato">
+                <tei:listApp>
+                    <tei:app></tei:app>    
+                </tei:listApp>
+            </tei:div>
+            <tei:div type="commentary" xml:lang="eng" resp="GretaMozzato">
+                <tei:note target="#Fal_45">
+                    <tei:p>The inscription is commonly interpreted as a popular saying corresponding to a carpe diem exhortation (see, for example, <tei:ref target="http://zotero.org/groups/2552746/items/NJFZRK23"><tei:bibl>Vetter 1953</tei:bibl></tei:ref> and <tei:ref target="http://zotero.org/groups/2552746/items/USHGF3E7"><tei:bibl>Giacomelli 1963</tei:bibl></tei:ref>). Alternatively, it has been proposed to interpret it as an invite to drink wine every day (see <tei:ref target="http://zotero.org/groups/2552746/items/37UB6ZHR"><tei:bibl>Rigobianco 2017</tei:bibl></tei:ref>), as for anyone who reads and interprets the text, it is always today (foied), time to drink, and the abstinence is put off until a tomorrow (cra) which never comes, according to a mechanism which is often used in playful written texts</tei:p> 
+                </tei:note>
+                <tei:note target="#Fal_45_l_1_w_1">
+                    <tei:p>According to <tei:ref target="http://zotero.org/groups/2552746/items/USHGF3E7"><tei:bibl>Giacomelli 1963</tei:bibl></tei:ref>, the alternation between ⟨f⟩ and ⟨h⟩ at the beginning of a word, which is attested in Faliscan words such as <tei:rs type="w" corresp="#Fal_46_l_1_w_1" xml:lang="xfa-Ital-x-xfafal">foied</tei:rs>/hoied, would be due to sociolinguistic factors. <tei:ref target="http://zotero.org/groups/2552746/items/84FQ2UI4"><tei:bibl>Bakkum 2009</tei:bibl></tei:ref> has suggested that <tei:rs type="w" corresp="#Fal_46_l_1_w_1" xml:lang="xfa-Ital-x-xfafal">foied</tei:rs> would be a hypercorrected form for hoied (*/hō(d)+di̭ē(d)/) consequent to the the Middle Faliscan change */#fV/ > [#hV]</tei:p>
+                </tei:note>
+                <tei:note target="#Fal_45_l_1_w_3">
+                    <tei:p>The verbal forms <tei:rs type="w" corresp="#Fal_45_l_1_w_3" xml:lang="xfa-Ital-x-xfafal">pipafo</tei:rs> and <tei:rs type="w" corresp="#Fal_46_l_1_w_3" xml:lang="xfa-Ital-x-xfafal">pafo</tei:rs> have been largely debated by scholars. Essentially, they have been considered and variously explained as two concomitant forms (see, for example, <tei:ref target="http://zotero.org/groups/2552746/items/USHGF3E7"><tei:bibl>Giacomelli 1963</tei:bibl></tei:ref>) or, alternatively, pafo has been interpreted as an error for pipafo (see, for example, <tei:ref target="http://zotero.org/groups/2552746/items/84FQ2UI4"><tei:bibl>Bakkum 2009</tei:bibl></tei:ref>, <tei:ref target="http://zotero.org/groups/2552746/items/37UB6ZHR"><tei:bibl>Rigobianco 2017</tei:bibl></tei:ref> and references therein)</tei:p>
+                </tei:note>
+                <tei:note target="#Fal45">
+                    <tei:p>The same text is attested in a Latin inscription, albeit fragmentary, painted on a kylix found in the Palatine (see <tei:ref target="http://zotero.org/groups/2552746/items/TKK44WCX"><tei:bibl>Ferrandes, Nonnis, and Pola 2021</tei:bibl></tei:ref>).</tei:p>
+                </tei:note>
+                    <tei:listPerson type="Onomastics">
+                        <tei:person></tei:person>
+                    </tei:listPerson>
+            </tei:div>
+            <tei:div type="bibliography">
+                <tei:listBibl xmlns="http://www.tei-c.org/ns/1.0">
+                    <tei:biblStruct type="book" xml:id="Vetter1953" sameAs="http://zotero.org/groups/2552746/items/NJFZRK23">
+                        <tei:monogr>
+                            <tei:title level="m">Handbuch der italischen Dialekte</tei:title>
+                            <tei:author>
+                                <tei:forename>Emil</tei:forename>
+                                <tei:surname>Vetter</tei:surname>
+                            </tei:author>
+                            <tei:imprint>
+                                <tei:pubPlace>Heidelberg</tei:pubPlace>
+                                <tei:publisher>C. Winter</tei:publisher>
+                                <tei:date>1953</tei:date>
+                            </tei:imprint>
+                            <tei:biblScope unit="page">287-288</tei:biblScope>
+                        </tei:monogr>
+                    </tei:biblStruct>
+                    <tei:biblStruct type="book" xml:id="Giacomelli1963" sameAs="http://zotero.org/groups/2552746/items/USHGF3E7">
+                        <tei:monogr>
+                            <tei:title level="m">La lingua falisca</tei:title>
+                            <tei:author>
+                                <tei:forename>Gabriella</tei:forename>
+                                <tei:surname>Giacomelli</tei:surname>
+                            </tei:author>
+                            <tei:imprint>
+                                <tei:pubPlace>Firenze</tei:pubPlace>
+                                <tei:publisher>Leo S. Olschki Editore</tei:publisher>
+                                <tei:date>1963</tei:date>
+                            </tei:imprint>
+                            <tei:biblScope unit="page">49-50</tei:biblScope>
+                        </tei:monogr>
+                    </tei:biblStruct>
+                    <tei:biblStruct type="article" xml:id="Bonfante1966" sameAs="http://zotero.org/groups/2552746/items/QY9BTP3H">
+                        <tei:analytic>
+                            <tei:title level="a">Il Valore della léttera z in falisco</tei:title>
+                            <tei:author>
+                                <tei:forename>Giuliano</tei:forename>
+                                <tei:surname>Bonfante</tei:surname>
+                            </tei:author>
+                        </tei:analytic>
+                        <tei:monogr>
+                            <tei:title level="j">Archivio Glottologico Italiano</tei:title>
+                            <tei:imprint>
+                                <tei:pubPlace>Torino</tei:pubPlace>
+                                <tei:publisher>E. Loescher</tei:publisher>
+                                <tei:date>1966</tei:date>
+                            </tei:imprint>
+                            <tei:biblScope unit="volume">51</tei:biblScope>
+                            <tei:biblScope unit="page">1-25</tei:biblScope>
+                        </tei:monogr>
+                    </tei:biblStruct>
+                    <tei:biblStruct type="book" xml:id="Bakkum2009" sameAs="https://www.zotero.org/groups/2552746/items/84FQ2UI4">
+                        <tei:monogr>
+                            <tei:title level="m">The Latin Dialect of the Ager Faliscus. 150 Years of Scholarship</tei:title>
+                            <tei:author>
+                                <tei:forename>Gabriël C. L. M.</tei:forename>
+                                <tei:surname>Bakkum</tei:surname>
+                            </tei:author>
+                            <tei:imprint>
+                                <tei:pubPlace>Amsterdam</tei:pubPlace>
+                                <tei:publisher>Amsterdam University Press</tei:publisher>
+                                <tei:date>2009</tei:date>
+                            </tei:imprint>
+                            <tei:biblScope unit="page">434-435</tei:biblScope>
+                        </tei:monogr>
+                    </tei:biblStruct>
+                    <tei:biblStruct type="article" xml:id="Rigobianco2017" sameAs="http://zotero.org/groups/2552746/items/37UB6ZHR">
+                        <tei:analytic>
+                            <tei:title level="a">Vetter 244a e b. Un (altro) gioco di parole da Falerii Veteres e l'alternanza pipafo/pafo</tei:title>
+                            <tei:author>
+                                <tei:forename>Luca</tei:forename>
+                                <tei:surname>Rigobianco</tei:surname>
+                            </tei:author>
+                        </tei:analytic>
+                        <tei:monogr>
+                            <tei:title level="j">Studi Etruschi</tei:title>
+                            <tei:imprint>
+                                <tei:pubPlace>Roma</tei:pubPlace>
+                                <tei:publisher>Giorgio Bretschneider editore</tei:publisher>
+                                <tei:date>2017</tei:date>
+                            </tei:imprint>
+                            <tei:biblScope unit="issue">78</tei:biblScope>
+                            <tei:biblScope unit="page">173-194</tei:biblScope>
+                        </tei:monogr>
+                    </tei:biblStruct>
+                </tei:listBibl>
+            </tei:div>
+        </tei:body>
+    </tei:text>
+</tei:TEI>

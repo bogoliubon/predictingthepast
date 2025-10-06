@@ -1,0 +1,261 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://epidoc.stoa.org/schema/9.4/tei-epidoc.rng"
+schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://epidoc.stoa.org/schema/9.4/tei-epidoc.rng"
+schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<tei:TEI xml:id="ItAnt_Faliscan_62" xmlns:dcr="http://www.isocat.org/ns/dcr" xmlns:tei="http://www.tei-c.org/ns/1.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <tei:teiHeader>
+        <tei:fileDesc>
+            <tei:titleStmt>
+                <tei:title>Inscription ItAnt_Faliscan_62</tei:title>
+           </tei:titleStmt>            
+            <tei:editionStmt>
+                <tei:edition>
+                    <tei:idno>ItAnt_Faliscan_62</tei:idno>
+                </tei:edition>              
+                <tei:editor>
+                    <tei:persName>Greta Mozzato</tei:persName>
+                </tei:editor>
+            </tei:editionStmt>
+            <tei:publicationStmt>
+                <tei:authority>PRIN 2017 "Lingue e culture dell'Italia antica: linguistica storica e modelli digitali | Languages and Cultures of Ancient Italy. Historical Linguistics and Digital Models"</tei:authority>
+                <tei:date>2023</tei:date>
+                <tei:idno type="URI" subtype="handle"><!-- verrà riempito in automatico dopo l'inserimento in CLARIN --></tei:idno>
+                <tei:availability>
+                    <tei:licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">This file is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International license – (CC BY-NC-SA 4.0).</tei:licence>
+                </tei:availability>
+            </tei:publicationStmt>
+            <tei:sourceDesc>               
+                <tei:msDesc>
+                    <tei:msIdentifier>
+                        <tei:settlement ref="https://www.geonames.org/3178595">Civita Castellana</tei:settlement>
+                        <tei:institution></tei:institution>
+                        <tei:idno type="museumID"></tei:idno>
+                        <tei:msName></tei:msName>
+                        <tei:altIdentifier type="trismegistos">
+                            <tei:idno source="https://www.trismegistos.org/text/828928">TM 828928</tei:idno>
+                            <tei:idno source="http://zotero.org/groups/2552746/items/NJFZRK23">Ve 252</tei:idno>
+                        </tei:altIdentifier>
+                        <tei:altIdentifier type="traditionaID">
+                            <tei:idno source="http://zotero.org/groups/2552746/items/USHGF3E7">Giacomelli 24 IV</tei:idno>
+                        </tei:altIdentifier>
+                        <tei:altIdentifier type="traditionalID">
+                            <tei:idno source="http://zotero.org/groups/2552746/items/84FQ2UI4">Bakkum 25</tei:idno>
+                        </tei:altIdentifier>
+                    </tei:msIdentifier>
+                    <tei:msContents>
+                        <tei:summary>
+                            <tei:p>ownership inscription</tei:p>
+                        </tei:summary>
+                    </tei:msContents>
+                    <tei:physDesc>
+                        <tei:objectDesc>
+                            <tei:supportDesc>
+                                <tei:support>
+                                    <tei:objectType ana="http://vocab.getty.edu/page/aat/300195535">saucer</tei:objectType>
+                                    <tei:rs type="objectShape"></tei:rs>
+                                    <tei:note>The same inscription is written on six similar red clay saucers</tei:note>
+                                    <tei:material ana="http://vocab.getty.edu/page/aat/300010439">clay</tei:material>
+                                    <tei:dimensions type="objectDimensions" unit="cm" precision="high">
+                                        <tei:height></tei:height>
+                                        <tei:width></tei:width>
+                                        <tei:depth></tei:depth>
+                                        <tei:dim type="diameter">12</tei:dim> 
+                                    </tei:dimensions>
+                                    <tei:rs type="reuse">no</tei:rs>
+                                </tei:support>
+                               <tei:condition>well-preserved
+                                   <tei:note></tei:note>
+                               </tei:condition>    
+                            </tei:supportDesc>
+                            <tei:layoutDesc>
+                                <tei:layout columns="1" writtenLines="1">
+                                    <tei:rs type="execution" ana="http://vocab.getty.edu/page/aat/300379457">scratched</tei:rs>
+                                    <tei:rs type="opistography">no</tei:rs>                 
+                                    <tei:note type="layoutNotes"></tei:note>
+                                    <tei:dimensions type="lineDimension" unit="cm" precision="high">
+                                        <tei:height></tei:height>
+                                        <tei:width></tei:width>
+                                    </tei:dimensions> 
+                                </tei:layout>
+                            </tei:layoutDesc>
+                        </tei:objectDesc>
+                        <tei:handDesc>
+                            <tei:handNote>
+                                <tei:note type="palaeographicNotes">Letters measure 0,5-1,5 cm in height</tei:note>
+                                <tei:note type="palaeographicNotes">The letter r has an Etrucan shape</tei:note>
+                          </tei:handNote>
+                        </tei:handDesc>
+                        <tei:scriptDesc>   
+                            <tei:scriptNote>
+                                <tei:rs type="writingSystem" subtype="alphabet" ref="https://www.prin-italia-antica.unifi.it/p215.html">Faliscan alphabet</tei:rs>
+                                <tei:rs type="wordDivision">
+                                    <tei:rs type="syllabicPuntuactionSimplification"></tei:rs>                               
+                                    <tei:rs type="syllabicPuntuactionApplication"></tei:rs>
+                                </tei:rs>                                    
+                            </tei:scriptNote>                                                     
+                        </tei:scriptDesc>
+                        <tei:decoDesc>
+                            <tei:decoNote></tei:decoNote>
+                        </tei:decoDesc>
+                    </tei:physDesc>
+                    <tei:history>
+                        <tei:origin>
+                            <tei:origPlace type="composed">
+                                <tei:placeName type="ancient" ref="https://pleiades.stoa.org/places/413126">Falerii Veteres</tei:placeName>
+                                <tei:placeName type="modern" ref="https://www.geonames.org/3178595">Civita Castellana</tei:placeName>
+                            </tei:origPlace>
+                            <tei:origDate notBefore-custom="-0399" notAfter-custom="-0240" cert="medium">399-240 BC</tei:origDate>
+                        </tei:origin>
+                        <tei:provenance type="found" subtype="discovered" when="1888">
+                            <tei:placeName type="ancient" ref="https://pleiades.stoa.org/places/413126">Falerii Veteres</tei:placeName>
+                            <tei:placeName type="modern" ref="https://www.geonames.org/3178595">Civita Catellana</tei:placeName>
+                            <tei:placeName type="detailed">Contrada Celle necropolis</tei:placeName>
+                            <tei:persName></tei:persName>
+                        </tei:provenance>
+                        <tei:provenance type="observed" subtype="autopsied" notAfter-custom="1907">
+                            <tei:persName>Carl Thulin</tei:persName>
+                        </tei:provenance>
+                        <tei:provenance type="observed" subtype="seen" when="2023">
+                            <tei:persName>Luca Rigobianco</tei:persName>
+                        </tei:provenance>
+                    </tei:history>
+                </tei:msDesc>
+            </tei:sourceDesc>
+        </tei:fileDesc>
+        <tei:encodingDesc>
+            <tei:p source="https://epidoc.stoa.org/gl/latest/">Marked-up according to the EpiDoc Guidelines</tei:p>
+        </tei:encodingDesc>
+        <tei:profileDesc>
+            <tei:langUsage> 
+                <tei:language ident="xfa" source="https://iso639-3.sil.org/code/xfa">Faliscan</tei:language>            
+                <tei:language ident="xfa-Ital-x-xfafal" source="https://www.prin-italia-antica.unifi.it/p215.html" ana="https://unicode.org/iso15924/iso15924-codes.html">Faliscan in Faliscan alphabet</tei:language>
+            </tei:langUsage>
+            <tei:textClass>
+                <tei:keywords scheme="https://www.eagle-network.eu/resources/vocabularies/typeins/">
+                    <tei:term ref="https://www.eagle-network.eu/voc/typeins/lod/314">ownership inscription</tei:term>
+                </tei:keywords>
+            </tei:textClass>
+        </tei:profileDesc>
+    </tei:teiHeader>
+    <tei:facsimile>
+        <tei:graphic n="1" url="www.www.www">
+            <tei:desc><tei:ref type="licence"
+                    target="https://creativecommons.org/licenses/by-nc-sa/4.0/">This file is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International license – (CC BY-NC-SA 4.0).</tei:ref>
+            </tei:desc>
+        </tei:graphic>
+    </tei:facsimile>
+    <tei:text>
+        <tei:body>
+            <tei:div type="edition" subtype="interpretative" xml:space="preserve">
+                <tei:div type="textpart" n="face_a" style="text-direction:r-to-l" rend="ductus:sinistrorse">
+                    <tei:ab>                                
+                        <tei:lb n="1" xml:id="Fal_62_l_1"/>
+                        <!-- Leida;Fal_62_l_1_w_1;turia -->
+                            <tei:name type="gentilicium" xml:id="Fal_62_l_1_w_1" xml:lang="xfa-Ital-x-xfafal" ref="#p1">turia</tei:name>              
+                    </tei:ab>
+                </tei:div>
+            </tei:div>
+            <tei:div type="translation" xml:lang="ita">
+                <tei:p>Turia</tei:p>
+                <tei:desc>
+                    <tei:persName>Greta Mozzato</tei:persName>
+                    <tei:ref type="licence" target="http://creativecommons.org/licenses/by-sa/4.0/">This file is licensed under the Creative Commons Attribution-ShareAlike 4.0 license.</tei:ref>
+                </tei:desc>
+            </tei:div>
+            <tei:div type="translation" xml:lang="eng">
+                <tei:p>Turia</tei:p>
+                <tei:desc>
+                    <tei:persName>Greta Mozzato</tei:persName>
+                    <tei:ref type="licence" target="http://creativecommons.org/licenses/by-sa/4.0/">This file is licensed under the Creative Commons Attribution-ShareAlike 4.0 license.</tei:ref>
+                </tei:desc>
+            </tei:div>
+            <tei:div type="apparatus" xml:lang="eng" resp="GretaMozzato">
+                <tei:listApp>
+                    <tei:app></tei:app>    
+                </tei:listApp>
+            </tei:div>
+            <tei:div type="commentary" xml:lang="eng" resp="GretaMozzato">
+                <tei:note target="#Fal_62_l_1_w_1">
+                    <tei:p><tei:rs type="name" corresp="#Fal_62_l_1_w_1" xml:lang="xfa-Ital-x-xfafal">Turia</tei:rs> is a gentilicium in the nominative case</tei:p> 
+                </tei:note>
+                    <tei:listPerson type="Onomastics">
+                        <tei:person xml:id="p1" xml:lang="xfa-Ital-x-xfafal">
+                            <tei:persName>
+                                <tei:name type="gentilicium">Turia</tei:name>
+                            </tei:persName>
+                        </tei:person>
+                    </tei:listPerson>
+            </tei:div>
+            <tei:div type="bibliography">
+                <tei:listBibl xmlns="http://www.tei-c.org/ns/1.0">
+                    <tei:biblStruct type="article" xml:id="Thulin1907" sameAs="https://www.zotero.org/groups/2552746/items/AS7ZIHVI">
+                        <tei:analytic>
+                            <tei:title level="a">Faliskische Inschriften</tei:title>
+                            <tei:author>
+                                <tei:forename>Carl</tei:forename>
+                                <tei:surname>Thulin</tei:surname>
+                            </tei:author>
+                        </tei:analytic>
+                        <tei:monogr>
+                            <tei:title level="j">Mitteilungen des Deutschen Archäologischen Instituts (Röm. Abt.)</tei:title>
+                            <tei:imprint>
+                                <tei:pubPlace>Münchner</tei:pubPlace>
+                                <tei:publisher>Bisher F. Bruckmann Verlag</tei:publisher>
+                                <tei:date>1907</tei:date>
+                            </tei:imprint>
+                            <tei:biblScope unit="issue">22</tei:biblScope>
+                            <tei:biblScope unit="page">255-310</tei:biblScope>
+                        </tei:monogr>
+                    </tei:biblStruct>
+                    <tei:biblStruct type="book" xml:id="Vetter1953" sameAs="http://zotero.org/groups/2552746/items/NJFZRK23">
+                        <tei:monogr>
+                            <tei:title level="m">Handbuch der italischen Dialekte</tei:title>
+                            <tei:author>
+                                <tei:forename>Emil</tei:forename>
+                                <tei:surname>Vetter</tei:surname>
+                            </tei:author>
+                            <tei:imprint>
+                                <tei:pubPlace>Heidelberg</tei:pubPlace>
+                                <tei:publisher>C. Winter</tei:publisher>
+                                <tei:date>1953</tei:date>
+                            </tei:imprint>
+                            <tei:biblScope unit="page">290</tei:biblScope>
+                        </tei:monogr>
+                    </tei:biblStruct>
+                    <tei:biblStruct type="book" xml:id="Giacomelli1963" sameAs="http://zotero.org/groups/2552746/items/USHGF3E7">
+                        <tei:monogr>
+                            <tei:title level="m">La lingua falisca</tei:title>
+                            <tei:author>
+                                <tei:forename>Gabriella</tei:forename>
+                                <tei:surname>Giacomelli</tei:surname>
+                            </tei:author>
+                            <tei:imprint>
+                                <tei:pubPlace>Firenze</tei:pubPlace>
+                                <tei:publisher>Leo S. Olschki Editore</tei:publisher>
+                                <tei:date>1963</tei:date>
+                            </tei:imprint>
+                            <tei:biblScope unit="page">57</tei:biblScope>
+                        </tei:monogr>
+                    </tei:biblStruct>
+                    <tei:biblStruct type="book" xml:id="Bakkum2009" sameAs="https://www.zotero.org/groups/2552746/items/84FQ2UI4">
+                        <tei:monogr>
+                            <tei:title level="m">The Latin Dialect of the Ager Faliscus. 150 Years of Scholarship</tei:title>
+                            <tei:author>
+                                <tei:forename>Gabriël C. L. M.</tei:forename>
+                                <tei:surname>Bakkum</tei:surname>
+                            </tei:author>
+                            <tei:imprint>
+                                <tei:pubPlace>Amsterdam</tei:pubPlace>
+                                <tei:publisher>Amsterdam University Press</tei:publisher>
+                                <tei:date>2009</tei:date>
+                            </tei:imprint>
+                            <tei:biblScope unit="page">423</tei:biblScope>
+                        </tei:monogr>
+                    </tei:biblStruct>
+                </tei:listBibl>
+            </tei:div>
+        </tei:body>
+    </tei:text>
+</tei:TEI>

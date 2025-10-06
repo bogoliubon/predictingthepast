@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://epidoc.stoa.org/schema/9.4/tei-epidoc.rng"
+schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://epidoc.stoa.org/schema/9.4/tei-epidoc.rng"
+schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<tei:TEI xml:id="ItAnt_Faliscan_27" xmlns:dcr="http://www.isocat.org/ns/dcr" xmlns:tei="http://www.tei-c.org/ns/1.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <tei:teiHeader>
+        <tei:fileDesc>
+            <tei:titleStmt>
+                <tei:title>Inscription ItAnt_Faliscan_27</tei:title>
+           </tei:titleStmt>            
+            <tei:editionStmt>
+                <tei:edition>
+                    <tei:idno>ItAnt_Faliscan_27</tei:idno>
+                </tei:edition>              
+                <tei:editor>
+                    <tei:persName>Greta Mozzato</tei:persName>
+                </tei:editor>
+            </tei:editionStmt>
+            <tei:publicationStmt>
+                <tei:authority>PRIN 2017 "Lingue e culture dell'Italia antica: linguistica storica e modelli digitali | Languages and Cultures of Ancient Italy. Historical Linguistics and Digital Models"</tei:authority>
+                <tei:date>2023</tei:date>
+                <tei:idno type="URI" subtype="handle"><!-- verrà riempito in automatico dopo l'inserimento in CLARIN --></tei:idno>
+                <tei:availability>
+                    <tei:licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">This file is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International license – (CC BY-NC-SA 4.0).</tei:licence>
+                </tei:availability>
+            </tei:publicationStmt>
+            <tei:sourceDesc>               
+                <tei:msDesc>
+                    <tei:msIdentifier>
+                        <tei:settlement ref="https://www.geonames.org/3178595">Civita Castellana</tei:settlement>
+                        <tei:institution></tei:institution>
+                        <tei:idno type="museumID"></tei:idno>
+                        <tei:msName></tei:msName>
+                        <tei:altIdentifier type="trismegistos">
+                            <tei:idno source="www.trismegistos.org/text/828943">TM 828943</tei:idno>
+                        </tei:altIdentifier>
+                        <tei:altIdentifier type="traditionalID">
+                            <tei:idno source="http://zotero.org/groups/2552746/items/USHGF3E7">Giacomelli 88</tei:idno>
+                        </tei:altIdentifier>
+                        <tei:altIdentifier type="traditionalID">
+                            <tei:idno source="http://zotero.org/groups/2552746/items/84FQ2UI4">Bakkum 40</tei:idno>
+                        </tei:altIdentifier>
+                    </tei:msIdentifier>
+                    <tei:msContents>
+                        <tei:summary>
+                            <tei:p>funerary inscription</tei:p>
+                        </tei:summary>
+                    </tei:msContents>
+                    <tei:physDesc>
+                        <tei:objectDesc>
+                            <tei:supportDesc>
+                                <tei:support>
+                                    <tei:objectType ana="http://vocab.getty.edu/page/aat/300001788">cornice</tei:objectType>
+                                    <tei:rs type="objectShape"></tei:rs>
+                                    <tei:note></tei:note>
+                                    <tei:material ana="http://vocab.getty.edu/page/aat/300011176">stone</tei:material>
+                                    <tei:dimensions type="objectDimensions" unit="cm" precision="high">
+                                        <tei:height></tei:height>
+                                        <tei:width></tei:width>
+                                        <tei:depth></tei:depth>
+                                        <tei:dim type="diameter"></tei:dim> 
+                                    </tei:dimensions>
+                                    <tei:rs type="reuse">no</tei:rs>
+                                </tei:support>
+                               <tei:condition>fragmentary
+                                   <tei:note>The first portion of the inscription was lost due to the cave in of the cornice</tei:note>
+                               </tei:condition>    
+                            </tei:supportDesc>
+                            <tei:layoutDesc>
+                                <tei:layout columns="1" writtenLines="1">
+                                    <tei:rs type="execution" ana="http://vocab.getty.edu/page/aat/300053069">cut</tei:rs> 
+                                    <tei:rs type="opistography">no</tei:rs>                 
+                                    <tei:note type="layoutNotes"></tei:note>
+                                    <tei:dimensions type="lineDimension" unit="cm" precision="high">
+                                        <tei:height></tei:height>
+                                        <tei:width></tei:width>
+                                    </tei:dimensions> 
+                                </tei:layout>
+                            </tei:layoutDesc>
+                        </tei:objectDesc>
+                        <tei:handDesc>
+                            <tei:handNote>
+                                <tei:note type="palaeographicNotes"></tei:note>
+                          </tei:handNote>
+                        </tei:handDesc>
+                        <tei:scriptDesc>   
+                            <tei:scriptNote>
+                                <tei:rs type="writingSystem" subtype="alphabet" ref="https://www.prin-italia-antica.unifi.it/p215.html">Faliscan alphabet</tei:rs>
+                                <tei:rs type="wordDivision">punctuation
+                                    <tei:rs type="syllabicPuntuactionSimplification"></tei:rs>                               
+                                    <tei:rs type="syllabicPuntuactionApplication"></tei:rs>
+                                </tei:rs>                                    
+                            </tei:scriptNote>                                                     
+                        </tei:scriptDesc>
+                        <tei:decoDesc>
+                            <tei:decoNote></tei:decoNote>
+                        </tei:decoDesc>
+                    </tei:physDesc>
+                    <tei:history>
+                        <tei:origin>
+                            <tei:origPlace type="composed">
+                                <tei:placeName type="ancient" ref="https://pleiades.stoa.org/places/413126">Falerii Veteres</tei:placeName>
+                                <tei:placeName type="modern" ref="https://www.geonames.org/3178595">Civita Castellana</tei:placeName>
+                            </tei:origPlace>
+                            <tei:origDate notBefore-custom="-0399" notAfter-custom="-0240" cert="medium">399-240 BC</tei:origDate>
+                        </tei:origin>
+                        <tei:provenance type="found" subtype="discovered" notBefore-custom="1950">
+                            <tei:placeName type="ancient" ref="https://pleiades.stoa.org/places/413126">Falerii Veteres</tei:placeName>
+                            <tei:placeName type="modern" ref="https://www.geonames.org/3178595">Civita Castellana</tei:placeName>
+                            <tei:placeName type="detailed">Contrada Celle necropolis</tei:placeName>
+                            <tei:persName></tei:persName>
+                        </tei:provenance>
+                        <tei:provenance type="observed" subtype="autopsied" when="1963">
+                            <tei:persName>Gabriella Giacomelli</tei:persName>
+                        </tei:provenance>
+                    </tei:history>
+                </tei:msDesc>
+            </tei:sourceDesc>
+        </tei:fileDesc>
+        <tei:encodingDesc>
+            <tei:p source="https://epidoc.stoa.org/gl/latest/">Marked-up according to the EpiDoc Guidelines</tei:p>
+        </tei:encodingDesc>
+        <tei:profileDesc>
+            <tei:langUsage> 
+                <tei:language ident="xfa" source="https://iso639-3.sil.org/code/xfa">Faliscan</tei:language>            
+                <tei:language ident="xfa-Ital-x-xfafal" source="https://www.prin-italia-antica.unifi.it/p215.html" ana="https://unicode.org/iso15924/iso15924-codes.html">Faliscan in Faliscan alphabet</tei:language>
+            </tei:langUsage>
+            <tei:textClass>
+                <tei:keywords scheme="https://www.eagle-network.eu/resources/vocabularies/typeins/">
+                    <tei:term ref="https://www.eagle-network.eu/voc/typeins/lod/92">funerary inscription</tei:term>
+                </tei:keywords>
+            </tei:textClass>
+        </tei:profileDesc>
+    </tei:teiHeader>
+    <tei:facsimile>
+        <tei:graphic n="1" url="www.www.www">
+            <tei:desc><tei:ref type="licence"
+                    target="https://creativecommons.org/licenses/by-nc-sa/4.0/">This file is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International license – (CC BY-NC-SA 4.0).</tei:ref>
+            </tei:desc>
+        </tei:graphic>
+    </tei:facsimile>
+    <tei:text>
+        <tei:body>
+            <tei:div type="edition" subtype="interpretative" xml:space="preserve">
+                <tei:div type="textpart" n="face_a" style="text-direction:r-to-l" rend="ductus:sinistrorse">
+                    <tei:ab>                                
+                        <tei:lb n="1" xml:id="Fal_27_l_1"/>
+                        <!-- Leida; Fal_27_l_1_w_1;]o -->
+                             <tei:gap reason="lost" extent="unknown" unit="character"></tei:gap>o
+                        <!-- Leida;Fal_27_l_1_w_2;c̣icio -->
+                            <tei:name type="gentilicium" xml:id="Fal_27_l_1_w_2" xml:lang="xfa-Ital-x-xfafal" ref="#p1"><tei:unclear>c</tei:unclear>icio</tei:name><tei:pc unit="word">.</tei:pc>
+                        <!-- Leida;Fal_27_l_1_w_3;cicoi -->
+                            <tei:name type="praenomen" xml:id="Fal_27_l_1_w_3" xml:lang="xfa-Ital-x-xfafal" ref="#p2">cicoi</tei:name><tei:pc unit="word">:</tei:pc>
+                        <!-- Leida;Fal_27_l_1_w_4;cupạṭ -->
+                            <tei:w xml:id="Fal_27_l_1_w_4" xml:lang="xfa-Ital-x-xfafal">cup<tei:unclear>at</tei:unclear></tei:w><tei:pc unit="word">:</tei:pc>
+                        <!-- Leida;Fal_27_l_1_w_5;ifra -->
+                            <tei:w xml:id="Fal_27_l_1_w_5" xml:lang="xfa-Ital-x-xfafal">ifra</tei:w>
+                    </tei:ab>
+                </tei:div>
+            </tei:div>
+            <tei:div type="translation" xml:lang="ita">
+                <tei:p>]o Cicio (figlio) di Cico giace sotto</tei:p>
+                <tei:desc>
+                    <tei:persName>Greta Mozzato</tei:persName>
+                    <tei:ref type="licence" target="http://creativecommons.org/licenses/by-sa/4.0/">This file is licensed under the Creative Commons Attribution-ShareAlike 4.0 license.</tei:ref>
+                </tei:desc>
+            </tei:div>
+            <tei:div type="translation" xml:lang="eng">
+                <tei:p>]o Cicio Cico's (son) lies below</tei:p>
+                <tei:desc>
+                    <tei:persName>Greta Mozzato</tei:persName>
+                    <tei:ref type="licence" target="http://creativecommons.org/licenses/by-sa/4.0/">This file is licensed under the Creative Commons Attribution-ShareAlike 4.0 license.</tei:ref>
+                </tei:desc>
+            </tei:div>
+            <tei:div type="apparatus" xml:lang="eng" resp="GretaMozzato">
+                <tei:listApp>
+                    <tei:app from="#Fal_27_l_1">
+                        <tei:lem corresp="#Fal_27_l_1_w_2">c̣icio <tei:ref target="http://zotero.org/groups/2552746/items/USHGF3E7">Giacomelli 1963<tei:bibl></tei:bibl></tei:ref></tei:lem>
+                        <tei:rdg corresp="#Fal_27_l_1_w_2">cicio <tei:ref target="http://zotero.org/groups/2552746/items/84FQ2UI4"><tei:bibl>Bakkum 2009</tei:bibl></tei:ref></tei:rdg>
+                    </tei:app>
+                    <tei:app from="#Fal_27_l_1">
+                        <tei:lem corresp="#Fal_27_l_1_w_4">cupạṭ <tei:ref target="http://zotero.org/groups/2552746/items/USHGF3E7">Giacomelli 1963<tei:bibl></tei:bibl></tei:ref></tei:lem>
+                        <tei:rdg corresp="#Fal_27_l_1_w_4">cupat <tei:ref target="http://zotero.org/groups/2552746/items/84FQ2UI4"><tei:bibl>Bakkum 2009</tei:bibl></tei:ref></tei:rdg>
+                    </tei:app>
+                </tei:listApp>
+            </tei:div>
+            <tei:div type="commentary" xml:lang="eng" resp="GretaMozzato">
+                <tei:note target="#Fal_27_l_1_w_2">
+                    <tei:p><tei:ref target="http://zotero.org/groups/2552746/items/USHGF3E7"><tei:bibl>Giacomelli 1963</tei:bibl></tei:ref> interpreted <tei:rs type="name" corresp="#Fal_27_l_1_w_2" xml:lang="xfa-Ital-x-xfafal">cicio</tei:rs> as connected with the preceeding -o. Thus, she interpreted ]ocicio as the last part of a masculine gentilicium. <tei:ref target="http://zotero.org/groups/2552746/items/84FQ2UI4"><tei:bibl>Bakkum 2009</tei:bibl></tei:ref> suggested that the first part of the text (]ocicio) could be divided in two words, that is to say that -o could be interpreted as the final letter of a praenomen while <tei:rs type="name" corresp="#Fal_27_l_1_w_2" xml:lang="xfa-Ital-x-xfafal">cicio</tei:rs> could be interpreted as the corresponding form for Latin <tei:rs type="name" xml:lang="lat-Latn">Cincius</tei:rs></tei:p> 
+                </tei:note>
+                <tei:note target="#Fal_27_l_1_w_3">
+                    <tei:p><tei:ref target="http://zotero.org/groups/2552746/items/USHGF3E7"><tei:bibl>Giacomelli 1963</tei:bibl></tei:ref> interpreted <tei:rs type="name" corresp="#Fal_27_l_1_w_3" xml:lang="xfa-Ital-x-xfafal">cicoi</tei:rs> as the translation of a feminine Etruscan gentilicium <tei:rs type="name" xml:lang="ett-Ital">Cicui/Cicunia</tei:rs>. <tei:ref target="http://zotero.org/groups/2552746/items/84FQ2UI4"><tei:bibl>Bakkum 2009</tei:bibl></tei:ref> thought that it could better be interpreted as a genitive in -oi of the praenomen Ci(n)cus. Thus, the phrase could be like "...us Cincius son of Cincus"</tei:p>
+                </tei:note> 
+                <tei:note target="Fal_27_l_1_w_4">
+                    <tei:p>According to what was said previosly, <tei:ref target="http://zotero.org/groups/2552746/items/USHGF3E7"><tei:bibl>Giacomelli 1963</tei:bibl></tei:ref> thought that <tei:rs type="word" corresp="#Fal_27_l_1_w_4" xml:lang="xfa-Ital-x-xfafal">cupat</tei:rs> could be a present indicative third person plural form with the omission of the nasal, while <tei:ref target="http://zotero.org/groups/2552746/items/84FQ2UI4"><tei:bibl>Bakkum 2009</tei:bibl></tei:ref> thought that it could be a third singular form</tei:p> 
+                </tei:note>
+                    <tei:listPerson type="Onomastics">
+                        <tei:person xml:id="p1" xml:lang="xfa-Ital-x-xfafal">
+                            <tei:persName>
+                                <tei:name type="gentilicum">cicio</tei:name>
+                            </tei:persName>
+                        </tei:person>
+                        <tei:person xml:id="p2" xml:lang="xfa-Ital-x-xfafal">
+                            <tei:persName>
+                                <tei:name type="praenomen">cicoi</tei:name>
+                            </tei:persName>
+                        </tei:person>
+                    </tei:listPerson>
+            </tei:div>
+            <tei:div type="bibliography">
+                <tei:listBibl xmlns="http://www.tei-c.org/ns/1.0">
+                    <tei:biblStruct type="book" xml:id="Giacomelli1963" sameAs="http://zotero.org/groups/2552746/items/USHGF3E7">
+                        <tei:monogr>
+                            <tei:title level="m">La lingua falisca</tei:title>
+                            <tei:author>
+                                <tei:forename>Gabriella</tei:forename>
+                                <tei:surname>Giacomelli</tei:surname>
+                            </tei:author>
+                            <tei:imprint>
+                                <tei:pubPlace>Firenze</tei:pubPlace>
+                                <tei:publisher>Leo S. Olschki Editore</tei:publisher>
+                                <tei:date>1963</tei:date>
+                            </tei:imprint>
+                            <tei:biblScope unit="page">84</tei:biblScope>
+                        </tei:monogr>
+                    </tei:biblStruct>
+                    <tei:biblStruct type="book" xml:id="Bakkum2009" sameAs="https://www.zotero.org/groups/2552746/items/84FQ2UI4">
+                        <tei:monogr>
+                            <tei:title level="m">The Latin Dialect of the Ager Faliscus. 150 Years of Scholarship</tei:title>
+                            <tei:author>
+                                <tei:forename>Gabriël C. L. M.</tei:forename>
+                                <tei:surname>Bakkum</tei:surname>
+                            </tei:author>
+                            <tei:imprint>
+                                <tei:pubPlace>Amsterdam</tei:pubPlace>
+                                <tei:publisher>Amsterdam University Press</tei:publisher>
+                                <tei:date>2009</tei:date>
+                            </tei:imprint>
+                            <tei:biblScope unit="page">426-427</tei:biblScope>
+                        </tei:monogr>
+                    </tei:biblStruct>
+                </tei:listBibl>
+            </tei:div>
+        </tei:body>
+    </tei:text>
+</tei:TEI>

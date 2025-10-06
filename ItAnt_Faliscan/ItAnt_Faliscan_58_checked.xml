@@ -1,0 +1,343 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://epidoc.stoa.org/schema/9.4/tei-epidoc.rng"
+schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://epidoc.stoa.org/schema/9.4/tei-epidoc.rng"
+schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<tei:TEI xml:id="ItAnt_Faliscan_58" xmlns:dcr="http://www.isocat.org/ns/dcr" xmlns:tei="http://www.tei-c.org/ns/1.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <tei:teiHeader>
+        <tei:fileDesc>
+            <tei:titleStmt>
+                <tei:title>Inscription ItAnt_Faliscan_58</tei:title>
+            </tei:titleStmt>            
+            <tei:editionStmt>
+                <tei:edition>
+                    <tei:idno>ItAnt_Faliscan_58</tei:idno>
+                </tei:edition>              
+                <tei:editor>
+                    <tei:persName>Greta Mozzato</tei:persName>
+                </tei:editor>
+            </tei:editionStmt>
+            <tei:publicationStmt>
+                <tei:authority>PRIN 2017 "Lingue e culture dell'Italia antica: linguistica storica e modelli digitali | Languages and Cultures of Ancient Italy. Historical Linguistics and Digital Models"</tei:authority>
+                <tei:date>2023</tei:date>
+                <tei:idno type="URI" subtype="handle"><!-- verrà riempito in automatico dopo l'inserimento in CLARIN --></tei:idno>
+                <tei:availability>
+                    <tei:licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">This file is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International license – (CC BY-NC-SA 4.0).</tei:licence>
+                </tei:availability>
+            </tei:publicationStmt>
+            <tei:sourceDesc>               
+                <tei:msDesc>
+                    <tei:msIdentifier>
+                        <tei:settlement ref="https://www.geonames.org/3169070">Roma</tei:settlement>
+                        <tei:institution ana="https://www.museoetru.it/">ETRU Museo Nazionale Etrusco di Villa Giulia</tei:institution>
+                        <tei:idno type="museumID">12545</tei:idno>
+                        <tei:msName>Titus Mercus-dedication</tei:msName>
+                        <tei:altIdentifier type="trismegistos">
+                            <tei:idno source="www.trismegistos.org/text/829013">TM 829013</tei:idno>
+                        </tei:altIdentifier>
+                        <tei:altIdentifier type="traditionalID">
+                            <tei:idno source="http://zotero.org/groups/2552746/items/NJFZRK23">Ve 264 b</tei:idno>
+                        </tei:altIdentifier>
+                        <tei:altIdentifier type="traditionalID">
+                            <tei:idno source="http://zotero.org/groups/2552746/items/USHGF3E7">Giacomelli 15 II</tei:idno>
+                        </tei:altIdentifier>
+                        <tei:altIdentifier type="traditionalID">
+                            <tei:idno source="http://zotero.org/groups/2552746/items/84FQ2UI4">Bakkum 114</tei:idno>
+                        </tei:altIdentifier>
+                    </tei:msIdentifier>
+                    <tei:msContents>
+                        <tei:summary>
+                            <tei:p>Titus Mercus-dedication</tei:p>
+                        </tei:summary>
+                    </tei:msContents>
+                    <tei:physDesc>
+                        <tei:objectDesc>
+                            <tei:supportDesc>
+                                <tei:support>
+                                    <tei:objectType ana="http://vocab.getty.edu/page/aat/300043202">cup</tei:objectType>
+                                    <tei:rs type="objectShape"></tei:rs>
+                                    <tei:note>black-varnished 'Etrusco-Campanian' cup</tei:note>
+                                    <tei:material ana="http://vocab.getty.edu/page/aat/300010439">clay</tei:material>
+                                    <tei:dimensions type="objectDimensions" unit="cm" precision="high">
+                                        <tei:height>c. 12</tei:height>
+                                        <tei:width></tei:width>
+                                        <tei:depth></tei:depth>
+                                        <tei:dim type="diameter"></tei:dim> 
+                                    </tei:dimensions>
+                                    <tei:rs type="reuse">no</tei:rs>
+                                </tei:support>
+                                <tei:condition>well-preserved
+                                    <tei:note></tei:note>
+                                </tei:condition>    
+                            </tei:supportDesc>
+                            <tei:layoutDesc>
+                                <tei:layout columns="1" writtenLines="3">
+                                    <tei:rs type="execution" ana="http://vocab.getty.edu/page/aat/300033618">painted</tei:rs> 
+                                    <tei:rs type="opistography">no</tei:rs>                
+                                    <tei:note type="layoutNotes">The inscription is painted in yellow on the bottom of a black-varnished 'Etrusco-Campanian' cup</tei:note>
+                                    <tei:dimensions type="lineDimension" unit="cm" precision="high">
+                                        <tei:height></tei:height>
+                                        <tei:width></tei:width>
+                                    </tei:dimensions> 
+                                </tei:layout>
+                            </tei:layoutDesc>
+                        </tei:objectDesc>
+                        <tei:handDesc>
+                            <tei:handNote>
+                                <tei:note type="palaeographicNotes"></tei:note>
+                            </tei:handNote>
+                        </tei:handDesc>
+                        <tei:scriptDesc>   
+                            <tei:scriptNote>
+                                <tei:rs type="writingSystem" subtype="alphabet" ref="https://www.prin-italia-antica.unifi.it/p215.html">Faliscan alphabet</tei:rs>
+                                <tei:rs type="wordDivision">
+                                    <tei:rs type="syllabicPuntuactionSimplification"></tei:rs>                               
+                                    <tei:rs type="syllabicPuntuactionApplication"></tei:rs>
+                                </tei:rs>                                    
+                            </tei:scriptNote>                                                     
+                        </tei:scriptDesc>
+                        <tei:decoDesc>
+                            <tei:decoNote></tei:decoNote>
+                        </tei:decoDesc>
+                    </tei:physDesc>
+                    <tei:history>
+                        <tei:origin>
+                            <tei:origPlace type="composed">
+                                <tei:placeName type="ancient" ref="https://pleiades.stoa.org/places/413126">Falerii Veteres</tei:placeName>
+                                <tei:placeName type="modern" ref="https://www.geonames.org/3178595">Civita Castellana</tei:placeName>
+                            </tei:origPlace>
+                            <tei:origDate notBefore-custom="-0300" notAfter-custom="-0201" cert="medium">3rd century BC</tei:origDate>
+                        </tei:origin>
+                        <tei:provenance type="found" subtype="discovered" when="1902">
+                            <tei:placeName type="ancient" ref="https://pleiades.stoa.org/places/413126">Falerii Veteres</tei:placeName>
+                            <tei:placeName type="modern" ref="https://www.geonames.org/3178595">Civita Castellana</tei:placeName>
+                            <tei:placeName type="detailed">The temple ruins 'ai Sassi Caduti'</tei:placeName>
+                            <tei:persName></tei:persName>
+                        </tei:provenance>
+                        <tei:provenance type="observed" subtype="autopsied" notAfter-custom="1963">
+                            <tei:persName>Gabriella Giacomelli</tei:persName>
+                        </tei:provenance>
+                        <tei:provenance type="observed" subtype="autopsied" notAfter-custom="2009">
+                            <tei:persName>Gabriël C. L. M. Bakkum</tei:persName>
+                        </tei:provenance>
+                    </tei:history>
+                </tei:msDesc>
+            </tei:sourceDesc>
+        </tei:fileDesc>
+        <tei:encodingDesc>
+            <tei:p source="https://epidoc.stoa.org/gl/latest/">Marked-up according to the EpiDoc Guidelines</tei:p>
+        </tei:encodingDesc>
+        <tei:profileDesc>
+            <tei:langUsage> 
+                <tei:language ident="xfa" source="https://iso639-3.sil.org/code/xfa">Faliscan</tei:language>            
+                <tei:language ident="xfa-Ital-x-xfafal" source="https://www.prin-italia-antica.unifi.it/p215.html" ana="https://unicode.org/iso15924/iso15924-codes.html">Faliscan in Faliscan alphabet</tei:language>
+            </tei:langUsage>
+            <tei:textClass>
+                <tei:keywords scheme="https://www.eagle-network.eu/resources/vocabularies/typeins/">
+                    <tei:term ref="https://www.eagle-network.eu/voc/typeins/lod/372">votive inscription</tei:term>
+                </tei:keywords>
+            </tei:textClass>
+        </tei:profileDesc>
+    </tei:teiHeader>
+    <tei:facsimile>
+        <tei:graphic n="1" url="www.www.www">
+            <tei:desc><tei:ref type="licence"
+                target="https://creativecommons.org/licenses/by-nc-sa/4.0/">This file is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International license – (CC BY-NC-SA 4.0).</tei:ref>
+            </tei:desc>
+        </tei:graphic>
+    </tei:facsimile>
+    <tei:text>
+        <tei:body>
+            <tei:div type="edition" subtype="interpretative" xml:space="preserve">
+                <tei:div type="textpart" n="face_a" style="text-direction:r-to-l" rend="ductus:sinistrorse">
+                    <tei:ab>                               
+                        <tei:lb n="1" xml:id="Fal_58_l_1"/>
+                        <!-- Leida;Fal_58_l_1_w_1;tito -->
+                        <tei:name type="epiclesis" xml:id="Fal_58_l_1_w_1" xml:lang="xfa-Ital-x-xfafal" ref="#p1">tito</tei:name>
+                        <tei:lb n="2" xml:id="Fal_58_l_2"/>
+                        <!-- Leida;Fal_58_l_2_w_1;mercui -->
+                        <tei:name type="theonym" xml:id="Fal_58_l_2_w_1" xml:lang="xfa-Ital-x-xfafal" ref="#p1">mercui</tei:name>
+                        <tei:lb n="3" xml:id="Fal_58_l_3"/>
+                        <!-- Leida;Fal_58_l_3_w_1;efile -->
+                        <tei:w xml:id="Fal_58_l_3_w_1" xml:lang="xfa-Ital-x-xfafal">efile</tei:w>
+                    </tei:ab>
+                </tei:div>
+            </tei:div>
+            <tei:div type="translation" xml:lang="ita">
+                <tei:p>Gli edili (diedero) a Tito Mercu</tei:p>
+                <tei:desc>
+                    <tei:persName>Luca Rigobianco</tei:persName>
+                    <tei:ref type="licence" target="http://creativecommons.org/licenses/by-sa/4.0/">This file is licensed under the Creative Commons Attribution-ShareAlike 4.0 license.</tei:ref>
+                </tei:desc>
+            </tei:div>
+            <tei:div type="translation" xml:lang="eng">
+                <tei:p>The aediles (gave) to Tito Mercu</tei:p>
+                <tei:desc>
+                    <tei:persName>Luca Rigobianco</tei:persName>
+                    <tei:ref type="licence" target="http://creativecommons.org/licenses/by-sa/4.0/">This file is licensed under the Creative Commons Attribution-ShareAlike 4.0 license.</tei:ref>
+                </tei:desc>
+            </tei:div>
+            <tei:div type="apparatus" xml:lang="eng" resp="GretaMozzato">
+                <tei:listApp>
+                    <tei:app></tei:app>    
+                </tei:listApp>
+            </tei:div>
+            <tei:div type="commentary" xml:lang="eng" resp="GretaMozzato">
+                <tei:note target="#Fal_58">
+                    <tei:p>According to <tei:ref target="http://zotero.org/groups/2552746/items/84FQ2UI4"><tei:bibl>Bakkum 2009</tei:bibl></tei:ref>, the inscriptions Ve 264 a-m/Giacomelli 15 I-XII/Bakkum 113-124 may have been produced in series because they are quite identical one to each other and they are painted in identical black-varnished Etrusco-Campanian cups. He suggested that probably they were produced as ready-made ex-votos to be sold at the temple or as dedications imposed by the aediles as sanction</tei:p> 
+                </tei:note>
+                <tei:note target="#Fal_58_l_1_w_1">
+                    <tei:p>The word <tei:rs corresp="#Fal_58_l_1_w_1" type="w" xml:lang="xfa-Ital-x-xfafal">tito</tei:rs> has been interpreted as an error for titoi by <tei:ref target="http://zotero.org/groups/2552746/items/USHGF3E7"><tei:bibl>Giacomelli 1963</tei:bibl></tei:ref> and <tei:ref target="http://zotero.org/groups/2552746/items/84FQ2UI4"><tei:bibl>Bakkum 2009</tei:bibl></tei:ref>. They didn't accept the previous explanation given by <tei:ref target="http://zotero.org/groups/2552746/items/AS7ZIHVI"><tei:bibl>Thulin 1907</tei:bibl></tei:ref>, that is to say that the dative ending of the second declansion was changing from -oi to -o. Most editors had underlined the strange juxtaposition between <tei:rs type="w" corresp="#Fal_58_l_1_w_1" xml:lang="xfa-Ital-x-xfafal">tito</tei:rs> and <tei:rs type="name" corresp="#Fal_58_l_2_w_1" xml:lang="xfa-Ital-x-xfafal">mercui</tei:rs> because tito was considered as a praenomen (even if it is not used frequently in Faliscan inscriptions). About this topic, <tei:ref target="http://zotero.org/groups/2552746/items/J9MPLFED"><tei:bibl>Poccetti 2009</tei:bibl></tei:ref> undelined that the union between a praenomen/gentilicium and a theonym to identify a deity is a common fact in Italic religious world. He suggested that <tei:rs type="w" corresp="#Fal_58_l_1_w_1" xml:lang="xfa-Ital-x-xfafal">tito</tei:rs> could be a form that corresponds to the praenomen attested in the Italic onomastics or it could be an epithet that has the same origin of the praenomen. This latter hypothesis has been suggested by <tei:ref target="http://zotero.org/groups/2552746/items/2842C33C"><tei:bibl>Combet-Farnoux 1980</tei:bibl></tei:ref> and <tei:ref target="http://zotero.org/groups/2552746/items/84FQ2UI4"><tei:bibl>Bakkum 2009</tei:bibl></tei:ref> too. They considered <tei:rs type="w" corresp="#Fal_58_l_1_w_1" xml:lang="xfa-Ital-x-xfafal">tito</tei:rs> as an adjective with the meaning of 'propitious' or 'prosperous'</tei:p>
+                </tei:note>
+                <tei:note target="#Fal_58_l_2_w_1">
+                    <tei:p><tei:ref target="http://zotero.org/groups/2552746/items/AS7ZIHVI"><tei:bibl>Thulin 1907</tei:bibl></tei:ref> suggested that <tei:rs type="name" corresp="#Fal_58_l_2_w_1" xml:lang="xfa-Ital-x-xfafal">mercui</tei:rs> could be a dative. Later this suggestion was accepted by most editors eccept <tei:ref target="http://zotero.org/groups/2552746/items/TXM9BBR9"><tei:bibl>Pisani 1933</tei:bibl></tei:ref>, who thought that this form could be a genitive. In this case the ending -oi might be derived from the development of -osio. <tei:ref target="http://zotero.org/groups/2552746/items/84FQ2UI4"><tei:bibl>Bakkum 2009</tei:bibl></tei:ref> didn't accepted this suggestion and, even if he undelined the morphophonological problems about considering -oi as a dative singular ending of the fourth nominal declension, it seems that he adopted this last suggestion. According to him, the ending could be derived analogically from the dative singular ending of the first and second nominal declensions. The name of the deity <tei:rs type="name" corresp="#Fal_58_l_2_w_1" xml:lang="xfa-Ital-x-xfafal">mercui</tei:rs> could be connected to Latin <tei:rs type="name" xml:lang="lat-Latn">merx</tei:rs> and Oscan <tei:rs type="name" xml:lang="osc-Ital-x-oscetr">mirikui</tei:rs> (see for example: <tei:ref target="http://zotero.org/groups/2552746/items/NJFZRK23"><tei:bibl>Vetter 1953</tei:bibl></tei:ref>; <tei:ref target="http://zotero.org/groups/2552746/items/USHGF3E7"><tei:bibl>Giacomelli 1963</tei:bibl></tei:ref>; <tei:ref target="http://zotero.org/groups/2552746/items/84FQ2UI4"><tei:bibl>Bakkum 2009</tei:bibl></tei:ref>)</tei:p>
+                </tei:note>
+                <tei:note target="Fal_58_l_3_w_1">According to what was said previously, <tei:ref target="http://zotero.org/groups/2552746/items/84FQ2UI4"><tei:bibl>Bakkum 2009</tei:bibl></tei:ref> suggested that <tei:rs type="w" corresp="Fal_58_l_3_w_1" xml:lang="xfa-Ital-x-xfafal">efile</tei:rs> could be an error too. He undelined that the omission of final -s# after a long vowel is very rare in Faliscan. <tei:rs type="w" corresp="#Fal_58_l_3_w_1" xml:lang="xfa-Ital-x-xfafal">efile</tei:rs> has been considered a calque from Latin <tei:rs type="w" xml:lang="lat-Latn">aedilis</tei:rs> (see for example <tei:ref target="http://zotero.org/groups/2552746/items/USHGF3E7"><tei:bibl>Giacomelli 1963</tei:bibl></tei:ref>). According to <tei:ref target="http://zotero.org/groups/2552746/items/84FQ2UI4"><tei:bibl>Bakkum 2009</tei:bibl></tei:ref> it is not necessary a calque based on Latin aedilis. Despite that, according to <tei:ref target="http://zotero.org/groups/2552746/items/2842C33C"><tei:bibl>Combet-Farnoux 1980</tei:bibl></tei:ref> and <tei:ref target="http://zotero.org/groups/2552746/items/NJFZRK23"><tei:bibl>Vetter 1953</tei:bibl></tei:ref>, the efiles could have had a similar social function of that of the aedilis at Rome</tei:note>
+                <tei:listPerson type="Onomastics">
+                    <tei:person xml:id="p1" xml:lang="xfa-Ital-x-xfafal">
+                        <tei:persName>
+                            <tei:name type="theonym">mercui</tei:name>
+                        </tei:persName>
+                    </tei:person>
+                </tei:listPerson>
+            </tei:div>
+            <tei:div type="bibliography">
+                <tei:listBibl xmlns="http://www.tei-c.org/ns/1.0">
+                    <tei:biblStruct type="article" xml:id="Thulin1907" sameAs="https://www.zotero.org/groups/2552746/items/AS7ZIHVI">
+                        <tei:analytic>
+                            <tei:title level="a">Faliskische Inschriften</tei:title>
+                            <tei:author>
+                                <tei:forename>Carl</tei:forename>
+                                <tei:surname>Thulin</tei:surname>
+                            </tei:author>
+                        </tei:analytic>
+                        <tei:monogr>
+                            <tei:title level="j">Mitteilungen des Deutschen Archäologischen Instituts (Röm. Abt.)</tei:title>
+                            <tei:imprint>
+                                <tei:pubPlace>Münchner</tei:pubPlace>
+                                <tei:publisher>Bisher F. Bruckmann Verlag</tei:publisher>
+                                <tei:date>1907</tei:date>
+                            </tei:imprint>
+                            <tei:biblScope unit="issue">22</tei:biblScope>
+                            <tei:biblScope unit="page">255-310</tei:biblScope>
+                        </tei:monogr>
+                    </tei:biblStruct>
+                    <tei:biblStruct type="book" xml:id="Pisani1933" sameAs="https://www.zotero.org/groups/2552746/items/TXM9BBR9">
+                        <tei:analytic>
+                            <tei:title level="m">Studi sulla preistoria delle lingue indoeuropee</tei:title>
+                            <tei:author>
+                                <tei:forename>Vittore</tei:forename>
+                                <tei:surname>Pisani</tei:surname>
+                            </tei:author>
+                        </tei:analytic>
+                        <tei:monogr>
+                            <tei:title level="s">Memorie della Reale Accademia Nazionale dei Lincei, serie VI: Classe di scienze morali, storiche e filologiche</tei:title>
+                            <tei:imprint>
+                                <tei:pubPlace>Roma</tei:pubPlace>
+                                <tei:publisher></tei:publisher>
+                                <tei:date>1933</tei:date>
+                            </tei:imprint>
+                            <tei:biblScope n="series">4</tei:biblScope>
+                        </tei:monogr>
+                    </tei:biblStruct>
+                    <tei:biblStruct type="book" xml:id="Vetter1953" sameAs="http://zotero.org/groups/2552746/items/NJFZRK23">
+                        <tei:monogr>
+                            <tei:title level="m">Handbuch der italischen Dialekte</tei:title>
+                            <tei:author>
+                                <tei:forename>Emil</tei:forename>
+                                <tei:surname>Vetter</tei:surname>
+                            </tei:author>
+                            <tei:imprint>
+                                <tei:pubPlace>Heidelberg</tei:pubPlace>
+                                <tei:publisher>C. Winter</tei:publisher>
+                                <tei:date>1953</tei:date>
+                            </tei:imprint>
+                            <tei:biblScope unit="page">292-293</tei:biblScope>
+                        </tei:monogr>
+                    </tei:biblStruct>
+                    <tei:biblStruct type="book" xml:id="Giacomelli1963" sameAs="http://zotero.org/groups/2552746/items/USHGF3E7">
+                        <tei:monogr>
+                            <tei:title level="m">La lingua falisca</tei:title>
+                            <tei:author>
+                                <tei:forename>Gabriella</tei:forename>
+                                <tei:surname>Giacomelli</tei:surname>
+                            </tei:author>
+                            <tei:imprint>
+                                <tei:pubPlace>Firenze</tei:pubPlace>
+                                <tei:publisher>Leo S. Olschki Editore</tei:publisher>
+                                <tei:date>1963</tei:date>
+                            </tei:imprint>
+                            <tei:biblScope unit="page">54-55</tei:biblScope>
+                        </tei:monogr>
+                    </tei:biblStruct>
+                    <tei:biblStruct type="book" xml:id="Combet-Farnoux1980" sameAs="http://zotero.org/groups/2552746/items/2842C33C">
+                        <tei:monogr>
+                            <tei:title level="m">Mercure romain. Le culte public de Mercure et la fonction mercantile à Rome de la république archaïque à l'époque augustéenne</tei:title>
+                            <tei:author>
+                                <tei:forename>Bernard</tei:forename>
+                                <tei:surname>Combet-Farnoux</tei:surname>
+                            </tei:author>
+                            <tei:imprint>
+                                <tei:pubPlace>Rome</tei:pubPlace>
+                                <tei:publisher>Ecole française de Rome</tei:publisher>
+                                <tei:date>1980</tei:date>
+                            </tei:imprint>
+                        </tei:monogr>
+                    </tei:biblStruct>
+                    <tei:biblStruct type="book" xml:id="Bakkum2009" sameAs="https://www.zotero.org/groups/2552746/items/84FQ2UI4">
+                        <tei:monogr>
+                            <tei:title level="m">The Latin Dialect of the Ager Faliscus. 150 Years of Scholarship</tei:title>
+                            <tei:author>
+                                <tei:forename>Gabriël C. L. M.</tei:forename>
+                                <tei:surname>Bakkum</tei:surname>
+                            </tei:author>
+                            <tei:imprint>
+                                <tei:pubPlace>Amsterdam</tei:pubPlace>
+                                <tei:publisher>Amsterdam University Press</tei:publisher>
+                                <tei:date>2009</tei:date>
+                            </tei:imprint>
+                            <tei:biblScope unit="page">460</tei:biblScope>
+                        </tei:monogr>
+                    </tei:biblStruct>
+                    <tei:biblStruct type="bookSection" xml:id="Poccetti2009" sameAs="https://www.zotero.org/groups/2552746/items/J9MPLFED">
+                        <tei:analytic>
+                            <tei:title level="a">Problemi antichi e dati nuovi: coincidenze di teonimi e di antroponimi nell'Italia antica. Una riflessione sulla classe dei 'teoforici' a partire da due elementi specifici</tei:title>
+                            <tei:author>
+                                <tei:forename>Paolo</tei:forename>
+                                <tei:surname>Poccetti</tei:surname>
+                            </tei:author>
+                        </tei:analytic>
+                        <tei:monogr>
+                            <tei:title level="m">L'nomastica dell'Italia antica. Aspetti linguistici, storici, culturali, tipologici e classificatori</tei:title>
+                            <tei:imprint>
+                                <tei:pubPlace>Rome</tei:pubPlace>
+                                <tei:publisher>École Française de Rome</tei:publisher>
+                                <tei:date>2009</tei:date>
+                            </tei:imprint>
+                            <tei:biblScope unit="page">219-248</tei:biblScope>
+                        </tei:monogr>
+                    </tei:biblStruct>
+                    <tei:biblStruct type="article" xml:id="Antonini2012" sameAs="https://www.zotero.org/groups/2552746/items/BU76ABWF">
+                        <tei:analytic>
+                            <tei:title level="a">Lat. “Mircurius” e forme implicate nell’Italia antica</tei:title>
+                            <tei:author>
+                                <tei:forename>Rosalba</tei:forename>
+                                <tei:surname>Antonini</tei:surname>
+                            </tei:author>
+                        </tei:analytic>
+                        <tei:monogr>
+                            <tei:title level="m">Considerazioni di Storia ed Archeologia</tei:title>
+                            <tei:imprint>
+                                <tei:pubPlace></tei:pubPlace>
+                                <tei:publisher></tei:publisher>
+                                <tei:date>2012</tei:date>
+                            </tei:imprint>
+                            <tei:biblScope unit="page">5-27</tei:biblScope>
+                        </tei:monogr>
+                    </tei:biblStruct>
+                </tei:listBibl>
+            </tei:div>
+        </tei:body>
+    </tei:text>
+</tei:TEI>

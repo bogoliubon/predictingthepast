@@ -1,0 +1,300 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://epidoc.stoa.org/schema/9.4/tei-epidoc.rng"
+schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://epidoc.stoa.org/schema/9.4/tei-epidoc.rng"
+schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<tei:TEI xml:id="ItAnt_Faliscan_39" xmlns:dcr="http://www.isocat.org/ns/dcr" xmlns:tei="http://www.tei-c.org/ns/1.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <tei:teiHeader>
+        <tei:fileDesc>
+            <tei:titleStmt>
+                <tei:title>Inscription ItAnt_Faliscan_39</tei:title>
+            </tei:titleStmt>            
+            <tei:editionStmt>
+                <tei:edition>
+                    <tei:idno>ItAnt_Faliscan_39</tei:idno>
+                </tei:edition>              
+                <tei:editor>
+                    <tei:persName>Greta Mozzato</tei:persName>
+                </tei:editor>
+            </tei:editionStmt>
+            <tei:publicationStmt>
+                <tei:authority>PRIN 2017 "Lingue e culture dell'Italia antica: linguistica storica e modelli digitali | Languages and Cultures of Ancient Italy. Historical Linguistics and Digital Models"</tei:authority>
+                <tei:date>2023</tei:date>
+                <tei:idno type="URI" subtype="handle"><!-- verrà riempito in automatico dopo l'inserimento in CLARIN --></tei:idno>
+                <tei:availability>
+                    <tei:licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">This file is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International license – (CC BY-NC-SA 4.0).</tei:licence>
+                </tei:availability>
+            </tei:publicationStmt>
+            <tei:sourceDesc>               
+                <tei:msDesc>
+                    <tei:msIdentifier>
+                        <tei:settlement ref="https://www.geonames.org/3178595">Civita Castellana</tei:settlement>
+                        <tei:institution></tei:institution>
+                        <tei:idno type="museumID"></tei:idno>
+                        <tei:msName></tei:msName>
+                        <tei:altIdentifier type="trismegistos">
+                            <tei:idno source="www.trismegistos.org/text/828955">TM 828955</tei:idno>
+                        </tei:altIdentifier>
+                        <tei:altIdentifier type="traditionalID">
+                            <tei:idno source="http://zotero.org/groups/2552746/items/NJFZRK23">Ve 274 f</tei:idno>
+                        </tei:altIdentifier>
+                        <tei:altIdentifier type="traditionalID">
+                            <tei:idno source="http://zotero.org/groups/2552746/items/USHGF3E7">Giacomelli 71 VI</tei:idno>
+                        </tei:altIdentifier>
+                        <tei:altIdentifier type="traditionalID">
+                            <tei:idno source="http://zotero.org/groups/2552746/items/84FQ2UI4">Bakkum 52</tei:idno>
+                        </tei:altIdentifier>
+                    </tei:msIdentifier>
+                    <tei:msContents>
+                        <tei:summary>
+                            <tei:p>funerary inscription</tei:p>
+                        </tei:summary>
+                    </tei:msContents>
+                    <tei:physDesc>
+                        <tei:objectDesc>
+                            <tei:supportDesc>
+                                <tei:support>
+                                    <tei:objectType ana="http://vocab.getty.edu/page/aat/300002469">wall</tei:objectType>
+                                    <tei:rs type="objectShape"></tei:rs>
+                                    <tei:note></tei:note>
+                                    <tei:material ana="http://vocab.getty.edu/page/aat/300011176">stone</tei:material>
+                                    <tei:dimensions type="objectDimensions" unit="cm" precision="high">
+                                        <tei:height></tei:height>
+                                        <tei:width></tei:width>
+                                        <tei:depth></tei:depth>
+                                        <tei:dim type="diameter"></tei:dim> 
+                                    </tei:dimensions>
+                                    <tei:rs type="reuse">no</tei:rs>
+                                </tei:support>
+                                <tei:condition>fragmentary
+                                    <tei:note>The drawning of the inscription was made by <tei:ref target="http://zotero.org/groups/2552746/items/AS7ZIHVI"><tei:bibl>Thulin 1907</tei:bibl></tei:ref>. <tei:ref target="http://zotero.org/groups/2552746/items/USHGF3E7"><tei:bibl>Giacomelli 1963</tei:bibl></tei:ref> reported that in the 60's the condition of the tomb became worst and the inscription was very damaged</tei:note>
+                                </tei:condition>    
+                            </tei:supportDesc>
+                            <tei:layoutDesc>
+                                <tei:layout columns="1" writtenLines="1">
+                                    <tei:rs type="execution" ana="http://vocab.getty.edu/page/aat/300033618">painted</tei:rs> 
+                                    <tei:rs type="opistography">no</tei:rs>                 
+                                    <tei:note type="layoutNotes">The inscription is painted in red between two loculi</tei:note>
+                                    <tei:dimensions type="lineDimension" unit="cm" precision="high">
+                                        <tei:height></tei:height>
+                                        <tei:width></tei:width>
+                                    </tei:dimensions> 
+                                </tei:layout>
+                            </tei:layoutDesc>
+                        </tei:objectDesc>
+                        <tei:handDesc>
+                            <tei:handNote>
+                                <tei:note type="palaeographicNotes">Letters measure c. 7 cm in height</tei:note>
+                            </tei:handNote>
+                        </tei:handDesc>
+                        <tei:scriptDesc>   
+                            <tei:scriptNote>
+                                <tei:rs type="writingSystem" subtype="alphabet" ref="https://www.prin-italia-antica.unifi.it/p215.html">Faliscan alphabet</tei:rs>
+                                <tei:rs type="wordDivision">
+                                    <tei:rs type="syllabicPuntuactionSimplification"></tei:rs>                               
+                                    <tei:rs type="syllabicPuntuactionApplication"></tei:rs>
+                                </tei:rs>                                    
+                            </tei:scriptNote>                                                     
+                        </tei:scriptDesc>
+                        <tei:decoDesc>
+                            <tei:decoNote></tei:decoNote>
+                        </tei:decoDesc>
+                    </tei:physDesc>
+                    <tei:history>
+                        <tei:origin>
+                            <tei:origPlace type="composed">
+                                <tei:placeName type="ancient" ref="https://pleiades.stoa.org/places/413126">Falerii Veteres</tei:placeName>
+                                <tei:placeName type="modern" ref="https://www.geonames.org/3178595">Civita Castellana</tei:placeName>
+                            </tei:origPlace>
+                            <tei:origDate notBefore-custom="-0400" notAfter-custom="-0201" cert="medium">IV-III century BC</tei:origDate>
+                        </tei:origin>
+                        <tei:provenance type="found" subtype="discovered" notBefore-custom="1886">
+                            <tei:placeName type="ancient" ref="https://pleiades.stoa.org/places/413126">Falerii Veteres</tei:placeName>
+                            <tei:placeName type="modern" ref="https://www.geonames.org/3178595">Civita Castellana</tei:placeName>
+                            <tei:placeName type="detailed">La Penna necropolis</tei:placeName>
+                            <tei:persName></tei:persName>
+                        </tei:provenance>
+                        <tei:provenance type="observed" subtype="autopsied" notAfter-custom="1887">
+                            <tei:persName>Adolfo Cozza &amp; Angelo Pasqui</tei:persName>
+                        </tei:provenance>
+                        <tei:provenance type="observed" subtype="autopsied" notAfter-custom="1963">
+                            <tei:persName>Gabriella Giacomelli</tei:persName>
+                        </tei:provenance>
+                    </tei:history>
+                </tei:msDesc>
+            </tei:sourceDesc>
+        </tei:fileDesc>
+        <tei:encodingDesc>
+            <tei:p source="https://epidoc.stoa.org/gl/latest/">Marked-up according to the EpiDoc Guidelines</tei:p>
+        </tei:encodingDesc>
+        <tei:profileDesc>
+            <tei:langUsage> 
+                <tei:language ident="xfa" source="https://iso639-3.sil.org/code/xfa">Faliscan</tei:language>            
+                <tei:language ident="xfa-Ital-x-xfafal" source="https://www.prin-italia-antica.unifi.it/p215.html" ana="https://unicode.org/iso15924/iso15924-codes.html">Faliscan in Faliscan alphabet</tei:language>
+            </tei:langUsage>
+            <tei:textClass>
+                <tei:keywords scheme="https://www.eagle-network.eu/resources/vocabularies/typeins/">
+                    <tei:term ref="https://www.eagle-network.eu/voc/typeins/lod/92">funerary inscription</tei:term>
+                </tei:keywords>
+            </tei:textClass>
+        </tei:profileDesc>
+    </tei:teiHeader>
+    <tei:facsimile>
+        <tei:graphic n="1" url="www.www.www">
+            <tei:desc><tei:ref type="licence"
+                target="https://creativecommons.org/licenses/by-nc-sa/4.0/">This file is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International license – (CC BY-NC-SA 4.0).</tei:ref>
+            </tei:desc>
+        </tei:graphic>
+    </tei:facsimile>
+    <tei:text>
+        <tei:body>
+            <tei:div type="edition" subtype="interpretative" xml:space="preserve">
+                <tei:div type="textpart" n="face_a" style="text-direction:r-to-l" rend="ductus:sinistrorse">
+                    <tei:ab>                                
+                        <tei:lb n="1" xml:id="Fal_39_l_1"/>
+                            <tei:gap reason="lost" extent="unknown" unit="character"/>
+                        <!-- Leida;Fal_39_l_1_w_1;ouf[ili]o -->
+                            <tei:name type="gentilicium" xml:id="Fal_39_l_1_w_1" xml:lang="xfa-Ital-x-xfafal" ref="#p1">ouf<tei:supplied reason="lost">ili</tei:supplied>o</tei:name>
+                        <!-- Leida;Fal_39_l_1_w_2;[c]ạ[u]ị -->
+                            <tei:name type="praenomen" xml:id="Fal_39_l_1_w_2" xml:lang="xfa-Ital-x-xfafal" ref="#p2"><tei:supplied reason="lost">c</tei:supplied><tei:unclear>a</tei:unclear><tei:supplied reason="lost">u</tei:supplied><tei:unclear>i</tei:unclear></tei:name>
+                            <tei:gap reason="lost" extent="unknown" unit="character"/>
+                    </tei:ab>
+                </tei:div>
+            </tei:div>
+            <tei:div type="translation" xml:lang="ita">
+                <tei:p>Ouf(ili)o (figlio) di Gauio</tei:p>
+                <tei:desc>
+                    <tei:persName>Luca Rigobianco</tei:persName>
+                    <tei:ref type="licence" target="http://creativecommons.org/licenses/by-sa/4.0/">This file is licensed under the Creative Commons Attribution-ShareAlike 4.0 license.</tei:ref>
+                </tei:desc>
+            </tei:div>
+            <tei:div type="translation" xml:lang="eng">
+                <tei:p>Ouf(ili)o Gauio's (son)</tei:p>
+                <tei:desc>
+                    <tei:persName>Luca Rigobianco</tei:persName>
+                   <tei:ref type="licence" target="http://creativecommons.org/licenses/by-sa/4.0/">This file is licensed under the Creative Commons Attribution-ShareAlike 4.0 license.</tei:ref>
+                </tei:desc>
+            </tei:div>
+            <tei:div type="apparatus" xml:lang="eng" resp="GretaMozzato">
+                <tei:listApp>
+                    <tei:app from="#Fal_39_l_1_w_1">
+                        <tei:lem corresp="#Fal_39_l_1_w_1">ouf[ili]o <tei:ref target="http://zotero.org/groups/2552746/items/USHGF3E7"><tei:bibl>Giacomelli 1963</tei:bibl></tei:ref></tei:lem>
+                        <tei:rdg corresp="#Fal_39_l_1_w_1">ọụf̣[ili]ọ[. <tei:ref target="http://zotero.org/groups/2552746/items/NJFZRK23"><tei:bibl>Vetter 1953</tei:bibl></tei:ref></tei:rdg>
+                        <tei:rdg corresp="#Fal_39_l_1_w_1">[---]oụ*[..]o <tei:ref target="http://zotero.org/groups/2552746/items/84FQ2UI4"><tei:bibl>Bakkum 2009</tei:bibl></tei:ref></tei:rdg>
+                    </tei:app>
+                    <tei:app from="#Fal_39_l_1_w_2">
+                        <tei:lem corresp="#Fal_39_l_1_w_2">(c)ạ(u)ị[ <tei:ref target="http://zotero.org/groups/2552746/items/USHGF3E7"><tei:bibl>Giacomelli 1963</tei:bibl></tei:ref></tei:lem>
+                        <tei:rdg corresp="#Fal_39_l_1_w_2">c]ạ[u]ị[.f] <tei:ref target="http://zotero.org/groups/2552746/items/NJFZRK23"><tei:bibl>Vetter 1953</tei:bibl></tei:ref></tei:rdg>
+                        <tei:rdg corresp="#Fal_39_l_1_w_2">*ạ**[---] <tei:ref target="http://zotero.org/groups/2552746/items/84FQ2UI4"><tei:bibl>Bakkum 2009</tei:bibl></tei:ref></tei:rdg>
+                    </tei:app>
+                </tei:listApp>
+            </tei:div>
+            <tei:div type="commentary" xml:lang="eng" resp="GretaMozzato">
+                <tei:note>
+                    <tei:p>Almost all the inscriptions belonging to this tomb (Ve 274 a/b/c/d/f/g; Giacomelli 71 I/II/III/IV/VI/VII; Bakkum 48-53) show the variation between au-/ou- in the spelling of the gentilicium (that is to say Aufilio/Oufilio). In this case there is <tei:rs type="name" corresp="#Fal_39_l_1_w_1" xml:lang="xfa-Ital-x-xfafal">Ouf(ili)o</tei:rs>. According to <tei:ref target="http://zotero.org/groups/2552746/items/USHGF3E7"><tei:bibl>Giacomelli 1963</tei:bibl></tei:ref>, the variation attested in these inscriptions is due to a fashion of pronunciation used among Etruscan people living in Falerii veteres and reported on writing practices. Conversely, <tei:ref target="http://zotero.org/groups/2552746/items/84FQ2UI4"><tei:bibl>Bakkum 2009</tei:bibl></tei:ref> suggested that the variation between au-/ou- is due to phonological changes like monophtongization of the diphtongs</tei:p>
+                </tei:note>
+                <tei:listPerson type="Onomastics">
+                    <tei:person xml:id="p1" xml:lang="xfa-Ital-x-xfafal">
+                        <tei:persName>
+                            <tei:name type="gentilicium">ouf(ili)o</tei:name>
+                        </tei:persName>
+                    </tei:person>
+                    <tei:person xml:id="p2" xml:lang="xfa-Ital-x-xfafal">
+                        <tei:persName>
+                            <tei:name type="praenomen">(c)ạ(u)ị</tei:name>
+                        </tei:persName>
+                    </tei:person>
+                </tei:listPerson>
+            </tei:div>
+            <tei:div type="bibliography">
+                <tei:listBibl xmlns="http://www.tei-c.org/ns/1.0">
+                    <tei:biblStruct type="bookSection" xml:id="CozzaPasqui1887" sameAs="http://zotero.org/groups/2552746/items/ADYLF2HE">
+                        <tei:analytic>
+                            <tei:title level="a">Civita-Castellana (antica Faleria) - Scavi della necropoli falisca in contrada "Penna"</tei:title>
+                            <tei:author>
+                                <tei:forename>Adolfo</tei:forename>
+                                <tei:surname>Cozza</tei:surname>
+                                <tei:forename>Angelo</tei:forename>
+                                <tei:surname>Pasqui</tei:surname>
+                            </tei:author>
+                        </tei:analytic>
+                        <tei:monogr>
+                            <tei:title level="m">Notizie degli scavi di antichità</tei:title>
+                            <tei:imprint>
+                                <tei:pubPlace>Roma</tei:pubPlace>
+                                <tei:publisher>Tipografia della R. Accademia dei Lincei</tei:publisher>
+                                <tei:date>1887</tei:date>
+                            </tei:imprint>
+                            <tei:biblScope unit="page">262-273</tei:biblScope>
+                        </tei:monogr>
+                    </tei:biblStruct>
+                    <tei:biblStruct type="article" xml:id="Thulin1907" sameAs="https://www.zotero.org/groups/2552746/items/AS7ZIHVI">
+                        <tei:analytic>
+                            <tei:title level="a">Faliskische Inschriften</tei:title>
+                            <tei:author>
+                                <tei:forename>Carl</tei:forename>
+                                <tei:surname>Thulin</tei:surname>
+                            </tei:author>
+                        </tei:analytic>
+                        <tei:monogr>
+                            <tei:title level="j">Mitteilungen des Deutschen Archäologischen Instituts (Röm. Abt.)</tei:title>
+                            <tei:imprint>
+                                <tei:pubPlace>Münchner</tei:pubPlace>
+                                <tei:publisher>Bisher F. Bruckmann Verlag</tei:publisher>
+                                <tei:date>1907</tei:date>
+                            </tei:imprint>
+                            <tei:biblScope unit="issue">22</tei:biblScope>
+                            <tei:biblScope unit="page">255-310</tei:biblScope>
+                        </tei:monogr>
+                    </tei:biblStruct>
+                    <tei:biblStruct type="book" xml:id="Vetter1953" sameAs="http://zotero.org/groups/2552746/items/NJFZRK23">
+                        <tei:monogr>
+                            <tei:title level="m">Handbuch der italischen Dialekte</tei:title>
+                            <tei:author>
+                                <tei:forename>Emil</tei:forename>
+                                <tei:surname>Vetter</tei:surname>
+                            </tei:author>
+                            <tei:imprint>
+                                <tei:pubPlace>Heidelberg</tei:pubPlace>
+                                <tei:publisher>C. Winter</tei:publisher>
+                                <tei:date>1953</tei:date>
+                            </tei:imprint>
+                            <tei:biblScope unit="page">296</tei:biblScope>
+                        </tei:monogr>
+                    </tei:biblStruct>
+                    <tei:biblStruct type="book" xml:id="Giacomelli1963" sameAs="http://zotero.org/groups/2552746/items/USHGF3E7">
+                        <tei:monogr>
+                            <tei:title level="m">La lingua falisca</tei:title>
+                            <tei:author>
+                                <tei:forename>Gabriella</tei:forename>
+                                <tei:surname>Giacomelli</tei:surname>
+                            </tei:author>
+                            <tei:imprint>
+                                <tei:pubPlace>Firenze</tei:pubPlace>
+                                <tei:publisher>Leo S. Olschki Editore</tei:publisher>
+                                <tei:date>1963</tei:date>
+                            </tei:imprint>
+                            <tei:biblScope unit="page">75-76</tei:biblScope>
+                        </tei:monogr>
+                    </tei:biblStruct>
+                    <tei:biblStruct type="book" xml:id="Bakkum2009" sameAs="https://www.zotero.org/groups/2552746/items/84FQ2UI4">
+                        <tei:monogr>
+                            <tei:title level="m">The Latin Dialect of the Ager Faliscus. 150 Years of Scholarship</tei:title>
+                            <tei:author>
+                                <tei:forename>Gabriël C. L. M.</tei:forename>
+                                <tei:surname>Bakkum</tei:surname>
+                            </tei:author>
+                            <tei:imprint>
+                                <tei:pubPlace>Amsterdam</tei:pubPlace>
+                                <tei:publisher>Amsterdam University Press</tei:publisher>
+                                <tei:date>2009</tei:date>
+                            </tei:imprint>
+                            <tei:biblScope unit="page">432</tei:biblScope>
+                        </tei:monogr>
+                    </tei:biblStruct>
+                </tei:listBibl>
+            </tei:div>
+        </tei:body>
+    </tei:text>
+</tei:TEI>
