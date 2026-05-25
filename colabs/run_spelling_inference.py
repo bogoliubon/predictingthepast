@@ -70,14 +70,17 @@ def run_condition(condition_dir, model_config, alphabet, params, forward):
         if not (25 <= len(changed_text) <= 767):
             continue
 
-        orig_attr = inference.attribute(
-            text=orig_text, forward=forward, params=params,
-            alphabet=alphabet, vocab_char_size=vocab_char_size,
-        )
-        changed_attr = inference.attribute(
-            text=changed_text, forward=forward, params=params,
-            alphabet=alphabet, vocab_char_size=vocab_char_size,
-        )
+        try:
+            orig_attr = inference.attribute(
+                text=orig_text, forward=forward, params=params,
+                alphabet=alphabet, vocab_char_size=vocab_char_size,
+            )
+            changed_attr = inference.attribute(
+                text=changed_text, forward=forward, params=params,
+                alphabet=alphabet, vocab_char_size=vocab_char_size,
+            )
+        except ValueError:
+            continue
 
         orig_region = LOCATIONS_LL[orig_attr.locations[0].location_id]['name']
         changed_region = LOCATIONS_LL[changed_attr.locations[0].location_id]['name']
