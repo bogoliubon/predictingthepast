@@ -4,4 +4,7 @@ build/
 dist/
 *.egg-info/
 *.egg
-checkpoint.pkl
+*.pkl
+
+# Bakkum source PDFs (copyrighted)
+Bakkum/*.pdf
