@@ -210,6 +210,35 @@ stone.
 **Used:** `diplomatic`; for the 42 records without it, `lines_json` joined
 with a space.
 
+### 2d. Records whose text is not Bakkum's own edition
+
+For most records, the `diplomatic` text is the edition Bakkum prints on its
+own line. For a few, the processing instead took a text from Bakkum's prose:
+either another editor's text that he only quotes, or one of several readings
+he discusses. Found by checking, for each record, whether its text appears as
+an edition line in its Bakkum entry (Part 2):
+
+| record | what the database has | what Bakkum does | effect on conversion |
+|---|---|---|---|
+| `Lat 250` | `Pu(blius) Fuluius C(aii) f(ilius) …` | no edition; quotes *L'Année épigraphique* 1982 no. 286 (p. 516), including the AÉ editor's expansions `(blius)`, the supplied `(et)` and a French comment `(pour Seruilio?)` | rule 9 deletes all `( … )`, leaving what is on the tile: `pu fuluius c f c n suto diem suo obiet a d x k dec c atilio q seruio cos.` Correct, and it keeps the Faliscan/"rustic" features Bakkum notes (*Suto* without *-r*, *suo* without *-m*, *obiet*) |
+| `LF 246` | `Ekn` | no edition; reports Renzetti Marra's mention of "Ekn = Egnat[" on tile P 19 | kept as `ekn` |
+| `Cap 431` | `p̣escoṣal \| [q]uod·a[fluc] …` | prints **two** editors' readings side by side (Bloch: `ṭescoṣal \| uod a[rria]`; Foti Torelli: `p̣escoṣal \| [q]uod a[fluc]`) | the database took Foti Torelli's |
+| `Cap 416` | `na` | "an or na … probably rather the latter" | the database took Bakkum's preferred reading |
+| `Cap 423` | `atnuśpauri` | reports several readings; this is Bormann's, "adopted by later editors" | the database took Bormann's |
+| `MF/Etr 67` | `ta*ec*a?` | rejects Herbig's reading; says Nogara's drawing "seems rather to show" `ta*ec*a?` | the database took Bakkum's tentative reading |
+
+`EF 1` and `EF 4` were also flagged by the check, but only because the PDF
+splits their edition over several shards and lines; their text is Bakkum's
+edition.
+
+**Limits of the check.** It could only locate entries numbered `N.` in the
+extracted text. 83 records (e.g. the `Bakkum 356-359`, `Bakkum 439-455` ids
+and many `Cap` records, which Bakkum numbers within group headings) could
+not be matched to an entry and were not checked.
+
+**For Tianhao:** were these choices deliberate? For `Cap 431` in particular,
+is there a reason to prefer Foti Torelli's reading?
+
 ---
 
 ## 3. Bakkum's notation (Part 1, p. LII)
@@ -349,7 +378,9 @@ experiments can filter by it.
    labelling error in the processing; it matters for experiments that
    filter or date by language group. Worth checking whether other ids have
    the same problem.
-4. `EF 1`: the database has `para[i?1]douiad`, while Bakkum's discussion
+4. Tianhao: records whose text is a quotation or one of several readings
+   (§2d), and the 83 records that check couldn't cover.
+5. `EF 1`: the database has `para[i?1]douiad`, while Bakkum's discussion
    prints `para[i? .]` (i or one unknown letter). The `1` is deleted as a
    digit, so the output keeps the `i`. Minor; check if EF 1 matters for an
    experiment.
