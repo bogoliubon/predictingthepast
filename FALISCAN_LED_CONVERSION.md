@@ -76,9 +76,17 @@ ranges (`EF 1` has five ranges and so 216 versions; the others 2–5).
    every copy as written. Should we keep only one?
 3. **Underdotted letters** (see correction 2): keep Bakkum's preferred
    reading as a plain letter, or treat the letter as missing?
-4. **Excluded records.** We left out 2 records marked as forgeries (`Etr
-   XXXI`, `MLF 464`) and 4 marked as rejected in Bakkum (`Lat 482†`,
-   `Lat 483†`, `Lat 484†`, `Sab? 481†`). Is that right?
+4. **Excluded records.** All of these are in Bakkum's edition, but he marks
+   them as doubtful or non-Faliscan:
+   - 2 **possible forgeries**, which Bakkum heads *falsum?* and cites only
+     conditionally ("if not a falsum"): `Etr XXXI` (mirror, `turṃṣ tinia
+     apulu`) and `MLF 464` (saucer, `ueiụeto`).
+   - 4 **rejected** inscriptions (marked †), which he includes only to
+     argue they are not Faliscan: `Lat 482†`, `Lat 483†`, `Lat 484†` (Latin,
+     from Ardea) and `Sab? 481†` (possibly Sabellic, from Foglia).
+
+   Leaving out the 4 rejected ones seems clear. Should the 2 possible
+   forgeries be left out too, or included?
 
 ---
 
@@ -313,7 +321,8 @@ LF? 1, MLF/LtF 1.
 
 Left out (15): 7 with no text (`Etr III-VII`, `Etr IX-X`, `Etr XXI-XXIII`,
 `LF 335`, `LtF 288`, `MF/Etr 287`, `MF/Etr 61`); `Cap 422` (linguists:
-letter-forms on a vase); 2 forgeries; 4 rejected in Bakkum; `MF 177`
+letter-forms on a vase); 2 possible forgeries (Bakkum: *falsum?*); 4
+rejected in Bakkum (†); `MF 177`
 (`[---]:*[---]`, no letters left).
 
 ---
@@ -334,7 +343,13 @@ experiments can filter by it.
    underdots, excluded records).
 2. Tianhao: how `normalized` was produced (§2b). Not blocking, since we
    don't use it.
-3. `EF 1`: the database has `para[i?1]douiad`, while Bakkum's discussion
+3. Tianhao: **inscription 336**. The database has it as `MF 336` (Middle
+   Faliscan; `tito·marhio uoltilio·`), but Bakkum's index lists it as
+   "336 (LF)" (Late Faliscan; text on Part 2, p. 546). Possibly a
+   labelling error in the processing; it matters for experiments that
+   filter or date by language group. Worth checking whether other ids have
+   the same problem.
+4. `EF 1`: the database has `para[i?1]douiad`, while Bakkum's discussion
    prints `para[i? .]` (i or one unknown letter). The `1` is deleted as a
    digit, so the output keeps the `i`. Minor; check if EF 1 matters for an
    experiment.
