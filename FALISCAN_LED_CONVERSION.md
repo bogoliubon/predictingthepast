@@ -1,7 +1,7 @@
 # Converting `faliscan.sqlite` to led.json format
 
 Status: **implemented** in `convert_faliscan_to_led.py`, output
-`faliscan_led.json` (441 records). Text rules follow the linguists' answers
+`faliscan_led.json` (464 records). Text rules follow the linguists' answers
 in `conversion.md`, checked against Bakkum's own conventions (§3). A few
 points are still open (§7).
 
@@ -198,9 +198,11 @@ Comparing the 219 pairs that differ, `normalized` does the following:
 | layout digits removed | `MF 170`: `[1] [---]2ịọ` → `io` |
 | repeated copies collapsed | `MF 22-27`: six lines of `turia` → `turia` |
 
-Nothing records who made the normalized version or what rules they used.
-It looks automatic, probably produced by the processing script. **To confirm
-with Tianhao.**
+`normalized` does not come from Bakkum. His edition prints a single text per
+inscription, in the notation of Part 1 p. LII (see Part 2 §11.4, pp. 389-90),
+and nowhere gives a normalized or cleaned-up version. So `normalized` was
+made during the processing, most likely by a script, given how regular the
+changes above are. We don't use it.
 
 Why it matters: `normalized` loses the position and length of each gap,
 which the restoration task needs, and it can join the words on either side
@@ -222,7 +224,7 @@ an edition line in its Bakkum entry (Part 2):
 |---|---|---|---|
 | `Lat 250` | `Pu(blius) Fuluius C(aii) f(ilius) …` | no edition; quotes *L'Année épigraphique* 1982 no. 286 (p. 516), including the AÉ editor's expansions `(blius)`, the supplied `(et)` and a French comment `(pour Seruilio?)` | rule 9 deletes all `( … )`, leaving what is on the tile: `pu fuluius c f c n suto diem suo obiet a d x k dec c atilio q seruio cos.` Correct, and it keeps the Faliscan/"rustic" features Bakkum notes (*Suto* without *-r*, *suo* without *-m*, *obiet*) |
 | `LF 246` | `Ekn` | no edition; reports Renzetti Marra's mention of "Ekn = Egnat[" on tile P 19 | kept as `ekn` |
-| `Cap 431` | `p̣escoṣal \| [q]uod·a[fluc] …` | prints **two** editors' readings side by side (Bloch: `ṭescoṣal \| uod a[rria]`; Foti Torelli: `p̣escoṣal \| [q]uod a[fluc]`) | the database took Foti Torelli's |
+| `Cap 431` | `p̣escoṣal \| [q]uod·a[fluc] …` | prints **two** readings side by side: R. Bloch & Foti (1953): `ṭescoṣal \| uod a[rria]`; M. Torelli (1974): `p̣escoṣal \| [q]uod a[fluc]` | the database took Torelli's, which Bakkum calls "clearly preferable" (p. 571) |
 | `Cap 416` | `na` | "an or na … probably rather the latter" | the database took Bakkum's preferred reading |
 | `Cap 423` | `atnuśpauri` | reports several readings; this is Bormann's, "adopted by later editors" | the database took Bormann's |
 | `MF/Etr 67` | `ta*ec*a?` | rejects Herbig's reading; says Nogara's drawing "seems rather to show" `ta*ec*a?` | the database took Bakkum's tentative reading |
@@ -231,13 +233,74 @@ an edition line in its Bakkum entry (Part 2):
 splits their edition over several shards and lines; their text is Bakkum's
 edition.
 
-**Limits of the check.** It could only locate entries numbered `N.` in the
-extracted text. 83 records (e.g. the `Bakkum 356-359`, `Bakkum 439-455` ids
-and many `Cap` records, which Bakkum numbers within group headings) could
-not be matched to an entry and were not checked.
+**Coverage.** A second pass also matched entries that Bakkum numbers within
+group headings (`136-139 (Fa(r)far-)`, `363-366.`, …). Only 12 records could
+not be located: six `Cap` abbreviations that he lists only in groups (406-408,
+414, 427, 428), `MLF 321-322`, and the four rejected † records. No further
+quotations turned up. The only other mismatches are records the database
+builds from two texts that Bakkum prints apart (a *titulus prior* and the
+*titulus posterior* painted over it, e.g. `LF 224-225`, `MF 90-91`,
+`MF 136-137`). Those texts are still Bakkum's own.
 
-**For Tianhao:** were these choices deliberate? For `Cap 431` in particular,
-is there a reason to prefer Foti Torelli's reading?
+**Were these choices deliberate?** Checking Bakkum answers this without
+asking Tianhao. In every case where Bakkum gives a choice, the database
+follows his preference: `Cap 416` takes his "probably rather" reading,
+`Cap 431` the reading he calls clearly preferable, `Cap 423` the standard
+reading (Bormann's, "adopted by later editors"), and `MF/Etr 67` his own tentative reading. `Lat 250`
+and `LF 246` have no edition, so a quoted text was the only option.
+
+### 2e. Period-group labels checked against Bakkum
+
+Bakkum lists which inscriptions belong to each period group in Part 2
+§11.1.3 (pp. 365-8). His index of inscriptions (Indices, from p. 655) gives the same
+labels. Comparing these with `language_group` in the database: 368 numbers
+agree, and these do not:
+
+| record (database) | database | Bakkum §11.1.3 and index |
+|---|---|---|
+| `MF 336` | MF | **LF** (LF 329-337 from Carbognano-Vallerano). Footnote 231 (p. 388) calls it "MF 336", which is probably where the database label comes from |
+| `MLF 334` | MLF | **LF** (same group) |
+| `Cap 382` | Cap | **LF** (LF 378-380, 382-384 from Civitella S. Paolo) |
+| `LF 233` | LF | **LtF** (LtF 231-233) |
+| `MF 174` | MF | **LtF** (LtF 171-174) |
+| `MLF 342`, `MLF 344`, `MLF 345` | MLF | **LtF** (LtF 340-345 from Grotta Porciosa) |
+| `LtF 297`, `LtF 298` | LtF | **MLF** (MLF 297-298) |
+| `MLF 263` | MLF | **MF** (MF 263 from Corchiano) |
+| `MLF 367-370`, `MLF 373-375`, `MLF/Etr 371-372` | MLF, MLF/Etr | **MF** (MF 367-375 from Rignano Flaminio) |
+| `MF/Etr 108` | MF/Etr | **MF** |
+| `MF 63-64` | MF | **63 is LtF, 64 is MF/Etr**: two different inscriptions in one record |
+| `MF 29`, `MF 38`, `MF 44`, `MF 68`, `MF 254`, `MF 255` | MF | **MF?** (probably MF) |
+| `MF 253` | MF | **MF?** or **MF/LtF** (Bakkum lists it both ways) |
+| `Bakkum 356`, `Bakkum 357` | none | **MLF/Etr** |
+| `Bakkum 439-455` | none | **Cap** |
+
+Bakkum's own lists disagree for a few numbers: 232 (LF "partly" and LtF), 252
+(MF/LtF and MLF/LtF), 277-278 (MF/LtF and LtF), and 459 (MLF and Cap). The
+database's labels for these match one of his options.
+
+**Fixed in the conversion** (`bakkum_corrections.py`): `faliscan.language_group`
+now holds Bakkum's label, and `period_group` follows it. The database's
+label is kept in `language_group_db`. Where Bakkum lists a number under two
+groups, the database's label is kept if it is one of them. `MF 63-64` is
+split into `LtF 63` (`anni`) and `MF/Etr 64` (`ulties`), since Bakkum treats
+them as two owners' inscriptions on one saucer (p. 437).
+
+**Not in the database.** Bakkum edits these, but the database has no record
+for them: 79, 135, 140, 144-145, 152, 155-157, 363-366, and the inscriptions
+of unknown origin 467*-480* (EF, Sab, MF, MLF/Cap, Lat, and the rejected
+479†-480†). Probably lost in the PDF processing (for 144-145 and 156-157
+the edition is under a group heading).
+
+**Added in the conversion:** 22 records (`ADDED` in `bakkum_corrections.py`),
+transcribed from the PDF and checked against the page images, since the
+text extraction drops interpuncts. They are written in Bakkum's notation and
+go through the same rules as the database texts. A *titulus prior* and
+*posterior* are joined into one record, as the database does. `record_number`
+is Bakkum's group plus number (e.g. `MF 470`), and `text_source` gives the
+page. Dates are filled in only where Bakkum states one (467, 470-473,
+477-478). `135` (`cincia`) has no edition: Bakkum only reports Colonna's
+mention of an unpublished tile, like `LF 246`. Not added: 479†-480†, which
+are rejected like the other † records.
 
 ---
 
@@ -289,7 +352,8 @@ Applied in this order (see `convert()` in `convert_faliscan_to_led.py`):
 | 14 | `, ; !` | delete | model's own filter |
 | 15 | adjacent `_` | merge into one `_` | led convention |
 
-Hand fixes (`MANUAL_FIXES`): `EF 3` final `�` → space (double interpunct).
+Hand fixes (`MANUAL_FIXES`): `EF 3` final `�` → space (double interpunct);
+`EF 1` `[i?1]` → `[i?.]` (see §7).
 
 Every output text is checked against the 32-token vocabulary.
 
@@ -325,7 +389,7 @@ Etr III-IV …ṭạm*(*)upesitatatuθacetu[5-6]ṭaθine[?---]
 | `region_sub` | `null` (Faliscan sites don't map onto led's 62 Roman provinces; the dataloader then skips the region loss) |
 | `region_main` | `inscriptions.site` |
 | `ids_alt` | `{"bakkum": <number>}` |
-| `faliscan` | extra info: `language_group`, `period_group`, `uncertain`, `review_status`, `direction`, `date_label`, `text_source`, original `diplomatic` text, `gap_ranges`, `text_variants` |
+| `faliscan` | extra info: `language_group` (Bakkum's, §2e), `language_group_db` (the database's), `period_group`, `uncertain`, `review_status`, `direction`, `date_label`, `text_source`, original `diplomatic` text, `gap_ranges`, `text_variants` |
 
 **Dates.** `start_bce`/`end_bce` use two conventions: already signed
 (-700/-500), or positive years BCE with the older date first (300/100 →
@@ -337,16 +401,16 @@ their date as unavailable.
 
 | | records |
 |---|---:|
-| converted | **441** |
-| at least 25 characters (the model's training minimum) | 81 |
+| converted | **464** (441 from the database, 1 more from splitting `MF 63-64`, 22 added from Bakkum) |
+| at least 25 characters (the model's training minimum) | 84 |
 | median length | 12 characters |
 | with range gaps (several `text_variants`) | 8 |
-| with both dates | 150 |
+| with both dates | 157 |
 | text taken from `lines_json` | 42 |
 
-By language group: MF 158, MLF 58, Cap 53, Etr 41, LF 33, LtF 26, MF? 21,
-Lat 18, MF/Etr 12, EF 7, MLF/Etr 4, (none) 3, EF/Etr 2, MF/LtF 2, LF/Lat 1,
-LF? 1, MLF/LtF 1.
+By language group (Bakkum's, §2e): MF 164, MLF 56, Cap 53, Etr 41, LF 35,
+LtF 31, MF? 28, Lat 20, MF/Etr 12, EF 8, MLF/Etr 5, MLF/Cap 3, EF/Etr 2,
+MF/LtF 2, LF/Lat 1, LF? 1, MLF/LtF 1, Sab 1.
 
 Left out (15): 7 with no text (`Etr III-VII`, `Etr IX-X`, `Etr XXI-XXIII`,
 `LF 335`, `LtF 288`, `MF/Etr 287`, `MF/Etr 61`); `Cap 422` (linguists:
@@ -370,17 +434,18 @@ experiments can filter by it.
 
 1. Linguists: questions in §0 (`[---?]`/`[?---]`, repeated texts,
    underdots, excluded records).
-2. Tianhao: how `normalized` was produced (§2b). Not blocking, since we
-   don't use it.
-3. Tianhao: **inscription 336**. The database has it as `MF 336` (Middle
-   Faliscan; `tito·marhio uoltilio·`), but Bakkum's index lists it as
-   "336 (LF)" (Late Faliscan; text on Part 2, p. 546). Possibly a
-   labelling error in the processing; it matters for experiments that
-   filter or date by language group. Worth checking whether other ids have
-   the same problem.
-4. Tianhao: records whose text is a quotation or one of several readings
-   (§2d), and the 83 records that check couldn't cover.
-5. `EF 1`: the database has `para[i?1]douiad`, while Bakkum's discussion
-   prints `para[i? .]` (i or one unknown letter). The `1` is deleted as a
-   digit, so the output keeps the `i`. Minor; check if EF 1 matters for an
-   experiment.
+2. ~~Tianhao: how `normalized` was produced.~~ Answered from Bakkum: not
+   his, made during processing (§2b).
+3. ~~Tianhao: inscription 336.~~ Answered from Bakkum: it is LF, and the
+   database's MF label is wrong. A full check turned up about 25 records
+   whose period group differs from Bakkum's, and 22 non-rejected
+   inscriptions that the database lacks. Both are fixed in the conversion
+   (§2e). Still worth telling Tianhao, so the database itself gets fixed.
+4. ~~Tianhao: quoted records.~~ Answered from Bakkum: in each case the
+   database follows Bakkum's preferred reading or the only text there is
+   (§2d).
+5. ~~`EF 1`~~. Fixed. The database has `para[i?1]douiad`. Bakkum's edition
+   line extracts the same way, but where he quotes it he prints `para[i? .]`
+   (i?, then one more lost letter) and says "the width of the lacuna shows
+   that more is missing than one i" (p. 404). The converter now reads
+   it as `[i?.]`, so the output is `parai-douiad`.

@@ -1,0 +1,13 @@
+#!/bin/bash
+#SBATCH --job-name=faliscan_step0
+#SBATCH --partition=kilian
+#SBATCH --gres=gpu:1
+#SBATCH --cpus-per-task=4
+#SBATCH --mem=32G
+#SBATCH --time=12:00:00
+#SBATCH --output=faliscan_baseline/%x_%j.log
+
+# Usage (from colabs/): sbatch run_faliscan_baseline.sub [extra args]
+cd /home/cw862/predictingthepast/colabs
+mkdir -p faliscan_baseline
+/home/cw862/anaconda3/envs/predictingthepast/bin/python -u run_faliscan_baseline.py "$@"

@@ -14,7 +14,8 @@
    "bakkum": "356"
   },
   "faliscan": {
-   "language_group": null,
+   "language_group": "MLF/Etr",
+   "language_group_db": null,
    "period_group": "Middle or Late Faliscan",
    "uncertain": true,
    "review_status": "checked_against_pdf",
@@ -43,7 +44,8 @@
    "bakkum": "357"
   },
   "faliscan": {
-   "language_group": null,
+   "language_group": "MLF/Etr",
+   "language_group_db": null,
    "period_group": "Middle or Late Faliscan",
    "uncertain": true,
    "review_status": "checked_against_pdf",
@@ -73,6 +75,7 @@
   },
   "faliscan": {
    "language_group": "MLF",
+   "language_group_db": "MLF",
    "period_group": "Middle or Late Faliscan",
    "uncertain": true,
    "review_status": "checked_against_pdf",
@@ -102,6 +105,7 @@
   },
   "faliscan": {
    "language_group": "MLF",
+   "language_group_db": "MLF",
    "period_group": "Middle or Late Faliscan",
    "uncertain": true,
    "review_status": "checked_against_pdf",
@@ -130,8 +134,9 @@
    "bakkum": "439-455"
   },
   "faliscan": {
-   "language_group": null,
-   "period_group": "Latin",
+   "language_group": "Cap",
+   "language_group_db": null,
+   "period_group": "Capenate",
    "uncertain": true,
    "review_status": "checked_against_pdf",
    "direction": "dextroverse",
@@ -159,8 +164,9 @@
    "bakkum": "382"
   },
   "faliscan": {
-   "language_group": "Cap",
-   "period_group": "Capenate",
+   "language_group": "LF",
+   "language_group_db": "Cap",
+   "period_group": "Late Faliscan",
    "uncertain": false,
    "review_status": "checked_against_pdf",
    "direction": "sinistroverse",
@@ -189,6 +195,7 @@
   },
   "faliscan": {
    "language_group": "Cap",
+   "language_group_db": "Cap",
    "period_group": "Capenate",
    "uncertain": false,
    "review_status": "checked_against_pdf",
@@ -218,6 +225,7 @@
   },
   "faliscan": {
    "language_group": "Cap",
+   "language_group_db": "Cap",
    "period_group": "Capenate",
    "uncertain": false,
    "review_status": "checked_against_pdf",
@@ -247,6 +255,7 @@
   },
   "faliscan": {
    "language_group": "Cap",
+   "language_group_db": "Cap",
    "period_group": "Capenate",
    "uncertain": false,
    "review_status": "checked_against_pdf",
@@ -276,6 +285,7 @@
   },
   "faliscan": {
    "language_group": "Cap",
+   "language_group_db": "Cap",
    "period_group": "Capenate",
    "uncertain": false,
    "review_status": "checked_against_pdf",
@@ -305,6 +315,7 @@
   },
   "faliscan": {
    "language_group": "Cap",
+   "language_group_db": "Cap",
    "period_group": "Capenate",
    "uncertain": false,
    "review_status": "checked_against_pdf",
@@ -334,6 +345,7 @@
   },
   "faliscan": {
    "language_group": "Cap",
+   "language_group_db": "Cap",
    "period_group": "Capenate",
    "uncertain": false,
    "review_status": "checked_against_pdf",
@@ -363,6 +375,7 @@
   },
   "faliscan": {
    "language_group": "Cap",
+   "language_group_db": "Cap",
    "period_group": "Capenate",
    "uncertain": true,
    "review_status": "checked_against_pdf",
@@ -392,6 +405,7 @@
   },
   "faliscan": {
    "language_group": "Cap",
+   "language_group_db": "Cap",
    "period_group": "Capenate",
    "uncertain": false,
    "review_status": "checked_against_pdf",
@@ -421,6 +435,7 @@
   },
   "faliscan": {
    "language_group": "Cap",
+   "language_group_db": "Cap",
    "period_group": "Capenate",
    "uncertain": false,
    "review_status": "checked_against_pdf",
@@ -450,6 +465,7 @@
   },
   "faliscan": {
    "language_group": "Cap",
+   "language_group_db": "Cap",
    "period_group": "Capenate",
    "uncertain": false,
    "review_status": "checked_against_pdf",
@@ -479,6 +495,7 @@
   },
   "faliscan": {
    "language_group": "Cap",
+   "language_group_db": "Cap",
    "period_group": "Capenate",
    "uncertain": false,
    "review_status": "checked_against_pdf",
@@ -508,6 +525,7 @@
   },
   "faliscan": {
    "language_group": "Cap",
+   "language_group_db": "Cap",
    "period_group": "Capenate",
    "uncertain": false,
    "review_status": "checked_against_pdf",
@@ -537,6 +555,7 @@
   },
   "faliscan": {
    "language_group": "Cap",
+   "language_group_db": "Cap",
    "period_group": "Capenate",
    "uncertain": false,
    "review_status": "checked_against_pdf",
@@ -566,6 +585,7 @@
   },
   "faliscan": {
    "language_group": "Cap",
+   "language_group_db": "Cap",
    "period_group": "Capenate",
    "uncertain": true,
    "review_status": "checked_against_pdf",
@@ -595,6 +615,7 @@
   },
   "faliscan": {
    "language_group": "Cap",
+   "language_group_db": "Cap",
    "period_group": "Capenate",
    "uncertain": false,
    "review_status": "checked_against_pdf",
@@ -624,6 +645,7 @@
   },
   "faliscan": {
    "language_group": "Cap",
+   "language_group_db": "Cap",
    "period_group": "Capenate",
    "uncertain": false,
    "review_status": "checked_against_pdf",
@@ -653,6 +675,7 @@
   },
   "faliscan": {
    "language_group": "Cap",
+   "language_group_db": "Cap",
    "period_group": "Capenate",
    "uncertain": false,
    "review_status": "checked_against_pdf",
@@ -682,6 +705,7 @@
   },
   "faliscan": {
    "language_group": "Cap",
+   "language_group_db": "Cap",
    "period_group": "Capenate",
    "uncertain": false,
    "review_status": "checked_against_pdf",
@@ -711,6 +735,7 @@
   },
   "faliscan": {
    "language_group": "Cap",
+   "language_group_db": "Cap",
    "period_group": "Capenate",
    "uncertain": false,
    "review_status": "checked_against_pdf",
@@ -740,6 +765,7 @@
   },
   "faliscan": {
    "language_group": "Cap",
+   "language_group_db": "Cap",
    "period_group": "Capenate",
    "uncertain": false,
    "review_status": "checked_against_pdf",
@@ -769,6 +795,7 @@
   },
   "faliscan": {
    "language_group": "Cap",
+   "language_group_db": "Cap",
    "period_group": "Capenate",
    "uncertain": false,
    "review_status": "checked_against_pdf",
@@ -798,6 +825,7 @@
   },
   "faliscan": {
    "language_group": "Cap",
+   "language_group_db": "Cap",
    "period_group": "Capenate",
    "uncertain": true,
    "review_status": "checked_against_pdf",
@@ -827,6 +855,7 @@
   },
   "faliscan": {
    "language_group": "Cap",
+   "language_group_db": "Cap",
    "period_group": "Capenate",
    "uncertain": false,
    "review_status": "checked_against_pdf",
@@ -856,6 +885,7 @@
   },
   "faliscan": {
    "language_group": "Cap",
+   "language_group_db": "Cap",
    "period_group": "Capenate",
    "uncertain": false,
    "review_status": "checked_against_pdf",
@@ -885,6 +915,7 @@
   },
   "faliscan": {
    "language_group": "Cap",
+   "language_group_db": "Cap",
    "period_group": "Capenate",
    "uncertain": false,
    "review_status": "checked_against_pdf",
@@ -914,6 +945,7 @@
   },
   "faliscan": {
    "language_group": "Cap",
+   "language_group_db": "Cap",
    "period_group": "Capenate",
    "uncertain": true,
    "review_status": "checked_against_pdf",
@@ -943,6 +975,7 @@
   },
   "faliscan": {
    "language_group": "Cap",
+   "language_group_db": "Cap",
    "period_group": "Capenate",
    "uncertain": false,
    "review_status": "checked_against_pdf",
@@ -972,6 +1005,7 @@
   },
   "faliscan": {
    "language_group": "Cap",
+   "language_group_db": "Cap",
    "period_group": "Capenate",
    "uncertain": false,
    "review_status": "checked_against_pdf",
@@ -1001,6 +1035,7 @@
   },
   "faliscan": {
    "language_group": "Cap",
+   "language_group_db": "Cap",
    "period_group": "Capenate",
    "uncertain": true,
    "review_status": "checked_against_pdf",
@@ -1030,6 +1065,7 @@
   },
   "faliscan": {
    "language_group": "Cap",
+   "language_group_db": "Cap",
    "period_group": "Capenate",
    "uncertain": false,
    "review_status": "checked_against_pdf",
@@ -1059,6 +1095,7 @@
   },
   "faliscan": {
    "language_group": "Cap",
+   "language_group_db": "Cap",
    "period_group": "Capenate",
    "uncertain": false,
    "review_status": "checked_against_pdf",
@@ -1088,6 +1125,7 @@
   },
   "faliscan": {
    "language_group": "Cap",
+   "language_group_db": "Cap",
    "period_group": "Capenate",
    "uncertain": false,
    "review_status": "checked_against_pdf",
@@ -1117,6 +1155,7 @@
   },
   "faliscan": {
    "language_group": "Cap",
+   "language_group_db": "Cap",
    "period_group": "Capenate",
    "uncertain": false,
    "review_status": "checked_against_pdf",
@@ -1146,6 +1185,7 @@
   },
   "faliscan": {
    "language_group": "Cap",
+   "language_group_db": "Cap",
    "period_group": "Capenate",
    "uncertain": false,
    "review_status": "checked_against_pdf",
@@ -1175,6 +1215,7 @@
   },
   "faliscan": {
    "language_group": "Cap",
+   "language_group_db": "Cap",
    "period_group": "Capenate",
    "uncertain": true,
    "review_status": "checked_against_pdf",
@@ -1204,6 +1245,7 @@
   },
   "faliscan": {
    "language_group": "Cap",
+   "language_group_db": "Cap",
    "period_group": "Capenate",
    "uncertain": false,
    "review_status": "checked_against_pdf",
@@ -1233,6 +1275,7 @@
   },
   "faliscan": {
    "language_group": "Cap",
+   "language_group_db": "Cap",
    "period_group": "Capenate",
    "uncertain": false,
    "review_status": "checked_against_pdf",
@@ -1262,6 +1305,7 @@
   },
   "faliscan": {
    "language_group": "Cap",
+   "language_group_db": "Cap",
    "period_group": "Capenate",
    "uncertain": false,
    "review_status": "checked_against_pdf",
@@ -1291,6 +1335,7 @@
   },
   "faliscan": {
    "language_group": "Cap",
+   "language_group_db": "Cap",
    "period_group": "Capenate",
    "uncertain": false,
    "review_status": "checked_against_pdf",
@@ -1320,6 +1365,7 @@
   },
   "faliscan": {
    "language_group": "Cap",
+   "language_group_db": "Cap",
    "period_group": "Capenate",
    "uncertain": false,
    "review_status": "checked_against_pdf",
@@ -1349,6 +1395,7 @@
   },
   "faliscan": {
    "language_group": "Cap",
+   "language_group_db": "Cap",
    "period_group": "Capenate",
    "uncertain": false,
    "review_status": "checked_against_pdf",
@@ -1378,6 +1425,7 @@
   },
   "faliscan": {
    "language_group": "Cap",
+   "language_group_db": "Cap",
    "period_group": "Capenate",
    "uncertain": false,
    "review_status": "checked_against_pdf",
@@ -1407,6 +1455,7 @@
   },
   "faliscan": {
    "language_group": "Cap",
+   "language_group_db": "Cap",
    "period_group": "Capenate",
    "uncertain": false,
    "review_status": "checked_against_pdf",
@@ -1436,6 +1485,7 @@
   },
   "faliscan": {
    "language_group": "Cap",
+   "language_group_db": "Cap",
    "period_group": "Capenate",
    "uncertain": false,
    "review_status": "checked_against_pdf",
@@ -1465,6 +1515,7 @@
   },
   "faliscan": {
    "language_group": "Cap",
+   "language_group_db": "Cap",
    "period_group": "Capenate",
    "uncertain": false,
    "review_status": "checked_against_pdf",
@@ -1494,6 +1545,7 @@
   },
   "faliscan": {
    "language_group": "Cap",
+   "language_group_db": "Cap",
    "period_group": "Capenate",
    "uncertain": false,
    "review_status": "checked_against_pdf",
@@ -1523,6 +1575,7 @@
   },
   "faliscan": {
    "language_group": "Cap",
+   "language_group_db": "Cap",
    "period_group": "Capenate",
    "uncertain": false,
    "review_status": "checked_against_pdf",
@@ -1552,6 +1605,7 @@
   },
   "faliscan": {
    "language_group": "Cap",
+   "language_group_db": "Cap",
    "period_group": "Capenate",
    "uncertain": true,
    "review_status": "checked_against_pdf",
@@ -1581,6 +1635,7 @@
   },
   "faliscan": {
    "language_group": "Cap",
+   "language_group_db": "Cap",
    "period_group": "Capenate",
    "uncertain": false,
    "review_status": "checked_against_pdf",
@@ -1610,6 +1665,7 @@
   },
   "faliscan": {
    "language_group": "Cap",
+   "language_group_db": "Cap",
    "period_group": "Capenate",
    "uncertain": true,
    "review_status": "checked_against_pdf",
@@ -1639,6 +1695,7 @@
   },
   "faliscan": {
    "language_group": "Cap",
+   "language_group_db": "Cap",
    "period_group": "Capenate",
    "uncertain": false,
    "review_status": "checked_against_pdf",
@@ -1668,6 +1725,7 @@
   },
   "faliscan": {
    "language_group": "Cap",
+   "language_group_db": "Cap",
    "period_group": "Capenate",
    "uncertain": false,
    "review_status": "checked_against_pdf",
@@ -1689,7 +1747,7 @@
   "object_type": "urn",
   "inscription_type": null,
   "monument_type": null,
-  "text": "ceres far---e---tom ------uf----ui--m ------adeuios mamazextosmed f-fiqod prauiosurnam sociaipordedkarai eqournelatitelafitaidupes arcen telomhuticilom pe paraidouiad",
+  "text": "ceres far---e---tom ------uf----ui--m ------adeuios mamazextosmed f-fiqod prauiosurnam sociaipordedkarai eqournelatitelafitaidupes arcen telomhuticilom pe parai-douiad",
   "region_sub": null,
   "region_main": "Le Colonnette necropolis, Civita Castellana",
   "ids_alt": {
@@ -1697,13 +1755,14 @@
   },
   "faliscan": {
    "language_group": "EF",
+   "language_group_db": "EF",
    "period_group": "Early Faliscan",
    "uncertain": false,
    "review_status": "checked_against_pdf",
    "direction": "dextroverse",
    "date_label": "Usually dated to the sixth century BCE; Giglioli argued for a seventh-century date.",
    "text_source": "lines_json",
-   "diplomatic": "ceres far*[0-2]e[1-3]tom *[3-5]uf[1-4]ui[..]m *[3-4]*adeuios mamaz[e]xtosmed\nf[.f]ịqod praụ[i]osurnam soc̣[iai]p̣ordedkarai eqoụrneḷ[ati?]telafitaidupes arcen\ntelomhutị[c?]ilom pe para[i?1]douiad [",
+   "diplomatic": "ceres far*[0-2]e[1-3]tom *[3-5]uf[1-4]ui[..]m *[3-4]*adeuios mamaz[e]xtosmed\nf[.f]ịqod praụ[i]osurnam soc̣[iai]p̣ordedkarai eqoụrneḷ[ati?]telafitaidupes arcen\ntelomhutị[c?]ilom pe para[i?.]douiad [",
    "gap_ranges": [
     [
      0,
@@ -1727,222 +1786,222 @@
     ]
    ],
    "text_variants": [
-    "ceres far---e---tom ------uf----ui--m ------adeuios mamazextosmed f-fiqod prauiosurnam sociaipordedkarai eqournelatitelafitaidupes arcen telomhuticilom pe paraidouiad",
-    "ceres far---e---tom ------uf----ui--m -----adeuios mamazextosmed f-fiqod prauiosurnam sociaipordedkarai eqournelatitelafitaidupes arcen telomhuticilom pe paraidouiad",
-    "ceres far---e---tom ------uf---ui--m ------adeuios mamazextosmed f-fiqod prauiosurnam sociaipordedkarai eqournelatitelafitaidupes arcen telomhuticilom pe paraidouiad",
-    "ceres far---e---tom ------uf---ui--m -----adeuios mamazextosmed f-fiqod prauiosurnam sociaipordedkarai eqournelatitelafitaidupes arcen telomhuticilom pe paraidouiad",
-    "ceres far---e---tom ------uf--ui--m ------adeuios mamazextosmed f-fiqod prauiosurnam sociaipordedkarai eqournelatitelafitaidupes arcen telomhuticilom pe paraidouiad",
-    "ceres far---e---tom ------uf--ui--m -----adeuios mamazextosmed f-fiqod prauiosurnam sociaipordedkarai eqournelatitelafitaidupes arcen telomhuticilom pe paraidouiad",
-    "ceres far---e---tom ------uf-ui--m ------adeuios mamazextosmed f-fiqod prauiosurnam sociaipordedkarai eqournelatitelafitaidupes arcen telomhuticilom pe paraidouiad",
-    "ceres far---e---tom ------uf-ui--m -----adeuios mamazextosmed f-fiqod prauiosurnam sociaipordedkarai eqournelatitelafitaidupes arcen telomhuticilom pe paraidouiad",
-    "ceres far---e---tom -----uf----ui--m ------adeuios mamazextosmed f-fiqod prauiosurnam sociaipordedkarai eqournelatitelafitaidupes arcen telomhuticilom pe paraidouiad",
-    "ceres far---e---tom -----uf----ui--m -----adeuios mamazextosmed f-fiqod prauiosurnam sociaipordedkarai eqournelatitelafitaidupes arcen telomhuticilom pe paraidouiad",
-    "ceres far---e---tom -----uf---ui--m ------adeuios mamazextosmed f-fiqod prauiosurnam sociaipordedkarai eqournelatitelafitaidupes arcen telomhuticilom pe paraidouiad",
-    "ceres far---e---tom -----uf---ui--m -----adeuios mamazextosmed f-fiqod prauiosurnam sociaipordedkarai eqournelatitelafitaidupes arcen telomhuticilom pe paraidouiad",
-    "ceres far---e---tom -----uf--ui--m ------adeuios mamazextosmed f-fiqod prauiosurnam sociaipordedkarai eqournelatitelafitaidupes arcen telomhuticilom pe paraidouiad",
-    "ceres far---e---tom -----uf--ui--m -----adeuios mamazextosmed f-fiqod prauiosurnam sociaipordedkarai eqournelatitelafitaidupes arcen telomhuticilom pe paraidouiad",
-    "ceres far---e---tom -----uf-ui--m ------adeuios mamazextosmed f-fiqod prauiosurnam sociaipordedkarai eqournelatitelafitaidupes arcen telomhuticilom pe paraidouiad",
-    "ceres far---e---tom -----uf-ui--m -----adeuios mamazextosmed f-fiqod prauiosurnam sociaipordedkarai eqournelatitelafitaidupes arcen telomhuticilom pe paraidouiad",
-    "ceres far---e---tom ----uf----ui--m ------adeuios mamazextosmed f-fiqod prauiosurnam sociaipordedkarai eqournelatitelafitaidupes arcen telomhuticilom pe paraidouiad",
-    "ceres far---e---tom ----uf----ui--m -----adeuios mamazextosmed f-fiqod prauiosurnam sociaipordedkarai eqournelatitelafitaidupes arcen telomhuticilom pe paraidouiad",
-    "ceres far---e---tom ----uf---ui--m ------adeuios mamazextosmed f-fiqod prauiosurnam sociaipordedkarai eqournelatitelafitaidupes arcen telomhuticilom pe paraidouiad",
-    "ceres far---e---tom ----uf---ui--m -----adeuios mamazextosmed f-fiqod prauiosurnam sociaipordedkarai eqournelatitelafitaidupes arcen telomhuticilom pe paraidouiad",
-    "ceres far---e---tom ----uf--ui--m ------adeuios mamazextosmed f-fiqod prauiosurnam sociaipordedkarai eqournelatitelafitaidupes arcen telomhuticilom pe paraidouiad",
-    "ceres far---e---tom ----uf--ui--m -----adeuios mamazextosmed f-fiqod prauiosurnam sociaipordedkarai eqournelatitelafitaidupes arcen telomhuticilom pe paraidouiad",
-    "ceres far---e---tom ----uf-ui--m ------adeuios mamazextosmed f-fiqod prauiosurnam sociaipordedkarai eqournelatitelafitaidupes arcen telomhuticilom pe paraidouiad",
-    "ceres far---e---tom ----uf-ui--m -----adeuios mamazextosmed f-fiqod prauiosurnam sociaipordedkarai eqournelatitelafitaidupes arcen telomhuticilom pe paraidouiad",
-    "ceres far---e--tom ------uf----ui--m ------adeuios mamazextosmed f-fiqod prauiosurnam sociaipordedkarai eqournelatitelafitaidupes arcen telomhuticilom pe paraidouiad",
-    "ceres far---e--tom ------uf----ui--m -----adeuios mamazextosmed f-fiqod prauiosurnam sociaipordedkarai eqournelatitelafitaidupes arcen telomhuticilom pe paraidouiad",
-    "ceres far---e--tom ------uf---ui--m ------adeuios mamazextosmed f-fiqod prauiosurnam sociaipordedkarai eqournelatitelafitaidupes arcen telomhuticilom pe paraidouiad",
-    "ceres far---e--tom ------uf---ui--m -----adeuios mamazextosmed f-fiqod prauiosurnam sociaipordedkarai eqournelatitelafitaidupes arcen telomhuticilom pe paraidouiad",
-    "ceres far---e--tom ------uf--ui--m ------adeuios mamazextosmed f-fiqod prauiosurnam sociaipordedkarai eqournelatitelafitaidupes arcen telomhuticilom pe paraidouiad",
-    "ceres far---e--tom ------uf--ui--m -----adeuios mamazextosmed f-fiqod prauiosurnam sociaipordedkarai eqournelatitelafitaidupes arcen telomhuticilom pe paraidouiad",
-    "ceres far---e--tom ------uf-ui--m ------adeuios mamazextosmed f-fiqod prauiosurnam sociaipordedkarai eqournelatitelafitaidupes arcen telomhuticilom pe paraidouiad",
-    "ceres far---e--tom ------uf-ui--m -----adeuios mamazextosmed f-fiqod prauiosurnam sociaipordedkarai eqournelatitelafitaidupes arcen telomhuticilom pe paraidouiad",
-    "ceres far---e--tom -----uf----ui--m ------adeuios mamazextosmed f-fiqod prauiosurnam sociaipordedkarai eqournelatitelafitaidupes arcen telomhuticilom pe paraidouiad",
-    "ceres far---e--tom -----uf----ui--m -----adeuios mamazextosmed f-fiqod prauiosurnam sociaipordedkarai eqournelatitelafitaidupes arcen telomhuticilom pe paraidouiad",
-    "ceres far---e--tom -----uf---ui--m ------adeuios mamazextosmed f-fiqod prauiosurnam sociaipordedkarai eqournelatitelafitaidupes arcen telomhuticilom pe paraidouiad",
-    "ceres far---e--tom -----uf---ui--m -----adeuios mamazextosmed f-fiqod prauiosurnam sociaipordedkarai eqournelatitelafitaidupes arcen telomhuticilom pe paraidouiad",
-    "ceres far---e--tom -----uf--ui--m ------adeuios mamazextosmed f-fiqod prauiosurnam sociaipordedkarai eqournelatitelafitaidupes arcen telomhuticilom pe paraidouiad",
-    "ceres far---e--tom -----uf--ui--m -----adeuios mamazextosmed f-fiqod prauiosurnam sociaipordedkarai eqournelatitelafitaidupes arcen telomhuticilom pe paraidouiad",
-    "ceres far---e--tom -----uf-ui--m ------adeuios mamazextosmed f-fiqod prauiosurnam sociaipordedkarai eqournelatitelafitaidupes arcen telomhuticilom pe paraidouiad",
-    "ceres far---e--tom -----uf-ui--m -----adeuios mamazextosmed f-fiqod prauiosurnam sociaipordedkarai eqournelatitelafitaidupes arcen telomhuticilom pe paraidouiad",
-    "ceres far---e--tom ----uf----ui--m ------adeuios mamazextosmed f-fiqod prauiosurnam sociaipordedkarai eqournelatitelafitaidupes arcen telomhuticilom pe paraidouiad",
-    "ceres far---e--tom ----uf----ui--m -----adeuios mamazextosmed f-fiqod prauiosurnam sociaipordedkarai eqournelatitelafitaidupes arcen telomhuticilom pe paraidouiad",
-    "ceres far---e--tom ----uf---ui--m ------adeuios mamazextosmed f-fiqod prauiosurnam sociaipordedkarai eqournelatitelafitaidupes arcen telomhuticilom pe paraidouiad",
-    "ceres far---e--tom ----uf---ui--m -----adeuios mamazextosmed f-fiqod prauiosurnam sociaipordedkarai eqournelatitelafitaidupes arcen telomhuticilom pe paraidouiad",
-    "ceres far---e--tom ----uf--ui--m ------adeuios mamazextosmed f-fiqod prauiosurnam sociaipordedkarai eqournelatitelafitaidupes arcen telomhuticilom pe paraidouiad",
-    "ceres far---e--tom ----uf--ui--m -----adeuios mamazextosmed f-fiqod prauiosurnam sociaipordedkarai eqournelatitelafitaidupes arcen telomhuticilom pe paraidouiad",
-    "ceres far---e--tom ----uf-ui--m ------adeuios mamazextosmed f-fiqod prauiosurnam sociaipordedkarai eqournelatitelafitaidupes arcen telomhuticilom pe paraidouiad",
-    "ceres far---e--tom ----uf-ui--m -----adeuios mamazextosmed f-fiqod prauiosurnam sociaipordedkarai eqournelatitelafitaidupes arcen telomhuticilom pe paraidouiad",
-    "ceres far---e-tom ------uf----ui--m ------adeuios mamazextosmed f-fiqod prauiosurnam sociaipordedkarai eqournelatitelafitaidupes arcen telomhuticilom pe paraidouiad",
-    "ceres far---e-tom ------uf----ui--m -----adeuios mamazextosmed f-fiqod prauiosurnam sociaipordedkarai eqournelatitelafitaidupes arcen telomhuticilom pe paraidouiad",
-    "ceres far---e-tom ------uf---ui--m ------adeuios mamazextosmed f-fiqod prauiosurnam sociaipordedkarai eqournelatitelafitaidupes arcen telomhuticilom pe paraidouiad",
-    "ceres far---e-tom ------uf---ui--m -----adeuios mamazextosmed f-fiqod prauiosurnam sociaipordedkarai eqournelatitelafitaidupes arcen telomhuticilom pe paraidouiad",
-    "ceres far---e-tom ------uf--ui--m ------adeuios mamazextosmed f-fiqod prauiosurnam sociaipordedkarai eqournelatitelafitaidupes arcen telomhuticilom pe paraidouiad",
-    "ceres far---e-tom ------uf--ui--m -----adeuios mamazextosmed f-fiqod prauiosurnam sociaipordedkarai eqournelatitelafitaidupes arcen telomhuticilom pe paraidouiad",
-    "ceres far---e-tom ------uf-ui--m ------adeuios mamazextosmed f-fiqod prauiosurnam sociaipordedkarai eqournelatitelafitaidupes arcen telomhuticilom pe paraidouiad",
-    "ceres far---e-tom ------uf-ui--m -----adeuios mamazextosmed f-fiqod prauiosurnam sociaipordedkarai eqournelatitelafitaidupes arcen telomhuticilom pe paraidouiad",
-    "ceres far---e-tom -----uf----ui--m ------adeuios mamazextosmed f-fiqod prauiosurnam sociaipordedkarai eqournelatitelafitaidupes arcen telomhuticilom pe paraidouiad",
-    "ceres far---e-tom -----uf----ui--m -----adeuios mamazextosmed f-fiqod prauiosurnam sociaipordedkarai eqournelatitelafitaidupes arcen telomhuticilom pe paraidouiad",
-    "ceres far---e-tom -----uf---ui--m ------adeuios mamazextosmed f-fiqod prauiosurnam sociaipordedkarai eqournelatitelafitaidupes arcen telomhuticilom pe paraidouiad",
-    "ceres far---e-tom -----uf---ui--m -----adeuios mamazextosmed f-fiqod prauiosurnam sociaipordedkarai eqournelatitelafitaidupes arcen telomhuticilom pe paraidouiad",
-    "ceres far---e-tom -----uf--ui--m ------adeuios mamazextosmed f-fiqod prauiosurnam sociaipordedkarai eqournelatitelafitaidupes arcen telomhuticilom pe paraidouiad",
-    "ceres far---e-tom -----uf--ui--m -----adeuios mamazextosmed f-fiqod prauiosurnam sociaipordedkarai eqournelatitelafitaidupes arcen telomhuticilom pe paraidouiad",
-    "ceres far---e-tom -----uf-ui--m ------adeuios mamazextosmed f-fiqod prauiosurnam sociaipordedkarai eqournelatitelafitaidupes arcen telomhuticilom pe paraidouiad",
-    "ceres far---e-tom -----uf-ui--m -----adeuios mamazextosmed f-fiqod prauiosurnam sociaipordedkarai eqournelatitelafitaidupes arcen telomhuticilom pe paraidouiad",
-    "ceres far---e-tom ----uf----ui--m ------adeuios mamazextosmed f-fiqod prauiosurnam sociaipordedkarai eqournelatitelafitaidupes arcen telomhuticilom pe paraidouiad",
-    "ceres far---e-tom ----uf----ui--m -----adeuios mamazextosmed f-fiqod prauiosurnam sociaipordedkarai eqournelatitelafitaidupes arcen telomhuticilom pe paraidouiad",
-    "ceres far---e-tom ----uf---ui--m ------adeuios mamazextosmed f-fiqod prauiosurnam sociaipordedkarai eqournelatitelafitaidupes arcen telomhuticilom pe paraidouiad",
-    "ceres far---e-tom ----uf---ui--m -----adeuios mamazextosmed f-fiqod prauiosurnam sociaipordedkarai eqournelatitelafitaidupes arcen telomhuticilom pe paraidouiad",
-    "ceres far---e-tom ----uf--ui--m ------adeuios mamazextosmed f-fiqod prauiosurnam sociaipordedkarai eqournelatitelafitaidupes arcen telomhuticilom pe paraidouiad",
-    "ceres far---e-tom ----uf--ui--m -----adeuios mamazextosmed f-fiqod prauiosurnam sociaipordedkarai eqournelatitelafitaidupes arcen telomhuticilom pe paraidouiad",
-    "ceres far---e-tom ----uf-ui--m ------adeuios mamazextosmed f-fiqod prauiosurnam sociaipordedkarai eqournelatitelafitaidupes arcen telomhuticilom pe paraidouiad",
-    "ceres far---e-tom ----uf-ui--m -----adeuios mamazextosmed f-fiqod prauiosurnam sociaipordedkarai eqournelatitelafitaidupes arcen telomhuticilom pe paraidouiad",
-    "ceres far--e---tom ------uf----ui--m ------adeuios mamazextosmed f-fiqod prauiosurnam sociaipordedkarai eqournelatitelafitaidupes arcen telomhuticilom pe paraidouiad",
-    "ceres far--e---tom ------uf----ui--m -----adeuios mamazextosmed f-fiqod prauiosurnam sociaipordedkarai eqournelatitelafitaidupes arcen telomhuticilom pe paraidouiad",
-    "ceres far--e---tom ------uf---ui--m ------adeuios mamazextosmed f-fiqod prauiosurnam sociaipordedkarai eqournelatitelafitaidupes arcen telomhuticilom pe paraidouiad",
-    "ceres far--e---tom ------uf---ui--m -----adeuios mamazextosmed f-fiqod prauiosurnam sociaipordedkarai eqournelatitelafitaidupes arcen telomhuticilom pe paraidouiad",
-    "ceres far--e---tom ------uf--ui--m ------adeuios mamazextosmed f-fiqod prauiosurnam sociaipordedkarai eqournelatitelafitaidupes arcen telomhuticilom pe paraidouiad",
-    "ceres far--e---tom ------uf--ui--m -----adeuios mamazextosmed f-fiqod prauiosurnam sociaipordedkarai eqournelatitelafitaidupes arcen telomhuticilom pe paraidouiad",
-    "ceres far--e---tom ------uf-ui--m ------adeuios mamazextosmed f-fiqod prauiosurnam sociaipordedkarai eqournelatitelafitaidupes arcen telomhuticilom pe paraidouiad",
-    "ceres far--e---tom ------uf-ui--m -----adeuios mamazextosmed f-fiqod prauiosurnam sociaipordedkarai eqournelatitelafitaidupes arcen telomhuticilom pe paraidouiad",
-    "ceres far--e---tom -----uf----ui--m ------adeuios mamazextosmed f-fiqod prauiosurnam sociaipordedkarai eqournelatitelafitaidupes arcen telomhuticilom pe paraidouiad",
-    "ceres far--e---tom -----uf----ui--m -----adeuios mamazextosmed f-fiqod prauiosurnam sociaipordedkarai eqournelatitelafitaidupes arcen telomhuticilom pe paraidouiad",
-    "ceres far--e---tom -----uf---ui--m ------adeuios mamazextosmed f-fiqod prauiosurnam sociaipordedkarai eqournelatitelafitaidupes arcen telomhuticilom pe paraidouiad",
-    "ceres far--e---tom -----uf---ui--m -----adeuios mamazextosmed f-fiqod prauiosurnam sociaipordedkarai eqournelatitelafitaidupes arcen telomhuticilom pe paraidouiad",
-    "ceres far--e---tom -----uf--ui--m ------adeuios mamazextosmed f-fiqod prauiosurnam sociaipordedkarai eqournelatitelafitaidupes arcen telomhuticilom pe paraidouiad",
-    "ceres far--e---tom -----uf--ui--m -----adeuios mamazextosmed f-fiqod prauiosurnam sociaipordedkarai eqournelatitelafitaidupes arcen telomhuticilom pe paraidouiad",
-    "ceres far--e---tom -----uf-ui--m ------adeuios mamazextosmed f-fiqod prauiosurnam sociaipordedkarai eqournelatitelafitaidupes arcen telomhuticilom pe paraidouiad",
-    "ceres far--e---tom -----uf-ui--m -----adeuios mamazextosmed f-fiqod prauiosurnam sociaipordedkarai eqournelatitelafitaidupes arcen telomhuticilom pe paraidouiad",
-    "ceres far--e---tom ----uf----ui--m ------adeuios mamazextosmed f-fiqod prauiosurnam sociaipordedkarai eqournelatitelafitaidupes arcen telomhuticilom pe paraidouiad",
-    "ceres far--e---tom ----uf----ui--m -----adeuios mamazextosmed f-fiqod prauiosurnam sociaipordedkarai eqournelatitelafitaidupes arcen telomhuticilom pe paraidouiad",
-    "ceres far--e---tom ----uf---ui--m ------adeuios mamazextosmed f-fiqod prauiosurnam sociaipordedkarai eqournelatitelafitaidupes arcen telomhuticilom pe paraidouiad",
-    "ceres far--e---tom ----uf---ui--m -----adeuios mamazextosmed f-fiqod prauiosurnam sociaipordedkarai eqournelatitelafitaidupes arcen telomhuticilom pe paraidouiad",
-    "ceres far--e---tom ----uf--ui--m ------adeuios mamazextosmed f-fiqod prauiosurnam sociaipordedkarai eqournelatitelafitaidupes arcen telomhuticilom pe paraidouiad",
-    "ceres far--e---tom ----uf--ui--m -----adeuios mamazextosmed f-fiqod prauiosurnam sociaipordedkarai eqournelatitelafitaidupes arcen telomhuticilom pe paraidouiad",
-    "ceres far--e---tom ----uf-ui--m ------adeuios mamazextosmed f-fiqod prauiosurnam sociaipordedkarai eqournelatitelafitaidupes arcen telomhuticilom pe paraidouiad",
-    "ceres far--e---tom ----uf-ui--m -----adeuios mamazextosmed f-fiqod prauiosurnam sociaipordedkarai eqournelatitelafitaidupes arcen telomhuticilom pe paraidouiad",
-    "ceres far--e--tom ------uf----ui--m ------adeuios mamazextosmed f-fiqod prauiosurnam sociaipordedkarai eqournelatitelafitaidupes arcen telomhuticilom pe paraidouiad",
-    "ceres far--e--tom ------uf----ui--m -----adeuios mamazextosmed f-fiqod prauiosurnam sociaipordedkarai eqournelatitelafitaidupes arcen telomhuticilom pe paraidouiad",
-    "ceres far--e--tom ------uf---ui--m ------adeuios mamazextosmed f-fiqod prauiosurnam sociaipordedkarai eqournelatitelafitaidupes arcen telomhuticilom pe paraidouiad",
-    "ceres far--e--tom ------uf---ui--m -----adeuios mamazextosmed f-fiqod prauiosurnam sociaipordedkarai eqournelatitelafitaidupes arcen telomhuticilom pe paraidouiad",
-    "ceres far--e--tom ------uf--ui--m ------adeuios mamazextosmed f-fiqod prauiosurnam sociaipordedkarai eqournelatitelafitaidupes arcen telomhuticilom pe paraidouiad",
-    "ceres far--e--tom ------uf--ui--m -----adeuios mamazextosmed f-fiqod prauiosurnam sociaipordedkarai eqournelatitelafitaidupes arcen telomhuticilom pe paraidouiad",
-    "ceres far--e--tom ------uf-ui--m ------adeuios mamazextosmed f-fiqod prauiosurnam sociaipordedkarai eqournelatitelafitaidupes arcen telomhuticilom pe paraidouiad",
-    "ceres far--e--tom ------uf-ui--m -----adeuios mamazextosmed f-fiqod prauiosurnam sociaipordedkarai eqournelatitelafitaidupes arcen telomhuticilom pe paraidouiad",
-    "ceres far--e--tom -----uf----ui--m ------adeuios mamazextosmed f-fiqod prauiosurnam sociaipordedkarai eqournelatitelafitaidupes arcen telomhuticilom pe paraidouiad",
-    "ceres far--e--tom -----uf----ui--m -----adeuios mamazextosmed f-fiqod prauiosurnam sociaipordedkarai eqournelatitelafitaidupes arcen telomhuticilom pe paraidouiad",
-    "ceres far--e--tom -----uf---ui--m ------adeuios mamazextosmed f-fiqod prauiosurnam sociaipordedkarai eqournelatitelafitaidupes arcen telomhuticilom pe paraidouiad",
-    "ceres far--e--tom -----uf---ui--m -----adeuios mamazextosmed f-fiqod prauiosurnam sociaipordedkarai eqournelatitelafitaidupes arcen telomhuticilom pe paraidouiad",
-    "ceres far--e--tom -----uf--ui--m ------adeuios mamazextosmed f-fiqod prauiosurnam sociaipordedkarai eqournelatitelafitaidupes arcen telomhuticilom pe paraidouiad",
-    "ceres far--e--tom -----uf--ui--m -----adeuios mamazextosmed f-fiqod prauiosurnam sociaipordedkarai eqournelatitelafitaidupes arcen telomhuticilom pe paraidouiad",
-    "ceres far--e--tom -----uf-ui--m ------adeuios mamazextosmed f-fiqod prauiosurnam sociaipordedkarai eqournelatitelafitaidupes arcen telomhuticilom pe paraidouiad",
-    "ceres far--e--tom -----uf-ui--m -----adeuios mamazextosmed f-fiqod prauiosurnam sociaipordedkarai eqournelatitelafitaidupes arcen telomhuticilom pe paraidouiad",
-    "ceres far--e--tom ----uf----ui--m ------adeuios mamazextosmed f-fiqod prauiosurnam sociaipordedkarai eqournelatitelafitaidupes arcen telomhuticilom pe paraidouiad",
-    "ceres far--e--tom ----uf----ui--m -----adeuios mamazextosmed f-fiqod prauiosurnam sociaipordedkarai eqournelatitelafitaidupes arcen telomhuticilom pe paraidouiad",
-    "ceres far--e--tom ----uf---ui--m ------adeuios mamazextosmed f-fiqod prauiosurnam sociaipordedkarai eqournelatitelafitaidupes arcen telomhuticilom pe paraidouiad",
-    "ceres far--e--tom ----uf---ui--m -----adeuios mamazextosmed f-fiqod prauiosurnam sociaipordedkarai eqournelatitelafitaidupes arcen telomhuticilom pe paraidouiad",
-    "ceres far--e--tom ----uf--ui--m ------adeuios mamazextosmed f-fiqod prauiosurnam sociaipordedkarai eqournelatitelafitaidupes arcen telomhuticilom pe paraidouiad",
-    "ceres far--e--tom ----uf--ui--m -----adeuios mamazextosmed f-fiqod prauiosurnam sociaipordedkarai eqournelatitelafitaidupes arcen telomhuticilom pe paraidouiad",
-    "ceres far--e--tom ----uf-ui--m ------adeuios mamazextosmed f-fiqod prauiosurnam sociaipordedkarai eqournelatitelafitaidupes arcen telomhuticilom pe paraidouiad",
-    "ceres far--e--tom ----uf-ui--m -----adeuios mamazextosmed f-fiqod prauiosurnam sociaipordedkarai eqournelatitelafitaidupes arcen telomhuticilom pe paraidouiad",
-    "ceres far--e-tom ------uf----ui--m ------adeuios mamazextosmed f-fiqod prauiosurnam sociaipordedkarai eqournelatitelafitaidupes arcen telomhuticilom pe paraidouiad",
-    "ceres far--e-tom ------uf----ui--m -----adeuios mamazextosmed f-fiqod prauiosurnam sociaipordedkarai eqournelatitelafitaidupes arcen telomhuticilom pe paraidouiad",
-    "ceres far--e-tom ------uf---ui--m ------adeuios mamazextosmed f-fiqod prauiosurnam sociaipordedkarai eqournelatitelafitaidupes arcen telomhuticilom pe paraidouiad",
-    "ceres far--e-tom ------uf---ui--m -----adeuios mamazextosmed f-fiqod prauiosurnam sociaipordedkarai eqournelatitelafitaidupes arcen telomhuticilom pe paraidouiad",
-    "ceres far--e-tom ------uf--ui--m ------adeuios mamazextosmed f-fiqod prauiosurnam sociaipordedkarai eqournelatitelafitaidupes arcen telomhuticilom pe paraidouiad",
-    "ceres far--e-tom ------uf--ui--m -----adeuios mamazextosmed f-fiqod prauiosurnam sociaipordedkarai eqournelatitelafitaidupes arcen telomhuticilom pe paraidouiad",
-    "ceres far--e-tom ------uf-ui--m ------adeuios mamazextosmed f-fiqod prauiosurnam sociaipordedkarai eqournelatitelafitaidupes arcen telomhuticilom pe paraidouiad",
-    "ceres far--e-tom ------uf-ui--m -----adeuios mamazextosmed f-fiqod prauiosurnam sociaipordedkarai eqournelatitelafitaidupes arcen telomhuticilom pe paraidouiad",
-    "ceres far--e-tom -----uf----ui--m ------adeuios mamazextosmed f-fiqod prauiosurnam sociaipordedkarai eqournelatitelafitaidupes arcen telomhuticilom pe paraidouiad",
-    "ceres far--e-tom -----uf----ui--m -----adeuios mamazextosmed f-fiqod prauiosurnam sociaipordedkarai eqournelatitelafitaidupes arcen telomhuticilom pe paraidouiad",
-    "ceres far--e-tom -----uf---ui--m ------adeuios mamazextosmed f-fiqod prauiosurnam sociaipordedkarai eqournelatitelafitaidupes arcen telomhuticilom pe paraidouiad",
-    "ceres far--e-tom -----uf---ui--m -----adeuios mamazextosmed f-fiqod prauiosurnam sociaipordedkarai eqournelatitelafitaidupes arcen telomhuticilom pe paraidouiad",
-    "ceres far--e-tom -----uf--ui--m ------adeuios mamazextosmed f-fiqod prauiosurnam sociaipordedkarai eqournelatitelafitaidupes arcen telomhuticilom pe paraidouiad",
-    "ceres far--e-tom -----uf--ui--m -----adeuios mamazextosmed f-fiqod prauiosurnam sociaipordedkarai eqournelatitelafitaidupes arcen telomhuticilom pe paraidouiad",
-    "ceres far--e-tom -----uf-ui--m ------adeuios mamazextosmed f-fiqod prauiosurnam sociaipordedkarai eqournelatitelafitaidupes arcen telomhuticilom pe paraidouiad",
-    "ceres far--e-tom -----uf-ui--m -----adeuios mamazextosmed f-fiqod prauiosurnam sociaipordedkarai eqournelatitelafitaidupes arcen telomhuticilom pe paraidouiad",
-    "ceres far--e-tom ----uf----ui--m ------adeuios mamazextosmed f-fiqod prauiosurnam sociaipordedkarai eqournelatitelafitaidupes arcen telomhuticilom pe paraidouiad",
-    "ceres far--e-tom ----uf----ui--m -----adeuios mamazextosmed f-fiqod prauiosurnam sociaipordedkarai eqournelatitelafitaidupes arcen telomhuticilom pe paraidouiad",
-    "ceres far--e-tom ----uf---ui--m ------adeuios mamazextosmed f-fiqod prauiosurnam sociaipordedkarai eqournelatitelafitaidupes arcen telomhuticilom pe paraidouiad",
-    "ceres far--e-tom ----uf---ui--m -----adeuios mamazextosmed f-fiqod prauiosurnam sociaipordedkarai eqournelatitelafitaidupes arcen telomhuticilom pe paraidouiad",
-    "ceres far--e-tom ----uf--ui--m ------adeuios mamazextosmed f-fiqod prauiosurnam sociaipordedkarai eqournelatitelafitaidupes arcen telomhuticilom pe paraidouiad",
-    "ceres far--e-tom ----uf--ui--m -----adeuios mamazextosmed f-fiqod prauiosurnam sociaipordedkarai eqournelatitelafitaidupes arcen telomhuticilom pe paraidouiad",
-    "ceres far--e-tom ----uf-ui--m ------adeuios mamazextosmed f-fiqod prauiosurnam sociaipordedkarai eqournelatitelafitaidupes arcen telomhuticilom pe paraidouiad",
-    "ceres far--e-tom ----uf-ui--m -----adeuios mamazextosmed f-fiqod prauiosurnam sociaipordedkarai eqournelatitelafitaidupes arcen telomhuticilom pe paraidouiad",
-    "ceres far-e---tom ------uf----ui--m ------adeuios mamazextosmed f-fiqod prauiosurnam sociaipordedkarai eqournelatitelafitaidupes arcen telomhuticilom pe paraidouiad",
-    "ceres far-e---tom ------uf----ui--m -----adeuios mamazextosmed f-fiqod prauiosurnam sociaipordedkarai eqournelatitelafitaidupes arcen telomhuticilom pe paraidouiad",
-    "ceres far-e---tom ------uf---ui--m ------adeuios mamazextosmed f-fiqod prauiosurnam sociaipordedkarai eqournelatitelafitaidupes arcen telomhuticilom pe paraidouiad",
-    "ceres far-e---tom ------uf---ui--m -----adeuios mamazextosmed f-fiqod prauiosurnam sociaipordedkarai eqournelatitelafitaidupes arcen telomhuticilom pe paraidouiad",
-    "ceres far-e---tom ------uf--ui--m ------adeuios mamazextosmed f-fiqod prauiosurnam sociaipordedkarai eqournelatitelafitaidupes arcen telomhuticilom pe paraidouiad",
-    "ceres far-e---tom ------uf--ui--m -----adeuios mamazextosmed f-fiqod prauiosurnam sociaipordedkarai eqournelatitelafitaidupes arcen telomhuticilom pe paraidouiad",
-    "ceres far-e---tom ------uf-ui--m ------adeuios mamazextosmed f-fiqod prauiosurnam sociaipordedkarai eqournelatitelafitaidupes arcen telomhuticilom pe paraidouiad",
-    "ceres far-e---tom ------uf-ui--m -----adeuios mamazextosmed f-fiqod prauiosurnam sociaipordedkarai eqournelatitelafitaidupes arcen telomhuticilom pe paraidouiad",
-    "ceres far-e---tom -----uf----ui--m ------adeuios mamazextosmed f-fiqod prauiosurnam sociaipordedkarai eqournelatitelafitaidupes arcen telomhuticilom pe paraidouiad",
-    "ceres far-e---tom -----uf----ui--m -----adeuios mamazextosmed f-fiqod prauiosurnam sociaipordedkarai eqournelatitelafitaidupes arcen telomhuticilom pe paraidouiad",
-    "ceres far-e---tom -----uf---ui--m ------adeuios mamazextosmed f-fiqod prauiosurnam sociaipordedkarai eqournelatitelafitaidupes arcen telomhuticilom pe paraidouiad",
-    "ceres far-e---tom -----uf---ui--m -----adeuios mamazextosmed f-fiqod prauiosurnam sociaipordedkarai eqournelatitelafitaidupes arcen telomhuticilom pe paraidouiad",
-    "ceres far-e---tom -----uf--ui--m ------adeuios mamazextosmed f-fiqod prauiosurnam sociaipordedkarai eqournelatitelafitaidupes arcen telomhuticilom pe paraidouiad",
-    "ceres far-e---tom -----uf--ui--m -----adeuios mamazextosmed f-fiqod prauiosurnam sociaipordedkarai eqournelatitelafitaidupes arcen telomhuticilom pe paraidouiad",
-    "ceres far-e---tom -----uf-ui--m ------adeuios mamazextosmed f-fiqod prauiosurnam sociaipordedkarai eqournelatitelafitaidupes arcen telomhuticilom pe paraidouiad",
-    "ceres far-e---tom -----uf-ui--m -----adeuios mamazextosmed f-fiqod prauiosurnam sociaipordedkarai eqournelatitelafitaidupes arcen telomhuticilom pe paraidouiad",
-    "ceres far-e---tom ----uf----ui--m ------adeuios mamazextosmed f-fiqod prauiosurnam sociaipordedkarai eqournelatitelafitaidupes arcen telomhuticilom pe paraidouiad",
-    "ceres far-e---tom ----uf----ui--m -----adeuios mamazextosmed f-fiqod prauiosurnam sociaipordedkarai eqournelatitelafitaidupes arcen telomhuticilom pe paraidouiad",
-    "ceres far-e---tom ----uf---ui--m ------adeuios mamazextosmed f-fiqod prauiosurnam sociaipordedkarai eqournelatitelafitaidupes arcen telomhuticilom pe paraidouiad",
-    "ceres far-e---tom ----uf---ui--m -----adeuios mamazextosmed f-fiqod prauiosurnam sociaipordedkarai eqournelatitelafitaidupes arcen telomhuticilom pe paraidouiad",
-    "ceres far-e---tom ----uf--ui--m ------adeuios mamazextosmed f-fiqod prauiosurnam sociaipordedkarai eqournelatitelafitaidupes arcen telomhuticilom pe paraidouiad",
-    "ceres far-e---tom ----uf--ui--m -----adeuios mamazextosmed f-fiqod prauiosurnam sociaipordedkarai eqournelatitelafitaidupes arcen telomhuticilom pe paraidouiad",
-    "ceres far-e---tom ----uf-ui--m ------adeuios mamazextosmed f-fiqod prauiosurnam sociaipordedkarai eqournelatitelafitaidupes arcen telomhuticilom pe paraidouiad",
-    "ceres far-e---tom ----uf-ui--m -----adeuios mamazextosmed f-fiqod prauiosurnam sociaipordedkarai eqournelatitelafitaidupes arcen telomhuticilom pe paraidouiad",
-    "ceres far-e--tom ------uf----ui--m ------adeuios mamazextosmed f-fiqod prauiosurnam sociaipordedkarai eqournelatitelafitaidupes arcen telomhuticilom pe paraidouiad",
-    "ceres far-e--tom ------uf----ui--m -----adeuios mamazextosmed f-fiqod prauiosurnam sociaipordedkarai eqournelatitelafitaidupes arcen telomhuticilom pe paraidouiad",
-    "ceres far-e--tom ------uf---ui--m ------adeuios mamazextosmed f-fiqod prauiosurnam sociaipordedkarai eqournelatitelafitaidupes arcen telomhuticilom pe paraidouiad",
-    "ceres far-e--tom ------uf---ui--m -----adeuios mamazextosmed f-fiqod prauiosurnam sociaipordedkarai eqournelatitelafitaidupes arcen telomhuticilom pe paraidouiad",
-    "ceres far-e--tom ------uf--ui--m ------adeuios mamazextosmed f-fiqod prauiosurnam sociaipordedkarai eqournelatitelafitaidupes arcen telomhuticilom pe paraidouiad",
-    "ceres far-e--tom ------uf--ui--m -----adeuios mamazextosmed f-fiqod prauiosurnam sociaipordedkarai eqournelatitelafitaidupes arcen telomhuticilom pe paraidouiad",
-    "ceres far-e--tom ------uf-ui--m ------adeuios mamazextosmed f-fiqod prauiosurnam sociaipordedkarai eqournelatitelafitaidupes arcen telomhuticilom pe paraidouiad",
-    "ceres far-e--tom ------uf-ui--m -----adeuios mamazextosmed f-fiqod prauiosurnam sociaipordedkarai eqournelatitelafitaidupes arcen telomhuticilom pe paraidouiad",
-    "ceres far-e--tom -----uf----ui--m ------adeuios mamazextosmed f-fiqod prauiosurnam sociaipordedkarai eqournelatitelafitaidupes arcen telomhuticilom pe paraidouiad",
-    "ceres far-e--tom -----uf----ui--m -----adeuios mamazextosmed f-fiqod prauiosurnam sociaipordedkarai eqournelatitelafitaidupes arcen telomhuticilom pe paraidouiad",
-    "ceres far-e--tom -----uf---ui--m ------adeuios mamazextosmed f-fiqod prauiosurnam sociaipordedkarai eqournelatitelafitaidupes arcen telomhuticilom pe paraidouiad",
-    "ceres far-e--tom -----uf---ui--m -----adeuios mamazextosmed f-fiqod prauiosurnam sociaipordedkarai eqournelatitelafitaidupes arcen telomhuticilom pe paraidouiad",
-    "ceres far-e--tom -----uf--ui--m ------adeuios mamazextosmed f-fiqod prauiosurnam sociaipordedkarai eqournelatitelafitaidupes arcen telomhuticilom pe paraidouiad",
-    "ceres far-e--tom -----uf--ui--m -----adeuios mamazextosmed f-fiqod prauiosurnam sociaipordedkarai eqournelatitelafitaidupes arcen telomhuticilom pe paraidouiad",
-    "ceres far-e--tom -----uf-ui--m ------adeuios mamazextosmed f-fiqod prauiosurnam sociaipordedkarai eqournelatitelafitaidupes arcen telomhuticilom pe paraidouiad",
-    "ceres far-e--tom -----uf-ui--m -----adeuios mamazextosmed f-fiqod prauiosurnam sociaipordedkarai eqournelatitelafitaidupes arcen telomhuticilom pe paraidouiad",
-    "ceres far-e--tom ----uf----ui--m ------adeuios mamazextosmed f-fiqod prauiosurnam sociaipordedkarai eqournelatitelafitaidupes arcen telomhuticilom pe paraidouiad",
-    "ceres far-e--tom ----uf----ui--m -----adeuios mamazextosmed f-fiqod prauiosurnam sociaipordedkarai eqournelatitelafitaidupes arcen telomhuticilom pe paraidouiad",
-    "ceres far-e--tom ----uf---ui--m ------adeuios mamazextosmed f-fiqod prauiosurnam sociaipordedkarai eqournelatitelafitaidupes arcen telomhuticilom pe paraidouiad",
-    "ceres far-e--tom ----uf---ui--m -----adeuios mamazextosmed f-fiqod prauiosurnam sociaipordedkarai eqournelatitelafitaidupes arcen telomhuticilom pe paraidouiad",
-    "ceres far-e--tom ----uf--ui--m ------adeuios mamazextosmed f-fiqod prauiosurnam sociaipordedkarai eqournelatitelafitaidupes arcen telomhuticilom pe paraidouiad",
-    "ceres far-e--tom ----uf--ui--m -----adeuios mamazextosmed f-fiqod prauiosurnam sociaipordedkarai eqournelatitelafitaidupes arcen telomhuticilom pe paraidouiad",
-    "ceres far-e--tom ----uf-ui--m ------adeuios mamazextosmed f-fiqod prauiosurnam sociaipordedkarai eqournelatitelafitaidupes arcen telomhuticilom pe paraidouiad",
-    "ceres far-e--tom ----uf-ui--m -----adeuios mamazextosmed f-fiqod prauiosurnam sociaipordedkarai eqournelatitelafitaidupes arcen telomhuticilom pe paraidouiad",
-    "ceres far-e-tom ------uf----ui--m ------adeuios mamazextosmed f-fiqod prauiosurnam sociaipordedkarai eqournelatitelafitaidupes arcen telomhuticilom pe paraidouiad",
-    "ceres far-e-tom ------uf----ui--m -----adeuios mamazextosmed f-fiqod prauiosurnam sociaipordedkarai eqournelatitelafitaidupes arcen telomhuticilom pe paraidouiad",
-    "ceres far-e-tom ------uf---ui--m ------adeuios mamazextosmed f-fiqod prauiosurnam sociaipordedkarai eqournelatitelafitaidupes arcen telomhuticilom pe paraidouiad",
-    "ceres far-e-tom ------uf---ui--m -----adeuios mamazextosmed f-fiqod prauiosurnam sociaipordedkarai eqournelatitelafitaidupes arcen telomhuticilom pe paraidouiad",
-    "ceres far-e-tom ------uf--ui--m ------adeuios mamazextosmed f-fiqod prauiosurnam sociaipordedkarai eqournelatitelafitaidupes arcen telomhuticilom pe paraidouiad",
-    "ceres far-e-tom ------uf--ui--m -----adeuios mamazextosmed f-fiqod prauiosurnam sociaipordedkarai eqournelatitelafitaidupes arcen telomhuticilom pe paraidouiad",
-    "ceres far-e-tom ------uf-ui--m ------adeuios mamazextosmed f-fiqod prauiosurnam sociaipordedkarai eqournelatitelafitaidupes arcen telomhuticilom pe paraidouiad",
-    "ceres far-e-tom ------uf-ui--m -----adeuios mamazextosmed f-fiqod prauiosurnam sociaipordedkarai eqournelatitelafitaidupes arcen telomhuticilom pe paraidouiad",
-    "ceres far-e-tom -----uf----ui--m ------adeuios mamazextosmed f-fiqod prauiosurnam sociaipordedkarai eqournelatitelafitaidupes arcen telomhuticilom pe paraidouiad",
-    "ceres far-e-tom -----uf----ui--m -----adeuios mamazextosmed f-fiqod prauiosurnam sociaipordedkarai eqournelatitelafitaidupes arcen telomhuticilom pe paraidouiad",
-    "ceres far-e-tom -----uf---ui--m ------adeuios mamazextosmed f-fiqod prauiosurnam sociaipordedkarai eqournelatitelafitaidupes arcen telomhuticilom pe paraidouiad",
-    "ceres far-e-tom -----uf---ui--m -----adeuios mamazextosmed f-fiqod prauiosurnam sociaipordedkarai eqournelatitelafitaidupes arcen telomhuticilom pe paraidouiad",
-    "ceres far-e-tom -----uf--ui--m ------adeuios mamazextosmed f-fiqod prauiosurnam sociaipordedkarai eqournelatitelafitaidupes arcen telomhuticilom pe paraidouiad",
-    "ceres far-e-tom -----uf--ui--m -----adeuios mamazextosmed f-fiqod prauiosurnam sociaipordedkarai eqournelatitelafitaidupes arcen telomhuticilom pe paraidouiad",
-    "ceres far-e-tom -----uf-ui--m ------adeuios mamazextosmed f-fiqod prauiosurnam sociaipordedkarai eqournelatitelafitaidupes arcen telomhuticilom pe paraidouiad",
-    "ceres far-e-tom -----uf-ui--m -----adeuios mamazextosmed f-fiqod prauiosurnam sociaipordedkarai eqournelatitelafitaidupes arcen telomhuticilom pe paraidouiad",
-    "ceres far-e-tom ----uf----ui--m ------adeuios mamazextosmed f-fiqod prauiosurnam sociaipordedkarai eqournelatitelafitaidupes arcen telomhuticilom pe paraidouiad",
-    "ceres far-e-tom ----uf----ui--m -----adeuios mamazextosmed f-fiqod prauiosurnam sociaipordedkarai eqournelatitelafitaidupes arcen telomhuticilom pe paraidouiad",
-    "ceres far-e-tom ----uf---ui--m ------adeuios mamazextosmed f-fiqod prauiosurnam sociaipordedkarai eqournelatitelafitaidupes arcen telomhuticilom pe paraidouiad",
-    "ceres far-e-tom ----uf---ui--m -----adeuios mamazextosmed f-fiqod prauiosurnam sociaipordedkarai eqournelatitelafitaidupes arcen telomhuticilom pe paraidouiad",
-    "ceres far-e-tom ----uf--ui--m ------adeuios mamazextosmed f-fiqod prauiosurnam sociaipordedkarai eqournelatitelafitaidupes arcen telomhuticilom pe paraidouiad",
-    "ceres far-e-tom ----uf--ui--m -----adeuios mamazextosmed f-fiqod prauiosurnam sociaipordedkarai eqournelatitelafitaidupes arcen telomhuticilom pe paraidouiad",
-    "ceres far-e-tom ----uf-ui--m ------adeuios mamazextosmed f-fiqod prauiosurnam sociaipordedkarai eqournelatitelafitaidupes arcen telomhuticilom pe paraidouiad",
-    "ceres far-e-tom ----uf-ui--m -----adeuios mamazextosmed f-fiqod prauiosurnam sociaipordedkarai eqournelatitelafitaidupes arcen telomhuticilom pe paraidouiad"
+    "ceres far---e---tom ------uf----ui--m ------adeuios mamazextosmed f-fiqod prauiosurnam sociaipordedkarai eqournelatitelafitaidupes arcen telomhuticilom pe parai-douiad",
+    "ceres far---e---tom ------uf----ui--m -----adeuios mamazextosmed f-fiqod prauiosurnam sociaipordedkarai eqournelatitelafitaidupes arcen telomhuticilom pe parai-douiad",
+    "ceres far---e---tom ------uf---ui--m ------adeuios mamazextosmed f-fiqod prauiosurnam sociaipordedkarai eqournelatitelafitaidupes arcen telomhuticilom pe parai-douiad",
+    "ceres far---e---tom ------uf---ui--m -----adeuios mamazextosmed f-fiqod prauiosurnam sociaipordedkarai eqournelatitelafitaidupes arcen telomhuticilom pe parai-douiad",
+    "ceres far---e---tom ------uf--ui--m ------adeuios mamazextosmed f-fiqod prauiosurnam sociaipordedkarai eqournelatitelafitaidupes arcen telomhuticilom pe parai-douiad",
+    "ceres far---e---tom ------uf--ui--m -----adeuios mamazextosmed f-fiqod prauiosurnam sociaipordedkarai eqournelatitelafitaidupes arcen telomhuticilom pe parai-douiad",
+    "ceres far---e---tom ------uf-ui--m ------adeuios mamazextosmed f-fiqod prauiosurnam sociaipordedkarai eqournelatitelafitaidupes arcen telomhuticilom pe parai-douiad",
+    "ceres far---e---tom ------uf-ui--m -----adeuios mamazextosmed f-fiqod prauiosurnam sociaipordedkarai eqournelatitelafitaidupes arcen telomhuticilom pe parai-douiad",
+    "ceres far---e---tom -----uf----ui--m ------adeuios mamazextosmed f-fiqod prauiosurnam sociaipordedkarai eqournelatitelafitaidupes arcen telomhuticilom pe parai-douiad",
+    "ceres far---e---tom -----uf----ui--m -----adeuios mamazextosmed f-fiqod prauiosurnam sociaipordedkarai eqournelatitelafitaidupes arcen telomhuticilom pe parai-douiad",
+    "ceres far---e---tom -----uf---ui--m ------adeuios mamazextosmed f-fiqod prauiosurnam sociaipordedkarai eqournelatitelafitaidupes arcen telomhuticilom pe parai-douiad",
+    "ceres far---e---tom -----uf---ui--m -----adeuios mamazextosmed f-fiqod prauiosurnam sociaipordedkarai eqournelatitelafitaidupes arcen telomhuticilom pe parai-douiad",
+    "ceres far---e---tom -----uf--ui--m ------adeuios mamazextosmed f-fiqod prauiosurnam sociaipordedkarai eqournelatitelafitaidupes arcen telomhuticilom pe parai-douiad",
+    "ceres far---e---tom -----uf--ui--m -----adeuios mamazextosmed f-fiqod prauiosurnam sociaipordedkarai eqournelatitelafitaidupes arcen telomhuticilom pe parai-douiad",
+    "ceres far---e---tom -----uf-ui--m ------adeuios mamazextosmed f-fiqod prauiosurnam sociaipordedkarai eqournelatitelafitaidupes arcen telomhuticilom pe parai-douiad",
+    "ceres far---e---tom -----uf-ui--m -----adeuios mamazextosmed f-fiqod prauiosurnam sociaipordedkarai eqournelatitelafitaidupes arcen telomhuticilom pe parai-douiad",
+    "ceres far---e---tom ----uf----ui--m ------adeuios mamazextosmed f-fiqod prauiosurnam sociaipordedkarai eqournelatitelafitaidupes arcen telomhuticilom pe parai-douiad",
+    "ceres far---e---tom ----uf----ui--m -----adeuios mamazextosmed f-fiqod prauiosurnam sociaipordedkarai eqournelatitelafitaidupes arcen telomhuticilom pe parai-douiad",
+    "ceres far---e---tom ----uf---ui--m ------adeuios mamazextosmed f-fiqod prauiosurnam sociaipordedkarai eqournelatitelafitaidupes arcen telomhuticilom pe parai-douiad",
+    "ceres far---e---tom ----uf---ui--m -----adeuios mamazextosmed f-fiqod prauiosurnam sociaipordedkarai eqournelatitelafitaidupes arcen telomhuticilom pe parai-douiad",
+    "ceres far---e---tom ----uf--ui--m ------adeuios mamazextosmed f-fiqod prauiosurnam sociaipordedkarai eqournelatitelafitaidupes arcen telomhuticilom pe parai-douiad",
+    "ceres far---e---tom ----uf--ui--m -----adeuios mamazextosmed f-fiqod prauiosurnam sociaipordedkarai eqournelatitelafitaidupes arcen telomhuticilom pe parai-douiad",
+    "ceres far---e---tom ----uf-ui--m ------adeuios mamazextosmed f-fiqod prauiosurnam sociaipordedkarai eqournelatitelafitaidupes arcen telomhuticilom pe parai-douiad",
+    "ceres far---e---tom ----uf-ui--m -----adeuios mamazextosmed f-fiqod prauiosurnam sociaipordedkarai eqournelatitelafitaidupes arcen telomhuticilom pe parai-douiad",
+    "ceres far---e--tom ------uf----ui--m ------adeuios mamazextosmed f-fiqod prauiosurnam sociaipordedkarai eqournelatitelafitaidupes arcen telomhuticilom pe parai-douiad",
+    "ceres far---e--tom ------uf----ui--m -----adeuios mamazextosmed f-fiqod prauiosurnam sociaipordedkarai eqournelatitelafitaidupes arcen telomhuticilom pe parai-douiad",
+    "ceres far---e--tom ------uf---ui--m ------adeuios mamazextosmed f-fiqod prauiosurnam sociaipordedkarai eqournelatitelafitaidupes arcen telomhuticilom pe parai-douiad",
+    "ceres far---e--tom ------uf---ui--m -----adeuios mamazextosmed f-fiqod prauiosurnam sociaipordedkarai eqournelatitelafitaidupes arcen telomhuticilom pe parai-douiad",
+    "ceres far---e--tom ------uf--ui--m ------adeuios mamazextosmed f-fiqod prauiosurnam sociaipordedkarai eqournelatitelafitaidupes arcen telomhuticilom pe parai-douiad",
+    "ceres far---e--tom ------uf--ui--m -----adeuios mamazextosmed f-fiqod prauiosurnam sociaipordedkarai eqournelatitelafitaidupes arcen telomhuticilom pe parai-douiad",
+    "ceres far---e--tom ------uf-ui--m ------adeuios mamazextosmed f-fiqod prauiosurnam sociaipordedkarai eqournelatitelafitaidupes arcen telomhuticilom pe parai-douiad",
+    "ceres far---e--tom ------uf-ui--m -----adeuios mamazextosmed f-fiqod prauiosurnam sociaipordedkarai eqournelatitelafitaidupes arcen telomhuticilom pe parai-douiad",
+    "ceres far---e--tom -----uf----ui--m ------adeuios mamazextosmed f-fiqod prauiosurnam sociaipordedkarai eqournelatitelafitaidupes arcen telomhuticilom pe parai-douiad",
+    "ceres far---e--tom -----uf----ui--m -----adeuios mamazextosmed f-fiqod prauiosurnam sociaipordedkarai eqournelatitelafitaidupes arcen telomhuticilom pe parai-douiad",
+    "ceres far---e--tom -----uf---ui--m ------adeuios mamazextosmed f-fiqod prauiosurnam sociaipordedkarai eqournelatitelafitaidupes arcen telomhuticilom pe parai-douiad",
+    "ceres far---e--tom -----uf---ui--m -----adeuios mamazextosmed f-fiqod prauiosurnam sociaipordedkarai eqournelatitelafitaidupes arcen telomhuticilom pe parai-douiad",
+    "ceres far---e--tom -----uf--ui--m ------adeuios mamazextosmed f-fiqod prauiosurnam sociaipordedkarai eqournelatitelafitaidupes arcen telomhuticilom pe parai-douiad",
+    "ceres far---e--tom -----uf--ui--m -----adeuios mamazextosmed f-fiqod prauiosurnam sociaipordedkarai eqournelatitelafitaidupes arcen telomhuticilom pe parai-douiad",
+    "ceres far---e--tom -----uf-ui--m ------adeuios mamazextosmed f-fiqod prauiosurnam sociaipordedkarai eqournelatitelafitaidupes arcen telomhuticilom pe parai-douiad",
+    "ceres far---e--tom -----uf-ui--m -----adeuios mamazextosmed f-fiqod prauiosurnam sociaipordedkarai eqournelatitelafitaidupes arcen telomhuticilom pe parai-douiad",
+    "ceres far---e--tom ----uf----ui--m ------adeuios mamazextosmed f-fiqod prauiosurnam sociaipordedkarai eqournelatitelafitaidupes arcen telomhuticilom pe parai-douiad",
+    "ceres far---e--tom ----uf----ui--m -----adeuios mamazextosmed f-fiqod prauiosurnam sociaipordedkarai eqournelatitelafitaidupes arcen telomhuticilom pe parai-douiad",
+    "ceres far---e--tom ----uf---ui--m ------adeuios mamazextosmed f-fiqod prauiosurnam sociaipordedkarai eqournelatitelafitaidupes arcen telomhuticilom pe parai-douiad",
+    "ceres far---e--tom ----uf---ui--m -----adeuios mamazextosmed f-fiqod prauiosurnam sociaipordedkarai eqournelatitelafitaidupes arcen telomhuticilom pe parai-douiad",
+    "ceres far---e--tom ----uf--ui--m ------adeuios mamazextosmed f-fiqod prauiosurnam sociaipordedkarai eqournelatitelafitaidupes arcen telomhuticilom pe parai-douiad",
+    "ceres far---e--tom ----uf--ui--m -----adeuios mamazextosmed f-fiqod prauiosurnam sociaipordedkarai eqournelatitelafitaidupes arcen telomhuticilom pe parai-douiad",
+    "ceres far---e--tom ----uf-ui--m ------adeuios mamazextosmed f-fiqod prauiosurnam sociaipordedkarai eqournelatitelafitaidupes arcen telomhuticilom pe parai-douiad",
+    "ceres far---e--tom ----uf-ui--m -----adeuios mamazextosmed f-fiqod prauiosurnam sociaipordedkarai eqournelatitelafitaidupes arcen telomhuticilom pe parai-douiad",
+    "ceres far---e-tom ------uf----ui--m ------adeuios mamazextosmed f-fiqod prauiosurnam sociaipordedkarai eqournelatitelafitaidupes arcen telomhuticilom pe parai-douiad",
+    "ceres far---e-tom ------uf----ui--m -----adeuios mamazextosmed f-fiqod prauiosurnam sociaipordedkarai eqournelatitelafitaidupes arcen telomhuticilom pe parai-douiad",
+    "ceres far---e-tom ------uf---ui--m ------adeuios mamazextosmed f-fiqod prauiosurnam sociaipordedkarai eqournelatitelafitaidupes arcen telomhuticilom pe parai-douiad",
+    "ceres far---e-tom ------uf---ui--m -----adeuios mamazextosmed f-fiqod prauiosurnam sociaipordedkarai eqournelatitelafitaidupes arcen telomhuticilom pe parai-douiad",
+    "ceres far---e-tom ------uf--ui--m ------adeuios mamazextosmed f-fiqod prauiosurnam sociaipordedkarai eqournelatitelafitaidupes arcen telomhuticilom pe parai-douiad",
+    "ceres far---e-tom ------uf--ui--m -----adeuios mamazextosmed f-fiqod prauiosurnam sociaipordedkarai eqournelatitelafitaidupes arcen telomhuticilom pe parai-douiad",
+    "ceres far---e-tom ------uf-ui--m ------adeuios mamazextosmed f-fiqod prauiosurnam sociaipordedkarai eqournelatitelafitaidupes arcen telomhuticilom pe parai-douiad",
+    "ceres far---e-tom ------uf-ui--m -----adeuios mamazextosmed f-fiqod prauiosurnam sociaipordedkarai eqournelatitelafitaidupes arcen telomhuticilom pe parai-douiad",
+    "ceres far---e-tom -----uf----ui--m ------adeuios mamazextosmed f-fiqod prauiosurnam sociaipordedkarai eqournelatitelafitaidupes arcen telomhuticilom pe parai-douiad",
+    "ceres far---e-tom -----uf----ui--m -----adeuios mamazextosmed f-fiqod prauiosurnam sociaipordedkarai eqournelatitelafitaidupes arcen telomhuticilom pe parai-douiad",
+    "ceres far---e-tom -----uf---ui--m ------adeuios mamazextosmed f-fiqod prauiosurnam sociaipordedkarai eqournelatitelafitaidupes arcen telomhuticilom pe parai-douiad",
+    "ceres far---e-tom -----uf---ui--m -----adeuios mamazextosmed f-fiqod prauiosurnam sociaipordedkarai eqournelatitelafitaidupes arcen telomhuticilom pe parai-douiad",
+    "ceres far---e-tom -----uf--ui--m ------adeuios mamazextosmed f-fiqod prauiosurnam sociaipordedkarai eqournelatitelafitaidupes arcen telomhuticilom pe parai-douiad",
+    "ceres far---e-tom -----uf--ui--m -----adeuios mamazextosmed f-fiqod prauiosurnam sociaipordedkarai eqournelatitelafitaidupes arcen telomhuticilom pe parai-douiad",
+    "ceres far---e-tom -----uf-ui--m ------adeuios mamazextosmed f-fiqod prauiosurnam sociaipordedkarai eqournelatitelafitaidupes arcen telomhuticilom pe parai-douiad",
+    "ceres far---e-tom -----uf-ui--m -----adeuios mamazextosmed f-fiqod prauiosurnam sociaipordedkarai eqournelatitelafitaidupes arcen telomhuticilom pe parai-douiad",
+    "ceres far---e-tom ----uf----ui--m ------adeuios mamazextosmed f-fiqod prauiosurnam sociaipordedkarai eqournelatitelafitaidupes arcen telomhuticilom pe parai-douiad",
+    "ceres far---e-tom ----uf----ui--m -----adeuios mamazextosmed f-fiqod prauiosurnam sociaipordedkarai eqournelatitelafitaidupes arcen telomhuticilom pe parai-douiad",
+    "ceres far---e-tom ----uf---ui--m ------adeuios mamazextosmed f-fiqod prauiosurnam sociaipordedkarai eqournelatitelafitaidupes arcen telomhuticilom pe parai-douiad",
+    "ceres far---e-tom ----uf---ui--m -----adeuios mamazextosmed f-fiqod prauiosurnam sociaipordedkarai eqournelatitelafitaidupes arcen telomhuticilom pe parai-douiad",
+    "ceres far---e-tom ----uf--ui--m ------adeuios mamazextosmed f-fiqod prauiosurnam sociaipordedkarai eqournelatitelafitaidupes arcen telomhuticilom pe parai-douiad",
+    "ceres far---e-tom ----uf--ui--m -----adeuios mamazextosmed f-fiqod prauiosurnam sociaipordedkarai eqournelatitelafitaidupes arcen telomhuticilom pe parai-douiad",
+    "ceres far---e-tom ----uf-ui--m ------adeuios mamazextosmed f-fiqod prauiosurnam sociaipordedkarai eqournelatitelafitaidupes arcen telomhuticilom pe parai-douiad",
+    "ceres far---e-tom ----uf-ui--m -----adeuios mamazextosmed f-fiqod prauiosurnam sociaipordedkarai eqournelatitelafitaidupes arcen telomhuticilom pe parai-douiad",
+    "ceres far--e---tom ------uf----ui--m ------adeuios mamazextosmed f-fiqod prauiosurnam sociaipordedkarai eqournelatitelafitaidupes arcen telomhuticilom pe parai-douiad",
+    "ceres far--e---tom ------uf----ui--m -----adeuios mamazextosmed f-fiqod prauiosurnam sociaipordedkarai eqournelatitelafitaidupes arcen telomhuticilom pe parai-douiad",
+    "ceres far--e---tom ------uf---ui--m ------adeuios mamazextosmed f-fiqod prauiosurnam sociaipordedkarai eqournelatitelafitaidupes arcen telomhuticilom pe parai-douiad",
+    "ceres far--e---tom ------uf---ui--m -----adeuios mamazextosmed f-fiqod prauiosurnam sociaipordedkarai eqournelatitelafitaidupes arcen telomhuticilom pe parai-douiad",
+    "ceres far--e---tom ------uf--ui--m ------adeuios mamazextosmed f-fiqod prauiosurnam sociaipordedkarai eqournelatitelafitaidupes arcen telomhuticilom pe parai-douiad",
+    "ceres far--e---tom ------uf--ui--m -----adeuios mamazextosmed f-fiqod prauiosurnam sociaipordedkarai eqournelatitelafitaidupes arcen telomhuticilom pe parai-douiad",
+    "ceres far--e---tom ------uf-ui--m ------adeuios mamazextosmed f-fiqod prauiosurnam sociaipordedkarai eqournelatitelafitaidupes arcen telomhuticilom pe parai-douiad",
+    "ceres far--e---tom ------uf-ui--m -----adeuios mamazextosmed f-fiqod prauiosurnam sociaipordedkarai eqournelatitelafitaidupes arcen telomhuticilom pe parai-douiad",
+    "ceres far--e---tom -----uf----ui--m ------adeuios mamazextosmed f-fiqod prauiosurnam sociaipordedkarai eqournelatitelafitaidupes arcen telomhuticilom pe parai-douiad",
+    "ceres far--e---tom -----uf----ui--m -----adeuios mamazextosmed f-fiqod prauiosurnam sociaipordedkarai eqournelatitelafitaidupes arcen telomhuticilom pe parai-douiad",
+    "ceres far--e---tom -----uf---ui--m ------adeuios mamazextosmed f-fiqod prauiosurnam sociaipordedkarai eqournelatitelafitaidupes arcen telomhuticilom pe parai-douiad",
+    "ceres far--e---tom -----uf---ui--m -----adeuios mamazextosmed f-fiqod prauiosurnam sociaipordedkarai eqournelatitelafitaidupes arcen telomhuticilom pe parai-douiad",
+    "ceres far--e---tom -----uf--ui--m ------adeuios mamazextosmed f-fiqod prauiosurnam sociaipordedkarai eqournelatitelafitaidupes arcen telomhuticilom pe parai-douiad",
+    "ceres far--e---tom -----uf--ui--m -----adeuios mamazextosmed f-fiqod prauiosurnam sociaipordedkarai eqournelatitelafitaidupes arcen telomhuticilom pe parai-douiad",
+    "ceres far--e---tom -----uf-ui--m ------adeuios mamazextosmed f-fiqod prauiosurnam sociaipordedkarai eqournelatitelafitaidupes arcen telomhuticilom pe parai-douiad",
+    "ceres far--e---tom -----uf-ui--m -----adeuios mamazextosmed f-fiqod prauiosurnam sociaipordedkarai eqournelatitelafitaidupes arcen telomhuticilom pe parai-douiad",
+    "ceres far--e---tom ----uf----ui--m ------adeuios mamazextosmed f-fiqod prauiosurnam sociaipordedkarai eqournelatitelafitaidupes arcen telomhuticilom pe parai-douiad",
+    "ceres far--e---tom ----uf----ui--m -----adeuios mamazextosmed f-fiqod prauiosurnam sociaipordedkarai eqournelatitelafitaidupes arcen telomhuticilom pe parai-douiad",
+    "ceres far--e---tom ----uf---ui--m ------adeuios mamazextosmed f-fiqod prauiosurnam sociaipordedkarai eqournelatitelafitaidupes arcen telomhuticilom pe parai-douiad",
+    "ceres far--e---tom ----uf---ui--m -----adeuios mamazextosmed f-fiqod prauiosurnam sociaipordedkarai eqournelatitelafitaidupes arcen telomhuticilom pe parai-douiad",
+    "ceres far--e---tom ----uf--ui--m ------adeuios mamazextosmed f-fiqod prauiosurnam sociaipordedkarai eqournelatitelafitaidupes arcen telomhuticilom pe parai-douiad",
+    "ceres far--e---tom ----uf--ui--m -----adeuios mamazextosmed f-fiqod prauiosurnam sociaipordedkarai eqournelatitelafitaidupes arcen telomhuticilom pe parai-douiad",
+    "ceres far--e---tom ----uf-ui--m ------adeuios mamazextosmed f-fiqod prauiosurnam sociaipordedkarai eqournelatitelafitaidupes arcen telomhuticilom pe parai-douiad",
+    "ceres far--e---tom ----uf-ui--m -----adeuios mamazextosmed f-fiqod prauiosurnam sociaipordedkarai eqournelatitelafitaidupes arcen telomhuticilom pe parai-douiad",
+    "ceres far--e--tom ------uf----ui--m ------adeuios mamazextosmed f-fiqod prauiosurnam sociaipordedkarai eqournelatitelafitaidupes arcen telomhuticilom pe parai-douiad",
+    "ceres far--e--tom ------uf----ui--m -----adeuios mamazextosmed f-fiqod prauiosurnam sociaipordedkarai eqournelatitelafitaidupes arcen telomhuticilom pe parai-douiad",
+    "ceres far--e--tom ------uf---ui--m ------adeuios mamazextosmed f-fiqod prauiosurnam sociaipordedkarai eqournelatitelafitaidupes arcen telomhuticilom pe parai-douiad",
+    "ceres far--e--tom ------uf---ui--m -----adeuios mamazextosmed f-fiqod prauiosurnam sociaipordedkarai eqournelatitelafitaidupes arcen telomhuticilom pe parai-douiad",
+    "ceres far--e--tom ------uf--ui--m ------adeuios mamazextosmed f-fiqod prauiosurnam sociaipordedkarai eqournelatitelafitaidupes arcen telomhuticilom pe parai-douiad",
+    "ceres far--e--tom ------uf--ui--m -----adeuios mamazextosmed f-fiqod prauiosurnam sociaipordedkarai eqournelatitelafitaidupes arcen telomhuticilom pe parai-douiad",
+    "ceres far--e--tom ------uf-ui--m ------adeuios mamazextosmed f-fiqod prauiosurnam sociaipordedkarai eqournelatitelafitaidupes arcen telomhuticilom pe parai-douiad",
+    "ceres far--e--tom ------uf-ui--m -----adeuios mamazextosmed f-fiqod prauiosurnam sociaipordedkarai eqournelatitelafitaidupes arcen telomhuticilom pe parai-douiad",
+    "ceres far--e--tom -----uf----ui--m ------adeuios mamazextosmed f-fiqod prauiosurnam sociaipordedkarai eqournelatitelafitaidupes arcen telomhuticilom pe parai-douiad",
+    "ceres far--e--tom -----uf----ui--m -----adeuios mamazextosmed f-fiqod prauiosurnam sociaipordedkarai eqournelatitelafitaidupes arcen telomhuticilom pe parai-douiad",
+    "ceres far--e--tom -----uf---ui--m ------adeuios mamazextosmed f-fiqod prauiosurnam sociaipordedkarai eqournelatitelafitaidupes arcen telomhuticilom pe parai-douiad",
+    "ceres far--e--tom -----uf---ui--m -----adeuios mamazextosmed f-fiqod prauiosurnam sociaipordedkarai eqournelatitelafitaidupes arcen telomhuticilom pe parai-douiad",
+    "ceres far--e--tom -----uf--ui--m ------adeuios mamazextosmed f-fiqod prauiosurnam sociaipordedkarai eqournelatitelafitaidupes arcen telomhuticilom pe parai-douiad",
+    "ceres far--e--tom -----uf--ui--m -----adeuios mamazextosmed f-fiqod prauiosurnam sociaipordedkarai eqournelatitelafitaidupes arcen telomhuticilom pe parai-douiad",
+    "ceres far--e--tom -----uf-ui--m ------adeuios mamazextosmed f-fiqod prauiosurnam sociaipordedkarai eqournelatitelafitaidupes arcen telomhuticilom pe parai-douiad",
+    "ceres far--e--tom -----uf-ui--m -----adeuios mamazextosmed f-fiqod prauiosurnam sociaipordedkarai eqournelatitelafitaidupes arcen telomhuticilom pe parai-douiad",
+    "ceres far--e--tom ----uf----ui--m ------adeuios mamazextosmed f-fiqod prauiosurnam sociaipordedkarai eqournelatitelafitaidupes arcen telomhuticilom pe parai-douiad",
+    "ceres far--e--tom ----uf----ui--m -----adeuios mamazextosmed f-fiqod prauiosurnam sociaipordedkarai eqournelatitelafitaidupes arcen telomhuticilom pe parai-douiad",
+    "ceres far--e--tom ----uf---ui--m ------adeuios mamazextosmed f-fiqod prauiosurnam sociaipordedkarai eqournelatitelafitaidupes arcen telomhuticilom pe parai-douiad",
+    "ceres far--e--tom ----uf---ui--m -----adeuios mamazextosmed f-fiqod prauiosurnam sociaipordedkarai eqournelatitelafitaidupes arcen telomhuticilom pe parai-douiad",
+    "ceres far--e--tom ----uf--ui--m ------adeuios mamazextosmed f-fiqod prauiosurnam sociaipordedkarai eqournelatitelafitaidupes arcen telomhuticilom pe parai-douiad",
+    "ceres far--e--tom ----uf--ui--m -----adeuios mamazextosmed f-fiqod prauiosurnam sociaipordedkarai eqournelatitelafitaidupes arcen telomhuticilom pe parai-douiad",
+    "ceres far--e--tom ----uf-ui--m ------adeuios mamazextosmed f-fiqod prauiosurnam sociaipordedkarai eqournelatitelafitaidupes arcen telomhuticilom pe parai-douiad",
+    "ceres far--e--tom ----uf-ui--m -----adeuios mamazextosmed f-fiqod prauiosurnam sociaipordedkarai eqournelatitelafitaidupes arcen telomhuticilom pe parai-douiad",
+    "ceres far--e-tom ------uf----ui--m ------adeuios mamazextosmed f-fiqod prauiosurnam sociaipordedkarai eqournelatitelafitaidupes arcen telomhuticilom pe parai-douiad",
+    "ceres far--e-tom ------uf----ui--m -----adeuios mamazextosmed f-fiqod prauiosurnam sociaipordedkarai eqournelatitelafitaidupes arcen telomhuticilom pe parai-douiad",
+    "ceres far--e-tom ------uf---ui--m ------adeuios mamazextosmed f-fiqod prauiosurnam sociaipordedkarai eqournelatitelafitaidupes arcen telomhuticilom pe parai-douiad",
+    "ceres far--e-tom ------uf---ui--m -----adeuios mamazextosmed f-fiqod prauiosurnam sociaipordedkarai eqournelatitelafitaidupes arcen telomhuticilom pe parai-douiad",
+    "ceres far--e-tom ------uf--ui--m ------adeuios mamazextosmed f-fiqod prauiosurnam sociaipordedkarai eqournelatitelafitaidupes arcen telomhuticilom pe parai-douiad",
+    "ceres far--e-tom ------uf--ui--m -----adeuios mamazextosmed f-fiqod prauiosurnam sociaipordedkarai eqournelatitelafitaidupes arcen telomhuticilom pe parai-douiad",
+    "ceres far--e-tom ------uf-ui--m ------adeuios mamazextosmed f-fiqod prauiosurnam sociaipordedkarai eqournelatitelafitaidupes arcen telomhuticilom pe parai-douiad",
+    "ceres far--e-tom ------uf-ui--m -----adeuios mamazextosmed f-fiqod prauiosurnam sociaipordedkarai eqournelatitelafitaidupes arcen telomhuticilom pe parai-douiad",
+    "ceres far--e-tom -----uf----ui--m ------adeuios mamazextosmed f-fiqod prauiosurnam sociaipordedkarai eqournelatitelafitaidupes arcen telomhuticilom pe parai-douiad",
+    "ceres far--e-tom -----uf----ui--m -----adeuios mamazextosmed f-fiqod prauiosurnam sociaipordedkarai eqournelatitelafitaidupes arcen telomhuticilom pe parai-douiad",
+    "ceres far--e-tom -----uf---ui--m ------adeuios mamazextosmed f-fiqod prauiosurnam sociaipordedkarai eqournelatitelafitaidupes arcen telomhuticilom pe parai-douiad",
+    "ceres far--e-tom -----uf---ui--m -----adeuios mamazextosmed f-fiqod prauiosurnam sociaipordedkarai eqournelatitelafitaidupes arcen telomhuticilom pe parai-douiad",
+    "ceres far--e-tom -----uf--ui--m ------adeuios mamazextosmed f-fiqod prauiosurnam sociaipordedkarai eqournelatitelafitaidupes arcen telomhuticilom pe parai-douiad",
+    "ceres far--e-tom -----uf--ui--m -----adeuios mamazextosmed f-fiqod prauiosurnam sociaipordedkarai eqournelatitelafitaidupes arcen telomhuticilom pe parai-douiad",
+    "ceres far--e-tom -----uf-ui--m ------adeuios mamazextosmed f-fiqod prauiosurnam sociaipordedkarai eqournelatitelafitaidupes arcen telomhuticilom pe parai-douiad",
+    "ceres far--e-tom -----uf-ui--m -----adeuios mamazextosmed f-fiqod prauiosurnam sociaipordedkarai eqournelatitelafitaidupes arcen telomhuticilom pe parai-douiad",
+    "ceres far--e-tom ----uf----ui--m ------adeuios mamazextosmed f-fiqod prauiosurnam sociaipordedkarai eqournelatitelafitaidupes arcen telomhuticilom pe parai-douiad",
+    "ceres far--e-tom ----uf----ui--m -----adeuios mamazextosmed f-fiqod prauiosurnam sociaipordedkarai eqournelatitelafitaidupes arcen telomhuticilom pe parai-douiad",
+    "ceres far--e-tom ----uf---ui--m ------adeuios mamazextosmed f-fiqod prauiosurnam sociaipordedkarai eqournelatitelafitaidupes arcen telomhuticilom pe parai-douiad",
+    "ceres far--e-tom ----uf---ui--m -----adeuios mamazextosmed f-fiqod prauiosurnam sociaipordedkarai eqournelatitelafitaidupes arcen telomhuticilom pe parai-douiad",
+    "ceres far--e-tom ----uf--ui--m ------adeuios mamazextosmed f-fiqod prauiosurnam sociaipordedkarai eqournelatitelafitaidupes arcen telomhuticilom pe parai-douiad",
+    "ceres far--e-tom ----uf--ui--m -----adeuios mamazextosmed f-fiqod prauiosurnam sociaipordedkarai eqournelatitelafitaidupes arcen telomhuticilom pe parai-douiad",
+    "ceres far--e-tom ----uf-ui--m ------adeuios mamazextosmed f-fiqod prauiosurnam sociaipordedkarai eqournelatitelafitaidupes arcen telomhuticilom pe parai-douiad",
+    "ceres far--e-tom ----uf-ui--m -----adeuios mamazextosmed f-fiqod prauiosurnam sociaipordedkarai eqournelatitelafitaidupes arcen telomhuticilom pe parai-douiad",
+    "ceres far-e---tom ------uf----ui--m ------adeuios mamazextosmed f-fiqod prauiosurnam sociaipordedkarai eqournelatitelafitaidupes arcen telomhuticilom pe parai-douiad",
+    "ceres far-e---tom ------uf----ui--m -----adeuios mamazextosmed f-fiqod prauiosurnam sociaipordedkarai eqournelatitelafitaidupes arcen telomhuticilom pe parai-douiad",
+    "ceres far-e---tom ------uf---ui--m ------adeuios mamazextosmed f-fiqod prauiosurnam sociaipordedkarai eqournelatitelafitaidupes arcen telomhuticilom pe parai-douiad",
+    "ceres far-e---tom ------uf---ui--m -----adeuios mamazextosmed f-fiqod prauiosurnam sociaipordedkarai eqournelatitelafitaidupes arcen telomhuticilom pe parai-douiad",
+    "ceres far-e---tom ------uf--ui--m ------adeuios mamazextosmed f-fiqod prauiosurnam sociaipordedkarai eqournelatitelafitaidupes arcen telomhuticilom pe parai-douiad",
+    "ceres far-e---tom ------uf--ui--m -----adeuios mamazextosmed f-fiqod prauiosurnam sociaipordedkarai eqournelatitelafitaidupes arcen telomhuticilom pe parai-douiad",
+    "ceres far-e---tom ------uf-ui--m ------adeuios mamazextosmed f-fiqod prauiosurnam sociaipordedkarai eqournelatitelafitaidupes arcen telomhuticilom pe parai-douiad",
+    "ceres far-e---tom ------uf-ui--m -----adeuios mamazextosmed f-fiqod prauiosurnam sociaipordedkarai eqournelatitelafitaidupes arcen telomhuticilom pe parai-douiad",
+    "ceres far-e---tom -----uf----ui--m ------adeuios mamazextosmed f-fiqod prauiosurnam sociaipordedkarai eqournelatitelafitaidupes arcen telomhuticilom pe parai-douiad",
+    "ceres far-e---tom -----uf----ui--m -----adeuios mamazextosmed f-fiqod prauiosurnam sociaipordedkarai eqournelatitelafitaidupes arcen telomhuticilom pe parai-douiad",
+    "ceres far-e---tom -----uf---ui--m ------adeuios mamazextosmed f-fiqod prauiosurnam sociaipordedkarai eqournelatitelafitaidupes arcen telomhuticilom pe parai-douiad",
+    "ceres far-e---tom -----uf---ui--m -----adeuios mamazextosmed f-fiqod prauiosurnam sociaipordedkarai eqournelatitelafitaidupes arcen telomhuticilom pe parai-douiad",
+    "ceres far-e---tom -----uf--ui--m ------adeuios mamazextosmed f-fiqod prauiosurnam sociaipordedkarai eqournelatitelafitaidupes arcen telomhuticilom pe parai-douiad",
+    "ceres far-e---tom -----uf--ui--m -----adeuios mamazextosmed f-fiqod prauiosurnam sociaipordedkarai eqournelatitelafitaidupes arcen telomhuticilom pe parai-douiad",
+    "ceres far-e---tom -----uf-ui--m ------adeuios mamazextosmed f-fiqod prauiosurnam sociaipordedkarai eqournelatitelafitaidupes arcen telomhuticilom pe parai-douiad",
+    "ceres far-e---tom -----uf-ui--m -----adeuios mamazextosmed f-fiqod prauiosurnam sociaipordedkarai eqournelatitelafitaidupes arcen telomhuticilom pe parai-douiad",
+    "ceres far-e---tom ----uf----ui--m ------adeuios mamazextosmed f-fiqod prauiosurnam sociaipordedkarai eqournelatitelafitaidupes arcen telomhuticilom pe parai-douiad",
+    "ceres far-e---tom ----uf----ui--m -----adeuios mamazextosmed f-fiqod prauiosurnam sociaipordedkarai eqournelatitelafitaidupes arcen telomhuticilom pe parai-douiad",
+    "ceres far-e---tom ----uf---ui--m ------adeuios mamazextosmed f-fiqod prauiosurnam sociaipordedkarai eqournelatitelafitaidupes arcen telomhuticilom pe parai-douiad",
+    "ceres far-e---tom ----uf---ui--m -----adeuios mamazextosmed f-fiqod prauiosurnam sociaipordedkarai eqournelatitelafitaidupes arcen telomhuticilom pe parai-douiad",
+    "ceres far-e---tom ----uf--ui--m ------adeuios mamazextosmed f-fiqod prauiosurnam sociaipordedkarai eqournelatitelafitaidupes arcen telomhuticilom pe parai-douiad",
+    "ceres far-e---tom ----uf--ui--m -----adeuios mamazextosmed f-fiqod prauiosurnam sociaipordedkarai eqournelatitelafitaidupes arcen telomhuticilom pe parai-douiad",
+    "ceres far-e---tom ----uf-ui--m ------adeuios mamazextosmed f-fiqod prauiosurnam sociaipordedkarai eqournelatitelafitaidupes arcen telomhuticilom pe parai-douiad",
+    "ceres far-e---tom ----uf-ui--m -----adeuios mamazextosmed f-fiqod prauiosurnam sociaipordedkarai eqournelatitelafitaidupes arcen telomhuticilom pe parai-douiad",
+    "ceres far-e--tom ------uf----ui--m ------adeuios mamazextosmed f-fiqod prauiosurnam sociaipordedkarai eqournelatitelafitaidupes arcen telomhuticilom pe parai-douiad",
+    "ceres far-e--tom ------uf----ui--m -----adeuios mamazextosmed f-fiqod prauiosurnam sociaipordedkarai eqournelatitelafitaidupes arcen telomhuticilom pe parai-douiad",
+    "ceres far-e--tom ------uf---ui--m ------adeuios mamazextosmed f-fiqod prauiosurnam sociaipordedkarai eqournelatitelafitaidupes arcen telomhuticilom pe parai-douiad",
+    "ceres far-e--tom ------uf---ui--m -----adeuios mamazextosmed f-fiqod prauiosurnam sociaipordedkarai eqournelatitelafitaidupes arcen telomhuticilom pe parai-douiad",
+    "ceres far-e--tom ------uf--ui--m ------adeuios mamazextosmed f-fiqod prauiosurnam sociaipordedkarai eqournelatitelafitaidupes arcen telomhuticilom pe parai-douiad",
+    "ceres far-e--tom ------uf--ui--m -----adeuios mamazextosmed f-fiqod prauiosurnam sociaipordedkarai eqournelatitelafitaidupes arcen telomhuticilom pe parai-douiad",
+    "ceres far-e--tom ------uf-ui--m ------adeuios mamazextosmed f-fiqod prauiosurnam sociaipordedkarai eqournelatitelafitaidupes arcen telomhuticilom pe parai-douiad",
+    "ceres far-e--tom ------uf-ui--m -----adeuios mamazextosmed f-fiqod prauiosurnam sociaipordedkarai eqournelatitelafitaidupes arcen telomhuticilom pe parai-douiad",
+    "ceres far-e--tom -----uf----ui--m ------adeuios mamazextosmed f-fiqod prauiosurnam sociaipordedkarai eqournelatitelafitaidupes arcen telomhuticilom pe parai-douiad",
+    "ceres far-e--tom -----uf----ui--m -----adeuios mamazextosmed f-fiqod prauiosurnam sociaipordedkarai eqournelatitelafitaidupes arcen telomhuticilom pe parai-douiad",
+    "ceres far-e--tom -----uf---ui--m ------adeuios mamazextosmed f-fiqod prauiosurnam sociaipordedkarai eqournelatitelafitaidupes arcen telomhuticilom pe parai-douiad",
+    "ceres far-e--tom -----uf---ui--m -----adeuios mamazextosmed f-fiqod prauiosurnam sociaipordedkarai eqournelatitelafitaidupes arcen telomhuticilom pe parai-douiad",
+    "ceres far-e--tom -----uf--ui--m ------adeuios mamazextosmed f-fiqod prauiosurnam sociaipordedkarai eqournelatitelafitaidupes arcen telomhuticilom pe parai-douiad",
+    "ceres far-e--tom -----uf--ui--m -----adeuios mamazextosmed f-fiqod prauiosurnam sociaipordedkarai eqournelatitelafitaidupes arcen telomhuticilom pe parai-douiad",
+    "ceres far-e--tom -----uf-ui--m ------adeuios mamazextosmed f-fiqod prauiosurnam sociaipordedkarai eqournelatitelafitaidupes arcen telomhuticilom pe parai-douiad",
+    "ceres far-e--tom -----uf-ui--m -----adeuios mamazextosmed f-fiqod prauiosurnam sociaipordedkarai eqournelatitelafitaidupes arcen telomhuticilom pe parai-douiad",
+    "ceres far-e--tom ----uf----ui--m ------adeuios mamazextosmed f-fiqod prauiosurnam sociaipordedkarai eqournelatitelafitaidupes arcen telomhuticilom pe parai-douiad",
+    "ceres far-e--tom ----uf----ui--m -----adeuios mamazextosmed f-fiqod prauiosurnam sociaipordedkarai eqournelatitelafitaidupes arcen telomhuticilom pe parai-douiad",
+    "ceres far-e--tom ----uf---ui--m ------adeuios mamazextosmed f-fiqod prauiosurnam sociaipordedkarai eqournelatitelafitaidupes arcen telomhuticilom pe parai-douiad",
+    "ceres far-e--tom ----uf---ui--m -----adeuios mamazextosmed f-fiqod prauiosurnam sociaipordedkarai eqournelatitelafitaidupes arcen telomhuticilom pe parai-douiad",
+    "ceres far-e--tom ----uf--ui--m ------adeuios mamazextosmed f-fiqod prauiosurnam sociaipordedkarai eqournelatitelafitaidupes arcen telomhuticilom pe parai-douiad",
+    "ceres far-e--tom ----uf--ui--m -----adeuios mamazextosmed f-fiqod prauiosurnam sociaipordedkarai eqournelatitelafitaidupes arcen telomhuticilom pe parai-douiad",
+    "ceres far-e--tom ----uf-ui--m ------adeuios mamazextosmed f-fiqod prauiosurnam sociaipordedkarai eqournelatitelafitaidupes arcen telomhuticilom pe parai-douiad",
+    "ceres far-e--tom ----uf-ui--m -----adeuios mamazextosmed f-fiqod prauiosurnam sociaipordedkarai eqournelatitelafitaidupes arcen telomhuticilom pe parai-douiad",
+    "ceres far-e-tom ------uf----ui--m ------adeuios mamazextosmed f-fiqod prauiosurnam sociaipordedkarai eqournelatitelafitaidupes arcen telomhuticilom pe parai-douiad",
+    "ceres far-e-tom ------uf----ui--m -----adeuios mamazextosmed f-fiqod prauiosurnam sociaipordedkarai eqournelatitelafitaidupes arcen telomhuticilom pe parai-douiad",
+    "ceres far-e-tom ------uf---ui--m ------adeuios mamazextosmed f-fiqod prauiosurnam sociaipordedkarai eqournelatitelafitaidupes arcen telomhuticilom pe parai-douiad",
+    "ceres far-e-tom ------uf---ui--m -----adeuios mamazextosmed f-fiqod prauiosurnam sociaipordedkarai eqournelatitelafitaidupes arcen telomhuticilom pe parai-douiad",
+    "ceres far-e-tom ------uf--ui--m ------adeuios mamazextosmed f-fiqod prauiosurnam sociaipordedkarai eqournelatitelafitaidupes arcen telomhuticilom pe parai-douiad",
+    "ceres far-e-tom ------uf--ui--m -----adeuios mamazextosmed f-fiqod prauiosurnam sociaipordedkarai eqournelatitelafitaidupes arcen telomhuticilom pe parai-douiad",
+    "ceres far-e-tom ------uf-ui--m ------adeuios mamazextosmed f-fiqod prauiosurnam sociaipordedkarai eqournelatitelafitaidupes arcen telomhuticilom pe parai-douiad",
+    "ceres far-e-tom ------uf-ui--m -----adeuios mamazextosmed f-fiqod prauiosurnam sociaipordedkarai eqournelatitelafitaidupes arcen telomhuticilom pe parai-douiad",
+    "ceres far-e-tom -----uf----ui--m ------adeuios mamazextosmed f-fiqod prauiosurnam sociaipordedkarai eqournelatitelafitaidupes arcen telomhuticilom pe parai-douiad",
+    "ceres far-e-tom -----uf----ui--m -----adeuios mamazextosmed f-fiqod prauiosurnam sociaipordedkarai eqournelatitelafitaidupes arcen telomhuticilom pe parai-douiad",
+    "ceres far-e-tom -----uf---ui--m ------adeuios mamazextosmed f-fiqod prauiosurnam sociaipordedkarai eqournelatitelafitaidupes arcen telomhuticilom pe parai-douiad",
+    "ceres far-e-tom -----uf---ui--m -----adeuios mamazextosmed f-fiqod prauiosurnam sociaipordedkarai eqournelatitelafitaidupes arcen telomhuticilom pe parai-douiad",
+    "ceres far-e-tom -----uf--ui--m ------adeuios mamazextosmed f-fiqod prauiosurnam sociaipordedkarai eqournelatitelafitaidupes arcen telomhuticilom pe parai-douiad",
+    "ceres far-e-tom -----uf--ui--m -----adeuios mamazextosmed f-fiqod prauiosurnam sociaipordedkarai eqournelatitelafitaidupes arcen telomhuticilom pe parai-douiad",
+    "ceres far-e-tom -----uf-ui--m ------adeuios mamazextosmed f-fiqod prauiosurnam sociaipordedkarai eqournelatitelafitaidupes arcen telomhuticilom pe parai-douiad",
+    "ceres far-e-tom -----uf-ui--m -----adeuios mamazextosmed f-fiqod prauiosurnam sociaipordedkarai eqournelatitelafitaidupes arcen telomhuticilom pe parai-douiad",
+    "ceres far-e-tom ----uf----ui--m ------adeuios mamazextosmed f-fiqod prauiosurnam sociaipordedkarai eqournelatitelafitaidupes arcen telomhuticilom pe parai-douiad",
+    "ceres far-e-tom ----uf----ui--m -----adeuios mamazextosmed f-fiqod prauiosurnam sociaipordedkarai eqournelatitelafitaidupes arcen telomhuticilom pe parai-douiad",
+    "ceres far-e-tom ----uf---ui--m ------adeuios mamazextosmed f-fiqod prauiosurnam sociaipordedkarai eqournelatitelafitaidupes arcen telomhuticilom pe parai-douiad",
+    "ceres far-e-tom ----uf---ui--m -----adeuios mamazextosmed f-fiqod prauiosurnam sociaipordedkarai eqournelatitelafitaidupes arcen telomhuticilom pe parai-douiad",
+    "ceres far-e-tom ----uf--ui--m ------adeuios mamazextosmed f-fiqod prauiosurnam sociaipordedkarai eqournelatitelafitaidupes arcen telomhuticilom pe parai-douiad",
+    "ceres far-e-tom ----uf--ui--m -----adeuios mamazextosmed f-fiqod prauiosurnam sociaipordedkarai eqournelatitelafitaidupes arcen telomhuticilom pe parai-douiad",
+    "ceres far-e-tom ----uf-ui--m ------adeuios mamazextosmed f-fiqod prauiosurnam sociaipordedkarai eqournelatitelafitaidupes arcen telomhuticilom pe parai-douiad",
+    "ceres far-e-tom ----uf-ui--m -----adeuios mamazextosmed f-fiqod prauiosurnam sociaipordedkarai eqournelatitelafitaidupes arcen telomhuticilom pe parai-douiad"
    ]
   }
  },
@@ -1962,6 +2021,7 @@
   },
   "faliscan": {
    "language_group": "EF",
+   "language_group_db": "EF",
    "period_group": "Early Faliscan",
    "uncertain": false,
    "review_status": "checked_against_pdf",
@@ -1991,6 +2051,7 @@
   },
   "faliscan": {
    "language_group": "EF",
+   "language_group_db": "EF",
    "period_group": "Early Faliscan",
    "uncertain": false,
    "review_status": "checked_against_pdf",
@@ -2020,6 +2081,7 @@
   },
   "faliscan": {
    "language_group": "EF",
+   "language_group_db": "EF",
    "period_group": "Early Faliscan",
    "uncertain": false,
    "review_status": "checked_against_pdf",
@@ -2049,6 +2111,7 @@
   },
   "faliscan": {
    "language_group": "EF",
+   "language_group_db": "EF",
    "period_group": "Early Faliscan",
    "uncertain": false,
    "review_status": "checked_against_pdf",
@@ -2078,6 +2141,7 @@
   },
   "faliscan": {
    "language_group": "EF",
+   "language_group_db": "EF",
    "period_group": "Early Faliscan",
    "uncertain": false,
    "review_status": "checked_against_pdf",
@@ -2107,6 +2171,7 @@
   },
   "faliscan": {
    "language_group": "EF",
+   "language_group_db": "EF",
    "period_group": "Early Faliscan",
    "uncertain": true,
    "review_status": "checked_against_pdf",
@@ -2142,6 +2207,7 @@
   },
   "faliscan": {
    "language_group": "EF/Etr",
+   "language_group_db": "EF/Etr",
    "period_group": "Early Faliscan",
    "uncertain": true,
    "review_status": "checked_against_pdf",
@@ -2171,6 +2237,7 @@
   },
   "faliscan": {
    "language_group": "EF/Etr",
+   "language_group_db": "EF/Etr",
    "period_group": "Early Faliscan",
    "uncertain": true,
    "review_status": "checked_against_pdf",
@@ -2200,6 +2267,7 @@
   },
   "faliscan": {
    "language_group": "Etr",
+   "language_group_db": "Etr",
    "period_group": "Etruscan",
    "uncertain": false,
    "review_status": "checked_against_pdf",
@@ -2229,6 +2297,7 @@
   },
   "faliscan": {
    "language_group": "Etr",
+   "language_group_db": "Etr",
    "period_group": "Etruscan",
    "uncertain": false,
    "review_status": "checked_against_pdf",
@@ -2264,6 +2333,7 @@
   },
   "faliscan": {
    "language_group": "Etr",
+   "language_group_db": "Etr",
    "period_group": "Etruscan",
    "uncertain": false,
    "review_status": "checked_against_pdf",
@@ -2293,6 +2363,7 @@
   },
   "faliscan": {
    "language_group": "Etr",
+   "language_group_db": "Etr",
    "period_group": "Etruscan",
    "uncertain": true,
    "review_status": "checked_against_pdf",
@@ -2322,6 +2393,7 @@
   },
   "faliscan": {
    "language_group": "Etr",
+   "language_group_db": "Etr",
    "period_group": "Etruscan",
    "uncertain": false,
    "review_status": "checked_against_pdf",
@@ -2351,6 +2423,7 @@
   },
   "faliscan": {
    "language_group": "Etr",
+   "language_group_db": "Etr",
    "period_group": "Etruscan",
    "uncertain": false,
    "review_status": "checked_against_pdf",
@@ -2380,6 +2453,7 @@
   },
   "faliscan": {
    "language_group": "Etr",
+   "language_group_db": "Etr",
    "period_group": "Etruscan",
    "uncertain": false,
    "review_status": "checked_against_pdf",
@@ -2409,6 +2483,7 @@
   },
   "faliscan": {
    "language_group": "Etr",
+   "language_group_db": "Etr",
    "period_group": "Etruscan",
    "uncertain": false,
    "review_status": "checked_against_pdf",
@@ -2438,6 +2513,7 @@
   },
   "faliscan": {
    "language_group": "Etr",
+   "language_group_db": "Etr",
    "period_group": "Etruscan",
    "uncertain": false,
    "review_status": "checked_against_pdf",
@@ -2467,6 +2543,7 @@
   },
   "faliscan": {
    "language_group": "Etr",
+   "language_group_db": "Etr",
    "period_group": "Etruscan",
    "uncertain": false,
    "review_status": "checked_against_pdf",
@@ -2496,6 +2573,7 @@
   },
   "faliscan": {
    "language_group": "Etr",
+   "language_group_db": "Etr",
    "period_group": "Etruscan",
    "uncertain": true,
    "review_status": "checked_against_pdf",
@@ -2525,6 +2603,7 @@
   },
   "faliscan": {
    "language_group": "Etr",
+   "language_group_db": "Etr",
    "period_group": "Etruscan",
    "uncertain": true,
    "review_status": "checked_against_pdf",
@@ -2554,6 +2633,7 @@
   },
   "faliscan": {
    "language_group": "Etr",
+   "language_group_db": "Etr",
    "period_group": "Etruscan",
    "uncertain": false,
    "review_status": "checked_against_pdf",
@@ -2583,6 +2663,7 @@
   },
   "faliscan": {
    "language_group": "Etr",
+   "language_group_db": "Etr",
    "period_group": "Etruscan",
    "uncertain": false,
    "review_status": "checked_against_pdf",
@@ -2612,6 +2693,7 @@
   },
   "faliscan": {
    "language_group": "Etr",
+   "language_group_db": "Etr",
    "period_group": "Etruscan",
    "uncertain": true,
    "review_status": "checked_against_pdf",
@@ -2641,6 +2723,7 @@
   },
   "faliscan": {
    "language_group": "Etr",
+   "language_group_db": "Etr",
    "period_group": "Etruscan",
    "uncertain": true,
    "review_status": "checked_against_pdf",
@@ -2670,6 +2753,7 @@
   },
   "faliscan": {
    "language_group": "Etr",
+   "language_group_db": "Etr",
    "period_group": "Etruscan",
    "uncertain": true,
    "review_status": "checked_against_pdf",
@@ -2699,6 +2783,7 @@
   },
   "faliscan": {
    "language_group": "Etr",
+   "language_group_db": "Etr",
    "period_group": "Etruscan",
    "uncertain": true,
    "review_status": "checked_against_pdf",
@@ -2728,6 +2813,7 @@
   },
   "faliscan": {
    "language_group": "Etr",
+   "language_group_db": "Etr",
    "period_group": "Etruscan",
    "uncertain": true,
    "review_status": "checked_against_pdf",
@@ -2757,6 +2843,7 @@
   },
   "faliscan": {
    "language_group": "Etr",
+   "language_group_db": "Etr",
    "period_group": "Etruscan",
    "uncertain": true,
    "review_status": "checked_against_pdf",
@@ -2786,6 +2873,7 @@
   },
   "faliscan": {
    "language_group": "Etr",
+   "language_group_db": "Etr",
    "period_group": "Etruscan",
    "uncertain": false,
    "review_status": "checked_against_pdf",
@@ -2815,6 +2903,7 @@
   },
   "faliscan": {
    "language_group": "Etr",
+   "language_group_db": "Etr",
    "period_group": "Etruscan",
    "uncertain": false,
    "review_status": "checked_against_pdf",
@@ -2844,6 +2933,7 @@
   },
   "faliscan": {
    "language_group": "Etr",
+   "language_group_db": "Etr",
    "period_group": "Etruscan",
    "uncertain": false,
    "review_status": "checked_against_pdf",
@@ -2873,6 +2963,7 @@
   },
   "faliscan": {
    "language_group": "Etr",
+   "language_group_db": "Etr",
    "period_group": "Etruscan",
    "uncertain": false,
    "review_status": "checked_against_pdf",
@@ -2902,6 +2993,7 @@
   },
   "faliscan": {
    "language_group": "Etr",
+   "language_group_db": "Etr",
    "period_group": "Etruscan",
    "uncertain": false,
    "review_status": "checked_against_pdf",
@@ -2931,6 +3023,7 @@
   },
   "faliscan": {
    "language_group": "Etr",
+   "language_group_db": "Etr",
    "period_group": "Etruscan",
    "uncertain": false,
    "review_status": "checked_against_pdf",
@@ -2960,6 +3053,7 @@
   },
   "faliscan": {
    "language_group": "Etr",
+   "language_group_db": "Etr",
    "period_group": "Etruscan",
    "uncertain": false,
    "review_status": "checked_against_pdf",
@@ -2989,6 +3083,7 @@
   },
   "faliscan": {
    "language_group": "Etr",
+   "language_group_db": "Etr",
    "period_group": "Etruscan",
    "uncertain": false,
    "review_status": "checked_against_pdf",
@@ -3018,6 +3113,7 @@
   },
   "faliscan": {
    "language_group": "Etr",
+   "language_group_db": "Etr",
    "period_group": "Etruscan",
    "uncertain": false,
    "review_status": "checked_against_pdf",
@@ -3047,6 +3143,7 @@
   },
   "faliscan": {
    "language_group": "Etr",
+   "language_group_db": "Etr",
    "period_group": "Etruscan",
    "uncertain": true,
    "review_status": "checked_against_pdf",
@@ -3076,6 +3173,7 @@
   },
   "faliscan": {
    "language_group": "Etr",
+   "language_group_db": "Etr",
    "period_group": "Etruscan",
    "uncertain": false,
    "review_status": "checked_against_pdf",
@@ -3105,6 +3203,7 @@
   },
   "faliscan": {
    "language_group": "Etr",
+   "language_group_db": "Etr",
    "period_group": "Etruscan",
    "uncertain": false,
    "review_status": "checked_against_pdf",
@@ -3134,6 +3233,7 @@
   },
   "faliscan": {
    "language_group": "Etr",
+   "language_group_db": "Etr",
    "period_group": "Etruscan",
    "uncertain": false,
    "review_status": "checked_against_pdf",
@@ -3163,6 +3263,7 @@
   },
   "faliscan": {
    "language_group": "Etr",
+   "language_group_db": "Etr",
    "period_group": "Etruscan",
    "uncertain": false,
    "review_status": "checked_against_pdf",
@@ -3192,6 +3293,7 @@
   },
   "faliscan": {
    "language_group": "Etr",
+   "language_group_db": "Etr",
    "period_group": "Etruscan",
    "uncertain": false,
    "review_status": "checked_against_pdf",
@@ -3221,6 +3323,7 @@
   },
   "faliscan": {
    "language_group": "Etr",
+   "language_group_db": "Etr",
    "period_group": "Etruscan",
    "uncertain": false,
    "review_status": "checked_against_pdf",
@@ -3250,6 +3353,7 @@
   },
   "faliscan": {
    "language_group": "Etr",
+   "language_group_db": "Etr",
    "period_group": "Etruscan",
    "uncertain": false,
    "review_status": "checked_against_pdf",
@@ -3279,6 +3383,7 @@
   },
   "faliscan": {
    "language_group": "Etr",
+   "language_group_db": "Etr",
    "period_group": "Etruscan",
    "uncertain": false,
    "review_status": "checked_against_pdf",
@@ -3308,6 +3413,7 @@
   },
   "faliscan": {
    "language_group": "Etr",
+   "language_group_db": "Etr",
    "period_group": "Etruscan",
    "uncertain": false,
    "review_status": "checked_against_pdf",
@@ -3337,6 +3443,7 @@
   },
   "faliscan": {
    "language_group": "Etr",
+   "language_group_db": "Etr",
    "period_group": "Etruscan",
    "uncertain": true,
    "review_status": "checked_against_pdf",
@@ -3372,6 +3479,7 @@
   },
   "faliscan": {
    "language_group": "Etr",
+   "language_group_db": "Etr",
    "period_group": "Etruscan",
    "uncertain": true,
    "review_status": "checked_against_pdf",
@@ -3401,6 +3509,7 @@
   },
   "faliscan": {
    "language_group": "Lat",
+   "language_group_db": "Lat",
    "period_group": "Latin",
    "uncertain": false,
    "review_status": "checked_against_pdf",
@@ -3430,6 +3539,7 @@
   },
   "faliscan": {
    "language_group": "Lat",
+   "language_group_db": "Lat",
    "period_group": "Latin",
    "uncertain": false,
    "review_status": "checked_against_pdf",
@@ -3459,6 +3569,7 @@
   },
   "faliscan": {
    "language_group": "Lat",
+   "language_group_db": "Lat",
    "period_group": "Latin",
    "uncertain": false,
    "review_status": "checked_against_pdf",
@@ -3488,6 +3599,7 @@
   },
   "faliscan": {
    "language_group": "Lat",
+   "language_group_db": "Lat",
    "period_group": "Latin",
    "uncertain": false,
    "review_status": "checked_against_pdf",
@@ -3517,6 +3629,7 @@
   },
   "faliscan": {
    "language_group": "Lat",
+   "language_group_db": "Lat",
    "period_group": "Latin",
    "uncertain": false,
    "review_status": "checked_against_pdf",
@@ -3546,6 +3659,7 @@
   },
   "faliscan": {
    "language_group": "Lat",
+   "language_group_db": "Lat",
    "period_group": "Latin",
    "uncertain": false,
    "review_status": "checked_against_pdf",
@@ -3575,6 +3689,7 @@
   },
   "faliscan": {
    "language_group": "Lat",
+   "language_group_db": "Lat",
    "period_group": "Latin",
    "uncertain": false,
    "review_status": "checked_against_pdf",
@@ -3604,6 +3719,7 @@
   },
   "faliscan": {
    "language_group": "Lat",
+   "language_group_db": "Lat",
    "period_group": "Latin",
    "uncertain": false,
    "review_status": "checked_against_pdf",
@@ -3633,6 +3749,7 @@
   },
   "faliscan": {
    "language_group": "Lat",
+   "language_group_db": "Lat",
    "period_group": "Latin",
    "uncertain": false,
    "review_status": "checked_against_pdf",
@@ -3662,6 +3779,7 @@
   },
   "faliscan": {
    "language_group": "Lat",
+   "language_group_db": "Lat",
    "period_group": "Latin",
    "uncertain": false,
    "review_status": "checked_against_pdf",
@@ -3691,6 +3809,7 @@
   },
   "faliscan": {
    "language_group": "Lat",
+   "language_group_db": "Lat",
    "period_group": "Latin",
    "uncertain": false,
    "review_status": "checked_against_pdf",
@@ -3720,6 +3839,7 @@
   },
   "faliscan": {
    "language_group": "Lat",
+   "language_group_db": "Lat",
    "period_group": "Latin",
    "uncertain": false,
    "review_status": "checked_against_pdf",
@@ -3749,6 +3869,7 @@
   },
   "faliscan": {
    "language_group": "Lat",
+   "language_group_db": "Lat",
    "period_group": "Latin",
    "uncertain": false,
    "review_status": "checked_against_pdf",
@@ -3778,6 +3899,7 @@
   },
   "faliscan": {
    "language_group": "Lat",
+   "language_group_db": "Lat",
    "period_group": "Latin",
    "uncertain": false,
    "review_status": "checked_against_pdf",
@@ -3807,6 +3929,7 @@
   },
   "faliscan": {
    "language_group": "Lat",
+   "language_group_db": "Lat",
    "period_group": "Latin",
    "uncertain": false,
    "review_status": "checked_against_pdf",
@@ -3836,6 +3959,7 @@
   },
   "faliscan": {
    "language_group": "Lat",
+   "language_group_db": "Lat",
    "period_group": "Latin",
    "uncertain": false,
    "review_status": "checked_against_pdf",
@@ -3865,6 +3989,7 @@
   },
   "faliscan": {
    "language_group": "Lat",
+   "language_group_db": "Lat",
    "period_group": "Latin",
    "uncertain": true,
    "review_status": "checked_against_pdf",
@@ -3894,6 +4019,7 @@
   },
   "faliscan": {
    "language_group": "Lat",
+   "language_group_db": "Lat",
    "period_group": "Latin",
    "uncertain": false,
    "review_status": "checked_against_pdf",
@@ -3923,6 +4049,7 @@
   },
   "faliscan": {
    "language_group": "LF",
+   "language_group_db": "LF",
    "period_group": "Late Faliscan",
    "uncertain": false,
    "review_status": "checked_against_pdf",
@@ -3952,6 +4079,7 @@
   },
   "faliscan": {
    "language_group": "LF",
+   "language_group_db": "LF",
    "period_group": "Late Faliscan",
    "uncertain": false,
    "review_status": "checked_against_pdf",
@@ -3981,6 +4109,7 @@
   },
   "faliscan": {
    "language_group": "LF",
+   "language_group_db": "LF",
    "period_group": "Late Faliscan",
    "uncertain": false,
    "review_status": "checked_against_pdf",
@@ -4010,6 +4139,7 @@
   },
   "faliscan": {
    "language_group": "LF",
+   "language_group_db": "LF",
    "period_group": "Late Faliscan",
    "uncertain": false,
    "review_status": "checked_against_pdf",
@@ -4039,6 +4169,7 @@
   },
   "faliscan": {
    "language_group": "LF",
+   "language_group_db": "LF",
    "period_group": "Late Faliscan",
    "uncertain": true,
    "review_status": "checked_against_pdf",
@@ -4068,6 +4199,7 @@
   },
   "faliscan": {
    "language_group": "LF",
+   "language_group_db": "LF",
    "period_group": "Late Faliscan",
    "uncertain": true,
    "review_status": "checked_against_pdf",
@@ -4097,6 +4229,7 @@
   },
   "faliscan": {
    "language_group": "LF",
+   "language_group_db": "LF",
    "period_group": "Late Faliscan",
    "uncertain": false,
    "review_status": "checked_against_pdf",
@@ -4126,6 +4259,7 @@
   },
   "faliscan": {
    "language_group": "LF",
+   "language_group_db": "LF",
    "period_group": "Late Faliscan",
    "uncertain": false,
    "review_status": "checked_against_pdf",
@@ -4155,6 +4289,7 @@
   },
   "faliscan": {
    "language_group": "LF",
+   "language_group_db": "LF",
    "period_group": "Late Faliscan",
    "uncertain": true,
    "review_status": "checked_against_pdf",
@@ -4184,6 +4319,7 @@
   },
   "faliscan": {
    "language_group": "LF",
+   "language_group_db": "LF",
    "period_group": "Late Faliscan",
    "uncertain": false,
    "review_status": "checked_against_pdf",
@@ -4212,8 +4348,9 @@
    "bakkum": "233"
   },
   "faliscan": {
-   "language_group": "LF",
-   "period_group": "Late Faliscan",
+   "language_group": "LtF",
+   "language_group_db": "LF",
+   "period_group": "Latino-Faliscan",
    "uncertain": false,
    "review_status": "checked_against_pdf",
    "direction": "dextroverse",
@@ -4242,6 +4379,7 @@
   },
   "faliscan": {
    "language_group": "LF",
+   "language_group_db": "LF",
    "period_group": "Late Faliscan",
    "uncertain": false,
    "review_status": "checked_against_pdf",
@@ -4271,6 +4409,7 @@
   },
   "faliscan": {
    "language_group": "LF",
+   "language_group_db": "LF",
    "period_group": "Late Faliscan",
    "uncertain": false,
    "review_status": "checked_against_pdf",
@@ -4309,6 +4448,7 @@
   },
   "faliscan": {
    "language_group": "LF",
+   "language_group_db": "LF",
    "period_group": "Late Faliscan",
    "uncertain": false,
    "review_status": "checked_against_pdf",
@@ -4338,6 +4478,7 @@
   },
   "faliscan": {
    "language_group": "LF",
+   "language_group_db": "LF",
    "period_group": "Late Faliscan",
    "uncertain": false,
    "review_status": "checked_against_pdf",
@@ -4367,6 +4508,7 @@
   },
   "faliscan": {
    "language_group": "LF",
+   "language_group_db": "LF",
    "period_group": "Late Faliscan",
    "uncertain": false,
    "review_status": "checked_against_pdf",
@@ -4396,6 +4538,7 @@
   },
   "faliscan": {
    "language_group": "LF",
+   "language_group_db": "LF",
    "period_group": "Late Faliscan",
    "uncertain": false,
    "review_status": "checked_against_pdf",
@@ -4425,6 +4568,7 @@
   },
   "faliscan": {
    "language_group": "LF",
+   "language_group_db": "LF",
    "period_group": "Late Faliscan",
    "uncertain": false,
    "review_status": "checked_against_pdf",
@@ -4454,6 +4598,7 @@
   },
   "faliscan": {
    "language_group": "LF",
+   "language_group_db": "LF",
    "period_group": "Late Faliscan",
    "uncertain": false,
    "review_status": "checked_against_pdf",
@@ -4483,6 +4628,7 @@
   },
   "faliscan": {
    "language_group": "LF",
+   "language_group_db": "LF",
    "period_group": "Late Faliscan",
    "uncertain": false,
    "review_status": "checked_against_pdf",
@@ -4512,6 +4658,7 @@
   },
   "faliscan": {
    "language_group": "LF",
+   "language_group_db": "LF",
    "period_group": "Late Faliscan",
    "uncertain": false,
    "review_status": "checked_against_pdf",
@@ -4541,6 +4688,7 @@
   },
   "faliscan": {
    "language_group": "LF",
+   "language_group_db": "LF",
    "period_group": "Late Faliscan",
    "uncertain": false,
    "review_status": "checked_against_pdf",
@@ -4570,6 +4718,7 @@
   },
   "faliscan": {
    "language_group": "LF",
+   "language_group_db": "LF",
    "period_group": "Late Faliscan",
    "uncertain": false,
    "review_status": "checked_against_pdf",
@@ -4599,6 +4748,7 @@
   },
   "faliscan": {
    "language_group": "LF",
+   "language_group_db": "LF",
    "period_group": "Late Faliscan",
    "uncertain": false,
    "review_status": "checked_against_pdf",
@@ -4628,6 +4778,7 @@
   },
   "faliscan": {
    "language_group": "LF",
+   "language_group_db": "LF",
    "period_group": "Late Faliscan",
    "uncertain": false,
    "review_status": "checked_against_pdf",
@@ -4657,6 +4808,7 @@
   },
   "faliscan": {
    "language_group": "LF",
+   "language_group_db": "LF",
    "period_group": "Late Faliscan",
    "uncertain": false,
    "review_status": "checked_against_pdf",
@@ -4686,6 +4838,7 @@
   },
   "faliscan": {
    "language_group": "LF",
+   "language_group_db": "LF",
    "period_group": "Late Faliscan",
    "uncertain": false,
    "review_status": "checked_against_pdf",
@@ -4715,6 +4868,7 @@
   },
   "faliscan": {
    "language_group": "LF",
+   "language_group_db": "LF",
    "period_group": "Late Faliscan",
    "uncertain": false,
    "review_status": "checked_against_pdf",
@@ -4744,6 +4898,7 @@
   },
   "faliscan": {
    "language_group": "LF",
+   "language_group_db": "LF",
    "period_group": "Late Faliscan",
    "uncertain": false,
    "review_status": "checked_against_pdf",
@@ -4773,6 +4928,7 @@
   },
   "faliscan": {
    "language_group": "LF",
+   "language_group_db": "LF",
    "period_group": "Late Faliscan",
    "uncertain": false,
    "review_status": "checked_against_pdf",
@@ -4802,6 +4958,7 @@
   },
   "faliscan": {
    "language_group": "LF",
+   "language_group_db": "LF",
    "period_group": "Late Faliscan",
    "uncertain": false,
    "review_status": "checked_against_pdf",
@@ -4831,6 +4988,7 @@
   },
   "faliscan": {
    "language_group": "LF",
+   "language_group_db": "LF",
    "period_group": "Late Faliscan",
    "uncertain": false,
    "review_status": "checked_against_pdf",
@@ -4860,6 +5018,7 @@
   },
   "faliscan": {
    "language_group": "LF",
+   "language_group_db": "LF",
    "period_group": "Late Faliscan",
    "uncertain": false,
    "review_status": "checked_against_pdf",
@@ -4889,6 +5048,7 @@
   },
   "faliscan": {
    "language_group": "LF/Lat",
+   "language_group_db": "LF/Lat",
    "period_group": "Late Faliscan",
    "uncertain": true,
    "review_status": "checked_against_pdf",
@@ -4918,6 +5078,7 @@
   },
   "faliscan": {
    "language_group": "LF?",
+   "language_group_db": "LF?",
    "period_group": "Late Faliscan",
    "uncertain": true,
    "review_status": "checked_against_pdf",
@@ -4947,6 +5108,7 @@
   },
   "faliscan": {
    "language_group": "LtF",
+   "language_group_db": "LtF",
    "period_group": "Latino-Faliscan",
    "uncertain": false,
    "review_status": "checked_against_pdf",
@@ -4976,6 +5138,7 @@
   },
   "faliscan": {
    "language_group": "LtF",
+   "language_group_db": "LtF",
    "period_group": "Latino-Faliscan",
    "uncertain": false,
    "review_status": "checked_against_pdf",
@@ -5005,6 +5168,7 @@
   },
   "faliscan": {
    "language_group": "LtF",
+   "language_group_db": "LtF",
    "period_group": "Latino-Faliscan",
    "uncertain": false,
    "review_status": "checked_against_pdf",
@@ -5034,6 +5198,7 @@
   },
   "faliscan": {
    "language_group": "LtF",
+   "language_group_db": "LtF",
    "period_group": "Latino-Faliscan",
    "uncertain": false,
    "review_status": "checked_against_pdf",
@@ -5063,6 +5228,7 @@
   },
   "faliscan": {
    "language_group": "LtF",
+   "language_group_db": "LtF",
    "period_group": "Latino-Faliscan",
    "uncertain": false,
    "review_status": "checked_against_pdf",
@@ -5092,6 +5258,7 @@
   },
   "faliscan": {
    "language_group": "LtF",
+   "language_group_db": "LtF",
    "period_group": "Latino-Faliscan",
    "uncertain": false,
    "review_status": "checked_against_pdf",
@@ -5121,6 +5288,7 @@
   },
   "faliscan": {
    "language_group": "LtF",
+   "language_group_db": "LtF",
    "period_group": "Latino-Faliscan",
    "uncertain": false,
    "review_status": "checked_against_pdf",
@@ -5150,6 +5318,7 @@
   },
   "faliscan": {
    "language_group": "LtF",
+   "language_group_db": "LtF",
    "period_group": "Latino-Faliscan",
    "uncertain": false,
    "review_status": "checked_against_pdf",
@@ -5179,6 +5348,7 @@
   },
   "faliscan": {
    "language_group": "LtF",
+   "language_group_db": "LtF",
    "period_group": "Latino-Faliscan",
    "uncertain": false,
    "review_status": "checked_against_pdf",
@@ -5208,6 +5378,7 @@
   },
   "faliscan": {
    "language_group": "LtF",
+   "language_group_db": "LtF",
    "period_group": "Latino-Faliscan",
    "uncertain": false,
    "review_status": "checked_against_pdf",
@@ -5237,6 +5408,7 @@
   },
   "faliscan": {
    "language_group": "LtF",
+   "language_group_db": "LtF",
    "period_group": "Latino-Faliscan",
    "uncertain": false,
    "review_status": "checked_against_pdf",
@@ -5266,6 +5438,7 @@
   },
   "faliscan": {
    "language_group": "LtF",
+   "language_group_db": "LtF",
    "period_group": "Latino-Faliscan",
    "uncertain": false,
    "review_status": "checked_against_pdf",
@@ -5295,6 +5468,7 @@
   },
   "faliscan": {
    "language_group": "LtF",
+   "language_group_db": "LtF",
    "period_group": "Latino-Faliscan",
    "uncertain": false,
    "review_status": "checked_against_pdf",
@@ -5323,8 +5497,9 @@
    "bakkum": "297"
   },
   "faliscan": {
-   "language_group": "LtF",
-   "period_group": "Latino-Faliscan",
+   "language_group": "MLF",
+   "language_group_db": "LtF",
+   "period_group": "Middle or Late Faliscan",
    "uncertain": false,
    "review_status": "checked_against_pdf",
    "direction": null,
@@ -5352,8 +5527,9 @@
    "bakkum": "298"
   },
   "faliscan": {
-   "language_group": "LtF",
-   "period_group": "Latino-Faliscan",
+   "language_group": "MLF",
+   "language_group_db": "LtF",
+   "period_group": "Middle or Late Faliscan",
    "uncertain": false,
    "review_status": "checked_against_pdf",
    "direction": null,
@@ -5382,6 +5558,7 @@
   },
   "faliscan": {
    "language_group": "LtF",
+   "language_group_db": "LtF",
    "period_group": "Latino-Faliscan",
    "uncertain": false,
    "review_status": "checked_against_pdf",
@@ -5411,6 +5588,7 @@
   },
   "faliscan": {
    "language_group": "LtF",
+   "language_group_db": "LtF",
    "period_group": "Latino-Faliscan",
    "uncertain": false,
    "review_status": "checked_against_pdf",
@@ -5440,6 +5618,7 @@
   },
   "faliscan": {
    "language_group": "LtF",
+   "language_group_db": "LtF",
    "period_group": "Latino-Faliscan",
    "uncertain": false,
    "review_status": "checked_against_pdf",
@@ -5469,6 +5648,7 @@
   },
   "faliscan": {
    "language_group": "LtF",
+   "language_group_db": "LtF",
    "period_group": "Latino-Faliscan",
    "uncertain": false,
    "review_status": "checked_against_pdf",
@@ -5498,6 +5678,7 @@
   },
   "faliscan": {
    "language_group": "LtF",
+   "language_group_db": "LtF",
    "period_group": "Latino-Faliscan",
    "uncertain": false,
    "review_status": "checked_against_pdf",
@@ -5527,6 +5708,7 @@
   },
   "faliscan": {
    "language_group": "LtF",
+   "language_group_db": "LtF",
    "period_group": "Latino-Faliscan",
    "uncertain": false,
    "review_status": "checked_against_pdf",
@@ -5556,6 +5738,7 @@
   },
   "faliscan": {
    "language_group": "LtF",
+   "language_group_db": "LtF",
    "period_group": "Latino-Faliscan",
    "uncertain": false,
    "review_status": "checked_against_pdf",
@@ -5585,6 +5768,7 @@
   },
   "faliscan": {
    "language_group": "LtF",
+   "language_group_db": "LtF",
    "period_group": "Latino-Faliscan",
    "uncertain": false,
    "review_status": "checked_against_pdf",
@@ -5614,6 +5798,7 @@
   },
   "faliscan": {
    "language_group": "LtF",
+   "language_group_db": "LtF",
    "period_group": "Latino-Faliscan",
    "uncertain": false,
    "review_status": "checked_against_pdf",
@@ -5643,6 +5828,7 @@
   },
   "faliscan": {
    "language_group": "LtF",
+   "language_group_db": "LtF",
    "period_group": "Latino-Faliscan",
    "uncertain": false,
    "review_status": "checked_against_pdf",
@@ -5672,6 +5858,7 @@
   },
   "faliscan": {
    "language_group": "LtF",
+   "language_group_db": "LtF",
    "period_group": "Latino-Faliscan",
    "uncertain": false,
    "review_status": "checked_against_pdf",
@@ -5701,6 +5888,7 @@
   },
   "faliscan": {
    "language_group": "MF",
+   "language_group_db": "MF",
    "period_group": "Middle Faliscan",
    "uncertain": false,
    "review_status": "checked_against_pdf",
@@ -5730,6 +5918,7 @@
   },
   "faliscan": {
    "language_group": "MF",
+   "language_group_db": "MF",
    "period_group": "Middle Faliscan",
    "uncertain": false,
    "review_status": "checked_against_pdf",
@@ -5759,6 +5948,7 @@
   },
   "faliscan": {
    "language_group": "MF",
+   "language_group_db": "MF",
    "period_group": "Middle Faliscan",
    "uncertain": false,
    "review_status": "checked_against_pdf",
@@ -5788,6 +5978,7 @@
   },
   "faliscan": {
    "language_group": "MF",
+   "language_group_db": "MF",
    "period_group": "Middle Faliscan",
    "uncertain": false,
    "review_status": "checked_against_pdf",
@@ -5817,6 +6008,7 @@
   },
   "faliscan": {
    "language_group": "MF",
+   "language_group_db": "MF",
    "period_group": "Middle Faliscan",
    "uncertain": false,
    "review_status": "checked_against_pdf",
@@ -5846,6 +6038,7 @@
   },
   "faliscan": {
    "language_group": "MF",
+   "language_group_db": "MF",
    "period_group": "Middle Faliscan",
    "uncertain": false,
    "review_status": "checked_against_pdf",
@@ -5875,6 +6068,7 @@
   },
   "faliscan": {
    "language_group": "MF",
+   "language_group_db": "MF",
    "period_group": "Middle Faliscan",
    "uncertain": false,
    "review_status": "checked_against_pdf",
@@ -5904,6 +6098,7 @@
   },
   "faliscan": {
    "language_group": "MF",
+   "language_group_db": "MF",
    "period_group": "Middle Faliscan",
    "uncertain": false,
    "review_status": "checked_against_pdf",
@@ -5933,6 +6128,7 @@
   },
   "faliscan": {
    "language_group": "MF",
+   "language_group_db": "MF",
    "period_group": "Middle Faliscan",
    "uncertain": true,
    "review_status": "checked_against_pdf",
@@ -5962,6 +6158,7 @@
   },
   "faliscan": {
    "language_group": "MF",
+   "language_group_db": "MF",
    "period_group": "Middle Faliscan",
    "uncertain": true,
    "review_status": "checked_against_pdf",
@@ -5991,6 +6188,7 @@
   },
   "faliscan": {
    "language_group": "MF",
+   "language_group_db": "MF",
    "period_group": "Middle Faliscan",
    "uncertain": false,
    "review_status": "checked_against_pdf",
@@ -6020,6 +6218,7 @@
   },
   "faliscan": {
    "language_group": "MF",
+   "language_group_db": "MF",
    "period_group": "Middle Faliscan",
    "uncertain": false,
    "review_status": "checked_against_pdf",
@@ -6049,6 +6248,7 @@
   },
   "faliscan": {
    "language_group": "MF",
+   "language_group_db": "MF",
    "period_group": "Middle Faliscan",
    "uncertain": false,
    "review_status": "checked_against_pdf",
@@ -6078,6 +6278,7 @@
   },
   "faliscan": {
    "language_group": "MF",
+   "language_group_db": "MF",
    "period_group": "Middle Faliscan",
    "uncertain": false,
    "review_status": "checked_against_pdf",
@@ -6107,6 +6308,7 @@
   },
   "faliscan": {
    "language_group": "MF",
+   "language_group_db": "MF",
    "period_group": "Middle Faliscan",
    "uncertain": false,
    "review_status": "checked_against_pdf",
@@ -6136,6 +6338,7 @@
   },
   "faliscan": {
    "language_group": "MF",
+   "language_group_db": "MF",
    "period_group": "Middle Faliscan",
    "uncertain": false,
    "review_status": "checked_against_pdf",
@@ -6165,6 +6368,7 @@
   },
   "faliscan": {
    "language_group": "MF",
+   "language_group_db": "MF",
    "period_group": "Middle Faliscan",
    "uncertain": false,
    "review_status": "checked_against_pdf",
@@ -6194,6 +6398,7 @@
   },
   "faliscan": {
    "language_group": "MF",
+   "language_group_db": "MF",
    "period_group": "Middle Faliscan",
    "uncertain": true,
    "review_status": "checked_against_pdf",
@@ -6223,6 +6428,7 @@
   },
   "faliscan": {
    "language_group": "MF",
+   "language_group_db": "MF",
    "period_group": "Middle Faliscan",
    "uncertain": false,
    "review_status": "checked_against_pdf",
@@ -6252,6 +6458,7 @@
   },
   "faliscan": {
    "language_group": "MF",
+   "language_group_db": "MF",
    "period_group": "Middle Faliscan",
    "uncertain": false,
    "review_status": "checked_against_pdf",
@@ -6281,6 +6488,7 @@
   },
   "faliscan": {
    "language_group": "MF",
+   "language_group_db": "MF",
    "period_group": "Middle Faliscan",
    "uncertain": false,
    "review_status": "checked_against_pdf",
@@ -6310,6 +6518,7 @@
   },
   "faliscan": {
    "language_group": "MF",
+   "language_group_db": "MF",
    "period_group": "Middle Faliscan",
    "uncertain": false,
    "review_status": "checked_against_pdf",
@@ -6339,6 +6548,7 @@
   },
   "faliscan": {
    "language_group": "MF",
+   "language_group_db": "MF",
    "period_group": "Middle Faliscan",
    "uncertain": false,
    "review_status": "checked_against_pdf",
@@ -6368,6 +6578,7 @@
   },
   "faliscan": {
    "language_group": "MF",
+   "language_group_db": "MF",
    "period_group": "Middle Faliscan",
    "uncertain": false,
    "review_status": "checked_against_pdf",
@@ -6397,6 +6608,7 @@
   },
   "faliscan": {
    "language_group": "MF",
+   "language_group_db": "MF",
    "period_group": "Middle Faliscan",
    "uncertain": false,
    "review_status": "checked_against_pdf",
@@ -6426,6 +6638,7 @@
   },
   "faliscan": {
    "language_group": "MF",
+   "language_group_db": "MF",
    "period_group": "Middle Faliscan",
    "uncertain": false,
    "review_status": "checked_against_pdf",
@@ -6455,6 +6668,7 @@
   },
   "faliscan": {
    "language_group": "MF",
+   "language_group_db": "MF",
    "period_group": "Middle Faliscan",
    "uncertain": false,
    "review_status": "checked_against_pdf",
@@ -6484,6 +6698,7 @@
   },
   "faliscan": {
    "language_group": "MF",
+   "language_group_db": "MF",
    "period_group": "Middle Faliscan",
    "uncertain": false,
    "review_status": "checked_against_pdf",
@@ -6513,6 +6728,7 @@
   },
   "faliscan": {
    "language_group": "MF",
+   "language_group_db": "MF",
    "period_group": "Middle Faliscan",
    "uncertain": true,
    "review_status": "checked_against_pdf",
@@ -6542,6 +6758,7 @@
   },
   "faliscan": {
    "language_group": "MF",
+   "language_group_db": "MF",
    "period_group": "Middle Faliscan",
    "uncertain": true,
    "review_status": "checked_against_pdf",
@@ -6571,6 +6788,7 @@
   },
   "faliscan": {
    "language_group": "MF",
+   "language_group_db": "MF",
    "period_group": "Middle Faliscan",
    "uncertain": false,
    "review_status": "checked_against_pdf",
@@ -6600,6 +6818,7 @@
   },
   "faliscan": {
    "language_group": "MF",
+   "language_group_db": "MF",
    "period_group": "Middle Faliscan",
    "uncertain": false,
    "review_status": "checked_against_pdf",
@@ -6629,6 +6848,7 @@
   },
   "faliscan": {
    "language_group": "MF",
+   "language_group_db": "MF",
    "period_group": "Middle Faliscan",
    "uncertain": false,
    "review_status": "checked_against_pdf",
@@ -6658,6 +6878,7 @@
   },
   "faliscan": {
    "language_group": "MF",
+   "language_group_db": "MF",
    "period_group": "Middle Faliscan",
    "uncertain": false,
    "review_status": "checked_against_pdf",
@@ -6687,6 +6908,7 @@
   },
   "faliscan": {
    "language_group": "MF",
+   "language_group_db": "MF",
    "period_group": "Middle Faliscan",
    "uncertain": false,
    "review_status": "checked_against_pdf",
@@ -6716,6 +6938,7 @@
   },
   "faliscan": {
    "language_group": "MF",
+   "language_group_db": "MF",
    "period_group": "Middle Faliscan",
    "uncertain": false,
    "review_status": "checked_against_pdf",
@@ -6745,6 +6968,7 @@
   },
   "faliscan": {
    "language_group": "MF",
+   "language_group_db": "MF",
    "period_group": "Middle Faliscan",
    "uncertain": false,
    "review_status": "checked_against_pdf",
@@ -6774,6 +6998,7 @@
   },
   "faliscan": {
    "language_group": "MF",
+   "language_group_db": "MF",
    "period_group": "Middle Faliscan",
    "uncertain": false,
    "review_status": "checked_against_pdf",
@@ -6803,6 +7028,7 @@
   },
   "faliscan": {
    "language_group": "MF",
+   "language_group_db": "MF",
    "period_group": "Middle Faliscan",
    "uncertain": false,
    "review_status": "checked_against_pdf",
@@ -6832,6 +7058,7 @@
   },
   "faliscan": {
    "language_group": "MF",
+   "language_group_db": "MF",
    "period_group": "Middle Faliscan",
    "uncertain": false,
    "review_status": "checked_against_pdf",
@@ -6861,6 +7088,7 @@
   },
   "faliscan": {
    "language_group": "MF",
+   "language_group_db": "MF",
    "period_group": "Middle Faliscan",
    "uncertain": false,
    "review_status": "checked_against_pdf",
@@ -6890,6 +7118,7 @@
   },
   "faliscan": {
    "language_group": "MF",
+   "language_group_db": "MF",
    "period_group": "Middle Faliscan",
    "uncertain": false,
    "review_status": "checked_against_pdf",
@@ -6919,6 +7148,7 @@
   },
   "faliscan": {
    "language_group": "MF",
+   "language_group_db": "MF",
    "period_group": "Middle Faliscan",
    "uncertain": false,
    "review_status": "checked_against_pdf",
@@ -6948,6 +7178,7 @@
   },
   "faliscan": {
    "language_group": "MF",
+   "language_group_db": "MF",
    "period_group": "Middle Faliscan",
    "uncertain": false,
    "review_status": "checked_against_pdf",
@@ -6977,6 +7208,7 @@
   },
   "faliscan": {
    "language_group": "MF",
+   "language_group_db": "MF",
    "period_group": "Middle Faliscan",
    "uncertain": false,
    "review_status": "checked_against_pdf",
@@ -7006,6 +7238,7 @@
   },
   "faliscan": {
    "language_group": "MF",
+   "language_group_db": "MF",
    "period_group": "Middle Faliscan",
    "uncertain": false,
    "review_status": "checked_against_pdf",
@@ -7035,6 +7268,7 @@
   },
   "faliscan": {
    "language_group": "MF",
+   "language_group_db": "MF",
    "period_group": "Middle Faliscan",
    "uncertain": false,
    "review_status": "checked_against_pdf",
@@ -7064,6 +7298,7 @@
   },
   "faliscan": {
    "language_group": "MF",
+   "language_group_db": "MF",
    "period_group": "Middle Faliscan",
    "uncertain": false,
    "review_status": "checked_against_pdf",
@@ -7093,6 +7328,7 @@
   },
   "faliscan": {
    "language_group": "MF",
+   "language_group_db": "MF",
    "period_group": "Middle Faliscan",
    "uncertain": false,
    "review_status": "checked_against_pdf",
@@ -7122,6 +7358,7 @@
   },
   "faliscan": {
    "language_group": "MF",
+   "language_group_db": "MF",
    "period_group": "Middle Faliscan",
    "uncertain": false,
    "review_status": "checked_against_pdf",
@@ -7151,6 +7388,7 @@
   },
   "faliscan": {
    "language_group": "MF",
+   "language_group_db": "MF",
    "period_group": "Middle Faliscan",
    "uncertain": false,
    "review_status": "checked_against_pdf",
@@ -7180,6 +7418,7 @@
   },
   "faliscan": {
    "language_group": "MF",
+   "language_group_db": "MF",
    "period_group": "Middle Faliscan",
    "uncertain": false,
    "review_status": "checked_against_pdf",
@@ -7209,6 +7448,7 @@
   },
   "faliscan": {
    "language_group": "MF",
+   "language_group_db": "MF",
    "period_group": "Middle Faliscan",
    "uncertain": true,
    "review_status": "checked_against_pdf",
@@ -7238,6 +7478,7 @@
   },
   "faliscan": {
    "language_group": "MF",
+   "language_group_db": "MF",
    "period_group": "Middle Faliscan",
    "uncertain": true,
    "review_status": "checked_against_pdf",
@@ -7267,6 +7508,7 @@
   },
   "faliscan": {
    "language_group": "MF",
+   "language_group_db": "MF",
    "period_group": "Middle Faliscan",
    "uncertain": false,
    "review_status": "checked_against_pdf",
@@ -7296,6 +7538,7 @@
   },
   "faliscan": {
    "language_group": "MF",
+   "language_group_db": "MF",
    "period_group": "Middle Faliscan",
    "uncertain": false,
    "review_status": "checked_against_pdf",
@@ -7325,6 +7568,7 @@
   },
   "faliscan": {
    "language_group": "MF",
+   "language_group_db": "MF",
    "period_group": "Middle Faliscan",
    "uncertain": false,
    "review_status": "checked_against_pdf",
@@ -7353,8 +7597,9 @@
    "bakkum": "174"
   },
   "faliscan": {
-   "language_group": "MF",
-   "period_group": "Middle Faliscan",
+   "language_group": "LtF",
+   "language_group_db": "MF",
+   "period_group": "Latino-Faliscan",
    "uncertain": false,
    "review_status": "checked_against_pdf",
    "direction": "dextroverse",
@@ -7383,6 +7628,7 @@
   },
   "faliscan": {
    "language_group": "MF",
+   "language_group_db": "MF",
    "period_group": "Middle Faliscan",
    "uncertain": false,
    "review_status": "checked_against_pdf",
@@ -7412,6 +7658,7 @@
   },
   "faliscan": {
    "language_group": "MF",
+   "language_group_db": "MF",
    "period_group": "Middle Faliscan",
    "uncertain": false,
    "review_status": "checked_against_pdf",
@@ -7441,6 +7688,7 @@
   },
   "faliscan": {
    "language_group": "MF",
+   "language_group_db": "MF",
    "period_group": "Middle Faliscan",
    "uncertain": false,
    "review_status": "checked_against_pdf",
@@ -7470,6 +7718,7 @@
   },
   "faliscan": {
    "language_group": "MF",
+   "language_group_db": "MF",
    "period_group": "Middle Faliscan",
    "uncertain": false,
    "review_status": "checked_against_pdf",
@@ -7499,6 +7748,7 @@
   },
   "faliscan": {
    "language_group": "MF",
+   "language_group_db": "MF",
    "period_group": "Middle Faliscan",
    "uncertain": false,
    "review_status": "checked_against_pdf",
@@ -7528,6 +7778,7 @@
   },
   "faliscan": {
    "language_group": "MF",
+   "language_group_db": "MF",
    "period_group": "Middle Faliscan",
    "uncertain": false,
    "review_status": "checked_against_pdf",
@@ -7557,6 +7808,7 @@
   },
   "faliscan": {
    "language_group": "MF",
+   "language_group_db": "MF",
    "period_group": "Middle Faliscan",
    "uncertain": false,
    "review_status": "checked_against_pdf",
@@ -7586,6 +7838,7 @@
   },
   "faliscan": {
    "language_group": "MF",
+   "language_group_db": "MF",
    "period_group": "Middle Faliscan",
    "uncertain": false,
    "review_status": "checked_against_pdf",
@@ -7615,6 +7868,7 @@
   },
   "faliscan": {
    "language_group": "MF",
+   "language_group_db": "MF",
    "period_group": "Middle Faliscan",
    "uncertain": false,
    "review_status": "checked_against_pdf",
@@ -7644,6 +7898,7 @@
   },
   "faliscan": {
    "language_group": "MF",
+   "language_group_db": "MF",
    "period_group": "Middle Faliscan",
    "uncertain": false,
    "review_status": "checked_against_pdf",
@@ -7673,6 +7928,7 @@
   },
   "faliscan": {
    "language_group": "MF",
+   "language_group_db": "MF",
    "period_group": "Middle Faliscan",
    "uncertain": false,
    "review_status": "checked_against_pdf",
@@ -7702,6 +7958,7 @@
   },
   "faliscan": {
    "language_group": "MF",
+   "language_group_db": "MF",
    "period_group": "Middle Faliscan",
    "uncertain": false,
    "review_status": "checked_against_pdf",
@@ -7731,6 +7988,7 @@
   },
   "faliscan": {
    "language_group": "MF",
+   "language_group_db": "MF",
    "period_group": "Middle Faliscan",
    "uncertain": false,
    "review_status": "checked_against_pdf",
@@ -7760,6 +8018,7 @@
   },
   "faliscan": {
    "language_group": "MF",
+   "language_group_db": "MF",
    "period_group": "Middle Faliscan",
    "uncertain": false,
    "review_status": "checked_against_pdf",
@@ -7789,6 +8048,7 @@
   },
   "faliscan": {
    "language_group": "MF",
+   "language_group_db": "MF",
    "period_group": "Middle Faliscan",
    "uncertain": false,
    "review_status": "checked_against_pdf",
@@ -7818,6 +8078,7 @@
   },
   "faliscan": {
    "language_group": "MF",
+   "language_group_db": "MF",
    "period_group": "Middle Faliscan",
    "uncertain": false,
    "review_status": "checked_against_pdf",
@@ -7847,6 +8108,7 @@
   },
   "faliscan": {
    "language_group": "MF",
+   "language_group_db": "MF",
    "period_group": "Middle Faliscan",
    "uncertain": false,
    "review_status": "checked_against_pdf",
@@ -7876,6 +8138,7 @@
   },
   "faliscan": {
    "language_group": "MF",
+   "language_group_db": "MF",
    "period_group": "Middle Faliscan",
    "uncertain": false,
    "review_status": "checked_against_pdf",
@@ -7905,6 +8168,7 @@
   },
   "faliscan": {
    "language_group": "MF",
+   "language_group_db": "MF",
    "period_group": "Middle Faliscan",
    "uncertain": false,
    "review_status": "checked_against_pdf",
@@ -7934,6 +8198,7 @@
   },
   "faliscan": {
    "language_group": "MF",
+   "language_group_db": "MF",
    "period_group": "Middle Faliscan",
    "uncertain": false,
    "review_status": "checked_against_pdf",
@@ -7963,6 +8228,7 @@
   },
   "faliscan": {
    "language_group": "MF",
+   "language_group_db": "MF",
    "period_group": "Middle Faliscan",
    "uncertain": false,
    "review_status": "checked_against_pdf",
@@ -7992,6 +8258,7 @@
   },
   "faliscan": {
    "language_group": "MF",
+   "language_group_db": "MF",
    "period_group": "Middle Faliscan",
    "uncertain": false,
    "review_status": "checked_against_pdf",
@@ -8021,6 +8288,7 @@
   },
   "faliscan": {
    "language_group": "MF",
+   "language_group_db": "MF",
    "period_group": "Middle Faliscan",
    "uncertain": false,
    "review_status": "checked_against_pdf",
@@ -8050,6 +8318,7 @@
   },
   "faliscan": {
    "language_group": "MF",
+   "language_group_db": "MF",
    "period_group": "Middle Faliscan",
    "uncertain": false,
    "review_status": "checked_against_pdf",
@@ -8079,6 +8348,7 @@
   },
   "faliscan": {
    "language_group": "MF",
+   "language_group_db": "MF",
    "period_group": "Middle Faliscan",
    "uncertain": false,
    "review_status": "checked_against_pdf",
@@ -8108,6 +8378,7 @@
   },
   "faliscan": {
    "language_group": "MF",
+   "language_group_db": "MF",
    "period_group": "Middle Faliscan",
    "uncertain": false,
    "review_status": "checked_against_pdf",
@@ -8137,6 +8408,7 @@
   },
   "faliscan": {
    "language_group": "MF",
+   "language_group_db": "MF",
    "period_group": "Middle Faliscan",
    "uncertain": false,
    "review_status": "checked_against_pdf",
@@ -8166,6 +8438,7 @@
   },
   "faliscan": {
    "language_group": "MF",
+   "language_group_db": "MF",
    "period_group": "Middle Faliscan",
    "uncertain": false,
    "review_status": "checked_against_pdf",
@@ -8195,6 +8468,7 @@
   },
   "faliscan": {
    "language_group": "MF",
+   "language_group_db": "MF",
    "period_group": "Middle Faliscan",
    "uncertain": false,
    "review_status": "checked_against_pdf",
@@ -8223,7 +8497,8 @@
    "bakkum": "253"
   },
   "faliscan": {
-   "language_group": "MF",
+   "language_group": "MF?",
+   "language_group_db": "MF",
    "period_group": "Middle Faliscan",
    "uncertain": false,
    "review_status": "checked_against_pdf",
@@ -8252,7 +8527,8 @@
    "bakkum": "254"
   },
   "faliscan": {
-   "language_group": "MF",
+   "language_group": "MF?",
+   "language_group_db": "MF",
    "period_group": "Middle Faliscan",
    "uncertain": false,
    "review_status": "checked_against_pdf",
@@ -8281,7 +8557,8 @@
    "bakkum": "255"
   },
   "faliscan": {
-   "language_group": "MF",
+   "language_group": "MF?",
+   "language_group_db": "MF",
    "period_group": "Middle Faliscan",
    "uncertain": false,
    "review_status": "checked_against_pdf",
@@ -8311,6 +8588,7 @@
   },
   "faliscan": {
    "language_group": "MF",
+   "language_group_db": "MF",
    "period_group": "Middle Faliscan",
    "uncertain": false,
    "review_status": "checked_against_pdf",
@@ -8340,6 +8618,7 @@
   },
   "faliscan": {
    "language_group": "MF",
+   "language_group_db": "MF",
    "period_group": "Middle Faliscan",
    "uncertain": false,
    "review_status": "checked_against_pdf",
@@ -8369,6 +8648,7 @@
   },
   "faliscan": {
    "language_group": "MF",
+   "language_group_db": "MF",
    "period_group": "Middle Faliscan",
    "uncertain": false,
    "review_status": "checked_against_pdf",
@@ -8398,6 +8678,7 @@
   },
   "faliscan": {
    "language_group": "MF",
+   "language_group_db": "MF",
    "period_group": "Middle Faliscan",
    "uncertain": false,
    "review_status": "checked_against_pdf",
@@ -8427,6 +8708,7 @@
   },
   "faliscan": {
    "language_group": "MF",
+   "language_group_db": "MF",
    "period_group": "Middle Faliscan",
    "uncertain": false,
    "review_status": "checked_against_pdf",
@@ -8456,6 +8738,7 @@
   },
   "faliscan": {
    "language_group": "MF",
+   "language_group_db": "MF",
    "period_group": "Middle Faliscan",
    "uncertain": false,
    "review_status": "checked_against_pdf",
@@ -8485,6 +8768,7 @@
   },
   "faliscan": {
    "language_group": "MF",
+   "language_group_db": "MF",
    "period_group": "Middle Faliscan",
    "uncertain": false,
    "review_status": "checked_against_pdf",
@@ -8514,6 +8798,7 @@
   },
   "faliscan": {
    "language_group": "MF",
+   "language_group_db": "MF",
    "period_group": "Middle Faliscan",
    "uncertain": false,
    "review_status": "checked_against_pdf",
@@ -8543,6 +8828,7 @@
   },
   "faliscan": {
    "language_group": "MF",
+   "language_group_db": "MF",
    "period_group": "Middle Faliscan",
    "uncertain": false,
    "review_status": "checked_against_pdf",
@@ -8572,6 +8858,7 @@
   },
   "faliscan": {
    "language_group": "MF",
+   "language_group_db": "MF",
    "period_group": "Middle Faliscan",
    "uncertain": false,
    "review_status": "checked_against_pdf",
@@ -8601,6 +8888,7 @@
   },
   "faliscan": {
    "language_group": "MF",
+   "language_group_db": "MF",
    "period_group": "Middle Faliscan",
    "uncertain": false,
    "review_status": "checked_against_pdf",
@@ -8630,6 +8918,7 @@
   },
   "faliscan": {
    "language_group": "MF",
+   "language_group_db": "MF",
    "period_group": "Middle Faliscan",
    "uncertain": false,
    "review_status": "checked_against_pdf",
@@ -8659,6 +8948,7 @@
   },
   "faliscan": {
    "language_group": "MF",
+   "language_group_db": "MF",
    "period_group": "Middle Faliscan",
    "uncertain": false,
    "review_status": "checked_against_pdf",
@@ -8688,6 +8978,7 @@
   },
   "faliscan": {
    "language_group": "MF",
+   "language_group_db": "MF",
    "period_group": "Middle Faliscan",
    "uncertain": false,
    "review_status": "checked_against_pdf",
@@ -8716,7 +9007,8 @@
    "bakkum": "29"
   },
   "faliscan": {
-   "language_group": "MF",
+   "language_group": "MF?",
+   "language_group_db": "MF",
    "period_group": "Middle Faliscan",
    "uncertain": false,
    "review_status": "checked_against_pdf",
@@ -8746,6 +9038,7 @@
   },
   "faliscan": {
    "language_group": "MF",
+   "language_group_db": "MF",
    "period_group": "Middle Faliscan",
    "uncertain": false,
    "review_status": "checked_against_pdf",
@@ -8775,6 +9068,7 @@
   },
   "faliscan": {
    "language_group": "MF",
+   "language_group_db": "MF",
    "period_group": "Middle Faliscan",
    "uncertain": false,
    "review_status": "checked_against_pdf",
@@ -8803,8 +9097,9 @@
    "bakkum": "336"
   },
   "faliscan": {
-   "language_group": "MF",
-   "period_group": "Middle Faliscan",
+   "language_group": "LF",
+   "language_group_db": "MF",
+   "period_group": "Late Faliscan",
    "uncertain": false,
    "review_status": "checked_against_pdf",
    "direction": "sinistroverse",
@@ -8833,6 +9128,7 @@
   },
   "faliscan": {
    "language_group": "MF",
+   "language_group_db": "MF",
    "period_group": "Middle Faliscan",
    "uncertain": false,
    "review_status": "checked_against_pdf",
@@ -8862,6 +9158,7 @@
   },
   "faliscan": {
    "language_group": "MF",
+   "language_group_db": "MF",
    "period_group": "Middle Faliscan",
    "uncertain": false,
    "review_status": "checked_against_pdf",
@@ -8890,7 +9187,8 @@
    "bakkum": "38"
   },
   "faliscan": {
-   "language_group": "MF",
+   "language_group": "MF?",
+   "language_group_db": "MF",
    "period_group": "Middle Faliscan",
    "uncertain": false,
    "review_status": "checked_against_pdf",
@@ -8920,6 +9218,7 @@
   },
   "faliscan": {
    "language_group": "MF",
+   "language_group_db": "MF",
    "period_group": "Middle Faliscan",
    "uncertain": false,
    "review_status": "checked_against_pdf",
@@ -8949,6 +9248,7 @@
   },
   "faliscan": {
    "language_group": "MF",
+   "language_group_db": "MF",
    "period_group": "Middle Faliscan",
    "uncertain": false,
    "review_status": "checked_against_pdf",
@@ -8978,6 +9278,7 @@
   },
   "faliscan": {
    "language_group": "MF",
+   "language_group_db": "MF",
    "period_group": "Middle Faliscan",
    "uncertain": false,
    "review_status": "checked_against_pdf",
@@ -9007,6 +9308,7 @@
   },
   "faliscan": {
    "language_group": "MF",
+   "language_group_db": "MF",
    "period_group": "Middle Faliscan",
    "uncertain": false,
    "review_status": "checked_against_pdf",
@@ -9036,6 +9338,7 @@
   },
   "faliscan": {
    "language_group": "MF",
+   "language_group_db": "MF",
    "period_group": "Middle Faliscan",
    "uncertain": false,
    "review_status": "checked_against_pdf",
@@ -9064,7 +9367,8 @@
    "bakkum": "44"
   },
   "faliscan": {
-   "language_group": "MF",
+   "language_group": "MF?",
+   "language_group_db": "MF",
    "period_group": "Middle Faliscan",
    "uncertain": false,
    "review_status": "checked_against_pdf",
@@ -9094,6 +9398,7 @@
   },
   "faliscan": {
    "language_group": "MF",
+   "language_group_db": "MF",
    "period_group": "Middle Faliscan",
    "uncertain": false,
    "review_status": "checked_against_pdf",
@@ -9123,6 +9428,7 @@
   },
   "faliscan": {
    "language_group": "MF",
+   "language_group_db": "MF",
    "period_group": "Middle Faliscan",
    "uncertain": false,
    "review_status": "checked_against_pdf",
@@ -9152,6 +9458,7 @@
   },
   "faliscan": {
    "language_group": "MF",
+   "language_group_db": "MF",
    "period_group": "Middle Faliscan",
    "uncertain": false,
    "review_status": "checked_against_pdf",
@@ -9181,6 +9488,7 @@
   },
   "faliscan": {
    "language_group": "MF",
+   "language_group_db": "MF",
    "period_group": "Middle Faliscan",
    "uncertain": false,
    "review_status": "checked_against_pdf",
@@ -9210,6 +9518,7 @@
   },
   "faliscan": {
    "language_group": "MF",
+   "language_group_db": "MF",
    "period_group": "Middle Faliscan",
    "uncertain": false,
    "review_status": "checked_against_pdf",
@@ -9239,6 +9548,7 @@
   },
   "faliscan": {
    "language_group": "MF",
+   "language_group_db": "MF",
    "period_group": "Middle Faliscan",
    "uncertain": false,
    "review_status": "checked_against_pdf",
@@ -9268,6 +9578,7 @@
   },
   "faliscan": {
    "language_group": "MF",
+   "language_group_db": "MF",
    "period_group": "Middle Faliscan",
    "uncertain": false,
    "review_status": "checked_against_pdf",
@@ -9297,6 +9608,7 @@
   },
   "faliscan": {
    "language_group": "MF",
+   "language_group_db": "MF",
    "period_group": "Middle Faliscan",
    "uncertain": false,
    "review_status": "checked_against_pdf",
@@ -9326,6 +9638,7 @@
   },
   "faliscan": {
    "language_group": "MF",
+   "language_group_db": "MF",
    "period_group": "Middle Faliscan",
    "uncertain": false,
    "review_status": "checked_against_pdf",
@@ -9355,6 +9668,7 @@
   },
   "faliscan": {
    "language_group": "MF",
+   "language_group_db": "MF",
    "period_group": "Middle Faliscan",
    "uncertain": false,
    "review_status": "checked_against_pdf",
@@ -9384,6 +9698,7 @@
   },
   "faliscan": {
    "language_group": "MF",
+   "language_group_db": "MF",
    "period_group": "Middle Faliscan",
    "uncertain": false,
    "review_status": "checked_against_pdf",
@@ -9413,6 +9728,7 @@
   },
   "faliscan": {
    "language_group": "MF",
+   "language_group_db": "MF",
    "period_group": "Middle Faliscan",
    "uncertain": false,
    "review_status": "checked_against_pdf",
@@ -9442,6 +9758,7 @@
   },
   "faliscan": {
    "language_group": "MF",
+   "language_group_db": "MF",
    "period_group": "Middle Faliscan",
    "uncertain": false,
    "review_status": "checked_against_pdf",
@@ -9471,6 +9788,7 @@
   },
   "faliscan": {
    "language_group": "MF",
+   "language_group_db": "MF",
    "period_group": "Middle Faliscan",
    "uncertain": false,
    "review_status": "checked_against_pdf",
@@ -9500,6 +9818,7 @@
   },
   "faliscan": {
    "language_group": "MF",
+   "language_group_db": "MF",
    "period_group": "Middle Faliscan",
    "uncertain": false,
    "review_status": "checked_against_pdf",
@@ -9515,30 +9834,61 @@
  },
  {
   "id": 90000330,
-  "record_number": "MF 63-64",
+  "record_number": "LtF 63",
   "date_min": null,
   "date_max": null,
   "object_type": "saucer",
   "inscription_type": null,
   "monument_type": null,
-  "text": "anni ulties",
+  "text": "anni",
   "region_sub": null,
   "region_main": "La Penna necropolis, Civita Castellana",
   "ids_alt": {
-   "bakkum": "63-64"
+   "bakkum": "63"
   },
   "faliscan": {
-   "language_group": "MF",
+   "language_group": "LtF",
+   "language_group_db": "MF",
+   "period_group": "Latino-Faliscan",
+   "uncertain": true,
+   "review_status": "checked_against_pdf",
+   "direction": "mixed_or_discussed",
+   "date_label": "Middle Faliscan",
+   "text_source": "diplomatic (split)",
+   "diplomatic": "anni",
+   "gap_ranges": [],
+   "text_variants": [
+    "anni"
+   ]
+  }
+ },
+ {
+  "id": 90100330,
+  "record_number": "MF/Etr 64",
+  "date_min": null,
+  "date_max": null,
+  "object_type": "saucer",
+  "inscription_type": null,
+  "monument_type": null,
+  "text": "ulties",
+  "region_sub": null,
+  "region_main": "La Penna necropolis, Civita Castellana",
+  "ids_alt": {
+   "bakkum": "64"
+  },
+  "faliscan": {
+   "language_group": "MF/Etr",
+   "language_group_db": "MF",
    "period_group": "Middle Faliscan",
    "uncertain": true,
    "review_status": "checked_against_pdf",
    "direction": "mixed_or_discussed",
    "date_label": "Middle Faliscan",
-   "text_source": "diplomatic",
-   "diplomatic": "anni\nulties",
+   "text_source": "diplomatic (split)",
+   "diplomatic": "ulties",
    "gap_ranges": [],
    "text_variants": [
-    "anni ulties"
+    "ulties"
    ]
   }
  },
@@ -9558,6 +9908,7 @@
   },
   "faliscan": {
    "language_group": "MF",
+   "language_group_db": "MF",
    "period_group": "Middle Faliscan",
    "uncertain": false,
    "review_status": "checked_against_pdf",
@@ -9586,7 +9937,8 @@
    "bakkum": "68"
   },
   "faliscan": {
-   "language_group": "MF",
+   "language_group": "MF?",
+   "language_group_db": "MF",
    "period_group": "Middle Faliscan",
    "uncertain": false,
    "review_status": "checked_against_pdf",
@@ -9616,6 +9968,7 @@
   },
   "faliscan": {
    "language_group": "MF",
+   "language_group_db": "MF",
    "period_group": "Middle Faliscan",
    "uncertain": false,
    "review_status": "checked_against_pdf",
@@ -9645,6 +9998,7 @@
   },
   "faliscan": {
    "language_group": "MF",
+   "language_group_db": "MF",
    "period_group": "Middle Faliscan",
    "uncertain": false,
    "review_status": "checked_against_pdf",
@@ -9674,6 +10028,7 @@
   },
   "faliscan": {
    "language_group": "MF",
+   "language_group_db": "MF",
    "period_group": "Middle Faliscan",
    "uncertain": false,
    "review_status": "checked_against_pdf",
@@ -9703,6 +10058,7 @@
   },
   "faliscan": {
    "language_group": "MF",
+   "language_group_db": "MF",
    "period_group": "Middle Faliscan",
    "uncertain": false,
    "review_status": "checked_against_pdf",
@@ -9732,6 +10088,7 @@
   },
   "faliscan": {
    "language_group": "MF",
+   "language_group_db": "MF",
    "period_group": "Middle Faliscan",
    "uncertain": false,
    "review_status": "checked_against_pdf",
@@ -9761,6 +10118,7 @@
   },
   "faliscan": {
    "language_group": "MF",
+   "language_group_db": "MF",
    "period_group": "Middle Faliscan",
    "uncertain": false,
    "review_status": "checked_against_pdf",
@@ -9790,6 +10148,7 @@
   },
   "faliscan": {
    "language_group": "MF",
+   "language_group_db": "MF",
    "period_group": "Middle Faliscan",
    "uncertain": false,
    "review_status": "checked_against_pdf",
@@ -9819,6 +10178,7 @@
   },
   "faliscan": {
    "language_group": "MF",
+   "language_group_db": "MF",
    "period_group": "Middle Faliscan",
    "uncertain": false,
    "review_status": "checked_against_pdf",
@@ -9848,6 +10208,7 @@
   },
   "faliscan": {
    "language_group": "MF",
+   "language_group_db": "MF",
    "period_group": "Middle Faliscan",
    "uncertain": false,
    "review_status": "checked_against_pdf",
@@ -9877,6 +10238,7 @@
   },
   "faliscan": {
    "language_group": "MF",
+   "language_group_db": "MF",
    "period_group": "Middle Faliscan",
    "uncertain": false,
    "review_status": "checked_against_pdf",
@@ -9906,6 +10268,7 @@
   },
   "faliscan": {
    "language_group": "MF",
+   "language_group_db": "MF",
    "period_group": "Middle Faliscan",
    "uncertain": false,
    "review_status": "checked_against_pdf",
@@ -9935,6 +10298,7 @@
   },
   "faliscan": {
    "language_group": "MF",
+   "language_group_db": "MF",
    "period_group": "Middle Faliscan",
    "uncertain": false,
    "review_status": "checked_against_pdf",
@@ -9964,6 +10328,7 @@
   },
   "faliscan": {
    "language_group": "MF",
+   "language_group_db": "MF",
    "period_group": "Middle Faliscan",
    "uncertain": false,
    "review_status": "checked_against_pdf",
@@ -9993,6 +10358,7 @@
   },
   "faliscan": {
    "language_group": "MF",
+   "language_group_db": "MF",
    "period_group": "Middle Faliscan",
    "uncertain": true,
    "review_status": "checked_against_pdf",
@@ -10028,6 +10394,7 @@
   },
   "faliscan": {
    "language_group": "MF",
+   "language_group_db": "MF",
    "period_group": "Middle Faliscan",
    "uncertain": true,
    "review_status": "checked_against_pdf",
@@ -10057,6 +10424,7 @@
   },
   "faliscan": {
    "language_group": "MF",
+   "language_group_db": "MF",
    "period_group": "Middle Faliscan",
    "uncertain": false,
    "review_status": "checked_against_pdf",
@@ -10086,6 +10454,7 @@
   },
   "faliscan": {
    "language_group": "MF",
+   "language_group_db": "MF",
    "period_group": "Middle Faliscan",
    "uncertain": false,
    "review_status": "checked_against_pdf",
@@ -10115,6 +10484,7 @@
   },
   "faliscan": {
    "language_group": "MF",
+   "language_group_db": "MF",
    "period_group": "Middle Faliscan",
    "uncertain": false,
    "review_status": "checked_against_pdf",
@@ -10144,6 +10514,7 @@
   },
   "faliscan": {
    "language_group": "MF",
+   "language_group_db": "MF",
    "period_group": "Middle Faliscan",
    "uncertain": false,
    "review_status": "checked_against_pdf",
@@ -10173,6 +10544,7 @@
   },
   "faliscan": {
    "language_group": "MF",
+   "language_group_db": "MF",
    "period_group": "Middle Faliscan",
    "uncertain": false,
    "review_status": "checked_against_pdf",
@@ -10202,6 +10574,7 @@
   },
   "faliscan": {
    "language_group": "MF",
+   "language_group_db": "MF",
    "period_group": "Middle Faliscan",
    "uncertain": false,
    "review_status": "checked_against_pdf",
@@ -10231,6 +10604,7 @@
   },
   "faliscan": {
    "language_group": "MF",
+   "language_group_db": "MF",
    "period_group": "Middle Faliscan",
    "uncertain": false,
    "review_status": "checked_against_pdf",
@@ -10260,6 +10634,7 @@
   },
   "faliscan": {
    "language_group": "MF",
+   "language_group_db": "MF",
    "period_group": "Middle Faliscan",
    "uncertain": false,
    "review_status": "checked_against_pdf",
@@ -10288,7 +10663,8 @@
    "bakkum": "108"
   },
   "faliscan": {
-   "language_group": "MF/Etr",
+   "language_group": "MF",
+   "language_group_db": "MF/Etr",
    "period_group": "Middle Faliscan",
    "uncertain": true,
    "review_status": "checked_against_pdf",
@@ -10318,6 +10694,7 @@
   },
   "faliscan": {
    "language_group": "MF/Etr",
+   "language_group_db": "MF/Etr",
    "period_group": "Middle Faliscan",
    "uncertain": true,
    "review_status": "checked_against_pdf",
@@ -10347,6 +10724,7 @@
   },
   "faliscan": {
    "language_group": "MF/Etr",
+   "language_group_db": "MF/Etr",
    "period_group": "Middle Faliscan",
    "uncertain": true,
    "review_status": "checked_against_pdf",
@@ -10376,6 +10754,7 @@
   },
   "faliscan": {
    "language_group": "MF/Etr",
+   "language_group_db": "MF/Etr",
    "period_group": "Middle Faliscan",
    "uncertain": true,
    "review_status": "checked_against_pdf",
@@ -10405,6 +10784,7 @@
   },
   "faliscan": {
    "language_group": "MF/Etr",
+   "language_group_db": "MF/Etr",
    "period_group": "Middle Faliscan",
    "uncertain": true,
    "review_status": "checked_against_pdf",
@@ -10441,6 +10821,7 @@
   },
   "faliscan": {
    "language_group": "MF/Etr",
+   "language_group_db": "MF/Etr",
    "period_group": "Middle Faliscan",
    "uncertain": true,
    "review_status": "checked_against_pdf",
@@ -10470,6 +10851,7 @@
   },
   "faliscan": {
    "language_group": "MF/Etr",
+   "language_group_db": "MF/Etr",
    "period_group": "Middle Faliscan",
    "uncertain": true,
    "review_status": "checked_against_pdf",
@@ -10499,6 +10881,7 @@
   },
   "faliscan": {
    "language_group": "MF/Etr",
+   "language_group_db": "MF/Etr",
    "period_group": "Middle Faliscan",
    "uncertain": true,
    "review_status": "checked_against_pdf",
@@ -10528,6 +10911,7 @@
   },
   "faliscan": {
    "language_group": "MF/Etr",
+   "language_group_db": "MF/Etr",
    "period_group": "Middle Faliscan",
    "uncertain": true,
    "review_status": "checked_against_pdf",
@@ -10557,6 +10941,7 @@
   },
   "faliscan": {
    "language_group": "MF/Etr",
+   "language_group_db": "MF/Etr",
    "period_group": "Middle Faliscan",
    "uncertain": true,
    "review_status": "checked_against_pdf",
@@ -10586,6 +10971,7 @@
   },
   "faliscan": {
    "language_group": "MF/Etr",
+   "language_group_db": "MF/Etr",
    "period_group": "Middle Faliscan",
    "uncertain": true,
    "review_status": "checked_against_pdf",
@@ -10615,6 +11001,7 @@
   },
   "faliscan": {
    "language_group": "MF/Etr",
+   "language_group_db": "MF/Etr",
    "period_group": "Middle Faliscan",
    "uncertain": true,
    "review_status": "checked_against_pdf",
@@ -10644,6 +11031,7 @@
   },
   "faliscan": {
    "language_group": "MF/LtF",
+   "language_group_db": "MF/LtF",
    "period_group": "Middle Faliscan",
    "uncertain": true,
    "review_status": "checked_against_pdf",
@@ -10673,6 +11061,7 @@
   },
   "faliscan": {
    "language_group": "MF/LtF",
+   "language_group_db": "MF/LtF",
    "period_group": "Middle Faliscan",
    "uncertain": true,
    "review_status": "checked_against_pdf",
@@ -10702,6 +11091,7 @@
   },
   "faliscan": {
    "language_group": "MF?",
+   "language_group_db": "MF?",
    "period_group": "Middle Faliscan",
    "uncertain": true,
    "review_status": "checked_against_pdf",
@@ -10731,6 +11121,7 @@
   },
   "faliscan": {
    "language_group": "MF?",
+   "language_group_db": "MF?",
    "period_group": "Middle Faliscan",
    "uncertain": true,
    "review_status": "checked_against_pdf",
@@ -10760,6 +11151,7 @@
   },
   "faliscan": {
    "language_group": "MF?",
+   "language_group_db": "MF?",
    "period_group": "Middle Faliscan",
    "uncertain": true,
    "review_status": "checked_against_pdf",
@@ -10796,6 +11188,7 @@
   },
   "faliscan": {
    "language_group": "MF?",
+   "language_group_db": "MF?",
    "period_group": "Middle Faliscan",
    "uncertain": true,
    "review_status": "checked_against_pdf",
@@ -10825,6 +11218,7 @@
   },
   "faliscan": {
    "language_group": "MF?",
+   "language_group_db": "MF?",
    "period_group": "Middle or Late Faliscan",
    "uncertain": true,
    "review_status": "checked_against_pdf",
@@ -10854,6 +11248,7 @@
   },
   "faliscan": {
    "language_group": "MF?",
+   "language_group_db": "MF?",
    "period_group": "Middle or Late Faliscan",
    "uncertain": true,
    "review_status": "checked_against_pdf",
@@ -10883,6 +11278,7 @@
   },
   "faliscan": {
    "language_group": "MF?",
+   "language_group_db": "MF?",
    "period_group": "Middle or Late Faliscan",
    "uncertain": true,
    "review_status": "checked_against_pdf",
@@ -10912,6 +11308,7 @@
   },
   "faliscan": {
    "language_group": "MF?",
+   "language_group_db": "MF?",
    "period_group": "Middle Faliscan",
    "uncertain": true,
    "review_status": "checked_against_pdf",
@@ -10941,6 +11338,7 @@
   },
   "faliscan": {
    "language_group": "MF?",
+   "language_group_db": "MF?",
    "period_group": "Middle Faliscan",
    "uncertain": true,
    "review_status": "checked_against_pdf",
@@ -10970,6 +11368,7 @@
   },
   "faliscan": {
    "language_group": "MF?",
+   "language_group_db": "MF?",
    "period_group": "Middle Faliscan",
    "uncertain": true,
    "review_status": "checked_against_pdf",
@@ -10999,6 +11398,7 @@
   },
   "faliscan": {
    "language_group": "MF?",
+   "language_group_db": "MF?",
    "period_group": "Middle Faliscan",
    "uncertain": true,
    "review_status": "checked_against_pdf",
@@ -11028,6 +11428,7 @@
   },
   "faliscan": {
    "language_group": "MF?",
+   "language_group_db": "MF?",
    "period_group": "Middle Faliscan",
    "uncertain": true,
    "review_status": "checked_against_pdf",
@@ -11057,6 +11458,7 @@
   },
   "faliscan": {
    "language_group": "MF?",
+   "language_group_db": "MF?",
    "period_group": "Middle Faliscan",
    "uncertain": true,
    "review_status": "checked_against_pdf",
@@ -11086,6 +11488,7 @@
   },
   "faliscan": {
    "language_group": "MF?",
+   "language_group_db": "MF?",
    "period_group": "Middle Faliscan",
    "uncertain": true,
    "review_status": "checked_against_pdf",
@@ -11115,6 +11518,7 @@
   },
   "faliscan": {
    "language_group": "MF?",
+   "language_group_db": "MF?",
    "period_group": "Middle Faliscan",
    "uncertain": true,
    "review_status": "checked_against_pdf",
@@ -11144,6 +11548,7 @@
   },
   "faliscan": {
    "language_group": "MF?",
+   "language_group_db": "MF?",
    "period_group": "Middle Faliscan",
    "uncertain": true,
    "review_status": "checked_against_pdf",
@@ -11173,6 +11578,7 @@
   },
   "faliscan": {
    "language_group": "MF?",
+   "language_group_db": "MF?",
    "period_group": "Middle Faliscan",
    "uncertain": true,
    "review_status": "checked_against_pdf",
@@ -11202,6 +11608,7 @@
   },
   "faliscan": {
    "language_group": "MF?",
+   "language_group_db": "MF?",
    "period_group": "Middle Faliscan",
    "uncertain": true,
    "review_status": "checked_against_pdf",
@@ -11231,6 +11638,7 @@
   },
   "faliscan": {
    "language_group": "MF?",
+   "language_group_db": "MF?",
    "period_group": "Middle Faliscan",
    "uncertain": true,
    "review_status": "checked_against_pdf",
@@ -11260,6 +11668,7 @@
   },
   "faliscan": {
    "language_group": "MF?",
+   "language_group_db": "MF?",
    "period_group": "Middle Faliscan",
    "uncertain": true,
    "review_status": "checked_against_pdf",
@@ -11289,6 +11698,7 @@
   },
   "faliscan": {
    "language_group": "MF?",
+   "language_group_db": "MF?",
    "period_group": "Middle Faliscan",
    "uncertain": true,
    "review_status": "checked_against_pdf",
@@ -11318,6 +11728,7 @@
   },
   "faliscan": {
    "language_group": "MLF",
+   "language_group_db": "MLF",
    "period_group": "Middle or Late Faliscan",
    "uncertain": false,
    "review_status": "checked_against_pdf",
@@ -11347,6 +11758,7 @@
   },
   "faliscan": {
    "language_group": "MLF",
+   "language_group_db": "MLF",
    "period_group": "Middle or Late Faliscan",
    "uncertain": false,
    "review_status": "checked_against_pdf",
@@ -11376,6 +11788,7 @@
   },
   "faliscan": {
    "language_group": "MLF",
+   "language_group_db": "MLF",
    "period_group": "Middle or Late Faliscan",
    "uncertain": false,
    "review_status": "checked_against_pdf",
@@ -11405,6 +11818,7 @@
   },
   "faliscan": {
    "language_group": "MLF",
+   "language_group_db": "MLF",
    "period_group": "Middle or Late Faliscan",
    "uncertain": false,
    "review_status": "checked_against_pdf",
@@ -11434,6 +11848,7 @@
   },
   "faliscan": {
    "language_group": "MLF",
+   "language_group_db": "MLF",
    "period_group": "Middle or Late Faliscan",
    "uncertain": false,
    "review_status": "checked_against_pdf",
@@ -11462,8 +11877,9 @@
    "bakkum": "263"
   },
   "faliscan": {
-   "language_group": "MLF",
-   "period_group": "Middle or Late Faliscan",
+   "language_group": "MF",
+   "language_group_db": "MLF",
+   "period_group": "Middle Faliscan",
    "uncertain": false,
    "review_status": "checked_against_pdf",
    "direction": "sinistroverse",
@@ -11492,6 +11908,7 @@
   },
   "faliscan": {
    "language_group": "MLF",
+   "language_group_db": "MLF",
    "period_group": "Middle or Late Faliscan",
    "uncertain": false,
    "review_status": "checked_against_pdf",
@@ -11521,6 +11938,7 @@
   },
   "faliscan": {
    "language_group": "MLF",
+   "language_group_db": "MLF",
    "period_group": "Middle or Late Faliscan",
    "uncertain": false,
    "review_status": "checked_against_pdf",
@@ -11550,6 +11968,7 @@
   },
   "faliscan": {
    "language_group": "MLF",
+   "language_group_db": "MLF",
    "period_group": "Middle or Late Faliscan",
    "uncertain": false,
    "review_status": "checked_against_pdf",
@@ -11579,6 +11998,7 @@
   },
   "faliscan": {
    "language_group": "MLF",
+   "language_group_db": "MLF",
    "period_group": "Middle or Late Faliscan",
    "uncertain": false,
    "review_status": "checked_against_pdf",
@@ -11608,6 +12028,7 @@
   },
   "faliscan": {
    "language_group": "MLF",
+   "language_group_db": "MLF",
    "period_group": "Middle or Late Faliscan",
    "uncertain": false,
    "review_status": "checked_against_pdf",
@@ -11637,6 +12058,7 @@
   },
   "faliscan": {
    "language_group": "MLF",
+   "language_group_db": "MLF",
    "period_group": "Middle or Late Faliscan",
    "uncertain": false,
    "review_status": "checked_against_pdf",
@@ -11666,6 +12088,7 @@
   },
   "faliscan": {
    "language_group": "MLF",
+   "language_group_db": "MLF",
    "period_group": "Middle or Late Faliscan",
    "uncertain": false,
    "review_status": "checked_against_pdf",
@@ -11695,6 +12118,7 @@
   },
   "faliscan": {
    "language_group": "MLF",
+   "language_group_db": "MLF",
    "period_group": "Middle or Late Faliscan",
    "uncertain": false,
    "review_status": "checked_against_pdf",
@@ -11724,6 +12148,7 @@
   },
   "faliscan": {
    "language_group": "MLF",
+   "language_group_db": "MLF",
    "period_group": "Middle or Late Faliscan",
    "uncertain": false,
    "review_status": "checked_against_pdf",
@@ -11753,6 +12178,7 @@
   },
   "faliscan": {
    "language_group": "MLF",
+   "language_group_db": "MLF",
    "period_group": "Middle or Late Faliscan",
    "uncertain": false,
    "review_status": "checked_against_pdf",
@@ -11782,6 +12208,7 @@
   },
   "faliscan": {
    "language_group": "MLF",
+   "language_group_db": "MLF",
    "period_group": "Middle or Late Faliscan",
    "uncertain": false,
    "review_status": "checked_against_pdf",
@@ -11811,6 +12238,7 @@
   },
   "faliscan": {
    "language_group": "MLF",
+   "language_group_db": "MLF",
    "period_group": "Middle or Late Faliscan",
    "uncertain": false,
    "review_status": "checked_against_pdf",
@@ -11840,6 +12268,7 @@
   },
   "faliscan": {
    "language_group": "MLF",
+   "language_group_db": "MLF",
    "period_group": "Middle or Late Faliscan",
    "uncertain": false,
    "review_status": "checked_against_pdf",
@@ -11869,6 +12298,7 @@
   },
   "faliscan": {
    "language_group": "MLF",
+   "language_group_db": "MLF",
    "period_group": "Middle or Late Faliscan",
    "uncertain": false,
    "review_status": "checked_against_pdf",
@@ -11898,6 +12328,7 @@
   },
   "faliscan": {
    "language_group": "MLF",
+   "language_group_db": "MLF",
    "period_group": "Middle or Late Faliscan",
    "uncertain": false,
    "review_status": "checked_against_pdf",
@@ -11927,6 +12358,7 @@
   },
   "faliscan": {
    "language_group": "MLF",
+   "language_group_db": "MLF",
    "period_group": "Middle or Late Faliscan",
    "uncertain": false,
    "review_status": "checked_against_pdf",
@@ -11956,6 +12388,7 @@
   },
   "faliscan": {
    "language_group": "MLF",
+   "language_group_db": "MLF",
    "period_group": "Middle or Late Faliscan",
    "uncertain": false,
    "review_status": "checked_against_pdf",
@@ -11985,6 +12418,7 @@
   },
   "faliscan": {
    "language_group": "MLF",
+   "language_group_db": "MLF",
    "period_group": "Middle or Late Faliscan",
    "uncertain": false,
    "review_status": "checked_against_pdf",
@@ -12014,6 +12448,7 @@
   },
   "faliscan": {
    "language_group": "MLF",
+   "language_group_db": "MLF",
    "period_group": "Middle or Late Faliscan",
    "uncertain": false,
    "review_status": "checked_against_pdf",
@@ -12043,6 +12478,7 @@
   },
   "faliscan": {
    "language_group": "MLF",
+   "language_group_db": "MLF",
    "period_group": "Middle or Late Faliscan",
    "uncertain": false,
    "review_status": "checked_against_pdf",
@@ -12072,6 +12508,7 @@
   },
   "faliscan": {
    "language_group": "MLF",
+   "language_group_db": "MLF",
    "period_group": "Middle or Late Faliscan",
    "uncertain": false,
    "review_status": "checked_against_pdf",
@@ -12101,6 +12538,7 @@
   },
   "faliscan": {
    "language_group": "MLF",
+   "language_group_db": "MLF",
    "period_group": "Middle or Late Faliscan",
    "uncertain": false,
    "review_status": "checked_against_pdf",
@@ -12130,6 +12568,7 @@
   },
   "faliscan": {
    "language_group": "MLF",
+   "language_group_db": "MLF",
    "period_group": "Middle or Late Faliscan",
    "uncertain": false,
    "review_status": "checked_against_pdf",
@@ -12159,6 +12598,7 @@
   },
   "faliscan": {
    "language_group": "MLF",
+   "language_group_db": "MLF",
    "period_group": "Middle or Late Faliscan",
    "uncertain": false,
    "review_status": "checked_against_pdf",
@@ -12188,6 +12628,7 @@
   },
   "faliscan": {
    "language_group": "MLF",
+   "language_group_db": "MLF",
    "period_group": "Middle or Late Faliscan",
    "uncertain": false,
    "review_status": "checked_against_pdf",
@@ -12217,6 +12658,7 @@
   },
   "faliscan": {
    "language_group": "MLF",
+   "language_group_db": "MLF",
    "period_group": "Middle or Late Faliscan",
    "uncertain": false,
    "review_status": "checked_against_pdf",
@@ -12245,8 +12687,9 @@
    "bakkum": "334"
   },
   "faliscan": {
-   "language_group": "MLF",
-   "period_group": "Middle or Late Faliscan",
+   "language_group": "LF",
+   "language_group_db": "MLF",
+   "period_group": "Late Faliscan",
    "uncertain": false,
    "review_status": "checked_against_pdf",
    "direction": "sinistroverse",
@@ -12275,6 +12718,7 @@
   },
   "faliscan": {
    "language_group": "MLF",
+   "language_group_db": "MLF",
    "period_group": "Middle or Late Faliscan",
    "uncertain": false,
    "review_status": "checked_against_pdf",
@@ -12304,6 +12748,7 @@
   },
   "faliscan": {
    "language_group": "MLF",
+   "language_group_db": "MLF",
    "period_group": "Middle or Late Faliscan",
    "uncertain": false,
    "review_status": "checked_against_pdf",
@@ -12332,8 +12777,9 @@
    "bakkum": "342"
   },
   "faliscan": {
-   "language_group": "MLF",
-   "period_group": "Middle or Late Faliscan",
+   "language_group": "LtF",
+   "language_group_db": "MLF",
+   "period_group": "Latino-Faliscan",
    "uncertain": false,
    "review_status": "checked_against_pdf",
    "direction": "dextroverse",
@@ -12361,8 +12807,9 @@
    "bakkum": "344"
   },
   "faliscan": {
-   "language_group": "MLF",
-   "period_group": "Middle or Late Faliscan",
+   "language_group": "LtF",
+   "language_group_db": "MLF",
+   "period_group": "Latino-Faliscan",
    "uncertain": false,
    "review_status": "checked_against_pdf",
    "direction": "dextroverse",
@@ -12390,8 +12837,9 @@
    "bakkum": "345"
   },
   "faliscan": {
-   "language_group": "MLF",
-   "period_group": "Middle or Late Faliscan",
+   "language_group": "LtF",
+   "language_group_db": "MLF",
+   "period_group": "Latino-Faliscan",
    "uncertain": false,
    "review_status": "checked_against_pdf",
    "direction": "dextroverse",
@@ -12420,6 +12868,7 @@
   },
   "faliscan": {
    "language_group": "MLF",
+   "language_group_db": "MLF",
    "period_group": "Middle or Late Faliscan",
    "uncertain": false,
    "review_status": "checked_against_pdf",
@@ -12449,6 +12898,7 @@
   },
   "faliscan": {
    "language_group": "MLF",
+   "language_group_db": "MLF",
    "period_group": "Middle or Late Faliscan",
    "uncertain": false,
    "review_status": "checked_against_pdf",
@@ -12478,6 +12928,7 @@
   },
   "faliscan": {
    "language_group": "MLF",
+   "language_group_db": "MLF",
    "period_group": "Middle or Late Faliscan",
    "uncertain": false,
    "review_status": "checked_against_pdf",
@@ -12507,6 +12958,7 @@
   },
   "faliscan": {
    "language_group": "MLF",
+   "language_group_db": "MLF",
    "period_group": "Middle or Late Faliscan",
    "uncertain": false,
    "review_status": "checked_against_pdf",
@@ -12536,6 +12988,7 @@
   },
   "faliscan": {
    "language_group": "MLF",
+   "language_group_db": "MLF",
    "period_group": "Middle or Late Faliscan",
    "uncertain": false,
    "review_status": "checked_against_pdf",
@@ -12565,6 +13018,7 @@
   },
   "faliscan": {
    "language_group": "MLF",
+   "language_group_db": "MLF",
    "period_group": "Middle or Late Faliscan",
    "uncertain": false,
    "review_status": "checked_against_pdf",
@@ -12594,6 +13048,7 @@
   },
   "faliscan": {
    "language_group": "MLF",
+   "language_group_db": "MLF",
    "period_group": "Middle or Late Faliscan",
    "uncertain": false,
    "review_status": "checked_against_pdf",
@@ -12623,6 +13078,7 @@
   },
   "faliscan": {
    "language_group": "MLF",
+   "language_group_db": "MLF",
    "period_group": "Middle or Late Faliscan",
    "uncertain": true,
    "review_status": "checked_against_pdf",
@@ -12652,6 +13108,7 @@
   },
   "faliscan": {
    "language_group": "MLF",
+   "language_group_db": "MLF",
    "period_group": "Middle or Late Faliscan",
    "uncertain": true,
    "review_status": "checked_against_pdf",
@@ -12681,6 +13138,7 @@
   },
   "faliscan": {
    "language_group": "MLF",
+   "language_group_db": "MLF",
    "period_group": "Middle or Late Faliscan",
    "uncertain": true,
    "review_status": "checked_against_pdf",
@@ -12710,6 +13168,7 @@
   },
   "faliscan": {
    "language_group": "MLF",
+   "language_group_db": "MLF",
    "period_group": "Middle or Late Faliscan",
    "uncertain": false,
    "review_status": "checked_against_pdf",
@@ -12739,6 +13198,7 @@
   },
   "faliscan": {
    "language_group": "MLF",
+   "language_group_db": "MLF",
    "period_group": "Middle or Late Faliscan",
    "uncertain": false,
    "review_status": "checked_against_pdf",
@@ -12768,6 +13228,7 @@
   },
   "faliscan": {
    "language_group": "MLF",
+   "language_group_db": "MLF",
    "period_group": "Middle or Late Faliscan",
    "uncertain": false,
    "review_status": "checked_against_pdf",
@@ -12796,8 +13257,9 @@
    "bakkum": "367-370"
   },
   "faliscan": {
-   "language_group": "MLF",
-   "period_group": "Middle or Late Faliscan",
+   "language_group": "MF",
+   "language_group_db": "MLF",
+   "period_group": "Middle Faliscan",
    "uncertain": false,
    "review_status": "checked_against_pdf",
    "direction": "sinistroverse",
@@ -12825,8 +13287,9 @@
    "bakkum": "373-375"
   },
   "faliscan": {
-   "language_group": "MLF",
-   "period_group": "Middle or Late Faliscan",
+   "language_group": "MF",
+   "language_group_db": "MLF",
+   "period_group": "Middle Faliscan",
    "uncertain": false,
    "review_status": "checked_against_pdf",
    "direction": "sinistroverse",
@@ -12855,6 +13318,7 @@
   },
   "faliscan": {
    "language_group": "MLF",
+   "language_group_db": "MLF",
    "period_group": "Middle or Late Faliscan",
    "uncertain": false,
    "review_status": "checked_against_pdf",
@@ -12884,6 +13348,7 @@
   },
   "faliscan": {
    "language_group": "MLF",
+   "language_group_db": "MLF",
    "period_group": "Middle or Late Faliscan",
    "uncertain": false,
    "review_status": "checked_against_pdf",
@@ -12913,6 +13378,7 @@
   },
   "faliscan": {
    "language_group": "MLF",
+   "language_group_db": "MLF",
    "period_group": "Middle or Late Faliscan",
    "uncertain": false,
    "review_status": "checked_against_pdf",
@@ -12942,6 +13408,7 @@
   },
   "faliscan": {
    "language_group": "MLF/Etr",
+   "language_group_db": "MLF/Etr",
    "period_group": "Middle or Late Faliscan",
    "uncertain": true,
    "review_status": "checked_against_pdf",
@@ -12971,6 +13438,7 @@
   },
   "faliscan": {
    "language_group": "MLF/Etr",
+   "language_group_db": "MLF/Etr",
    "period_group": "Middle or Late Faliscan",
    "uncertain": true,
    "review_status": "checked_against_pdf",
@@ -13000,6 +13468,7 @@
   },
   "faliscan": {
    "language_group": "MLF/Etr",
+   "language_group_db": "MLF/Etr",
    "period_group": "Middle or Late Faliscan",
    "uncertain": true,
    "review_status": "checked_against_pdf",
@@ -13028,8 +13497,9 @@
    "bakkum": "371-372"
   },
   "faliscan": {
-   "language_group": "MLF/Etr",
-   "period_group": "Middle or Late Faliscan",
+   "language_group": "MF",
+   "language_group_db": "MLF/Etr",
+   "period_group": "Middle Faliscan",
    "uncertain": true,
    "review_status": "checked_against_pdf",
    "direction": "sinistroverse",
@@ -13058,6 +13528,7 @@
   },
   "faliscan": {
    "language_group": "MLF/LtF",
+   "language_group_db": "MLF/LtF",
    "period_group": "Middle or Late Faliscan",
    "uncertain": true,
    "review_status": "checked_against_pdf",
@@ -13068,6 +13539,666 @@
    "gap_ranges": [],
    "text_variants": [
     "up"
+   ]
+  }
+ },
+ {
+  "id": 90200000,
+  "record_number": "MF 79",
+  "date_min": null,
+  "date_max": null,
+  "object_type": "rock_cut_inscription",
+  "inscription_type": null,
+  "monument_type": null,
+  "text": "leiueliopartis uolti",
+  "region_sub": null,
+  "region_main": "Civita Castellana (Ponte Terrano)",
+  "ids_alt": {
+   "bakkum": "79"
+  },
+  "faliscan": {
+   "language_group": "MF",
+   "language_group_db": null,
+   "period_group": "Middle Faliscan",
+   "uncertain": false,
+   "review_status": null,
+   "direction": null,
+   "date_label": null,
+   "text_source": "added from Bakkum Part 2, p. 441",
+   "diplomatic": "leiueliopạrtis\nuolti[",
+   "gap_ranges": [],
+   "text_variants": [
+    "leiueliopartis uolti"
+   ]
+  }
+ },
+ {
+  "id": 90200001,
+  "record_number": "MF 135",
+  "date_min": null,
+  "date_max": null,
+  "object_type": "tile",
+  "inscription_type": null,
+  "monument_type": null,
+  "text": "cincia",
+  "region_sub": null,
+  "region_main": "Civita Castellana",
+  "ids_alt": {
+   "bakkum": "135"
+  },
+  "faliscan": {
+   "language_group": "MF",
+   "language_group_db": null,
+   "period_group": "Middle Faliscan",
+   "uncertain": false,
+   "review_status": null,
+   "direction": null,
+   "date_label": null,
+   "text_source": "added from Bakkum Part 2, p. 467",
+   "diplomatic": "cincia",
+   "gap_ranges": [],
+   "text_variants": [
+    "cincia"
+   ]
+  }
+ },
+ {
+  "id": 90200002,
+  "record_number": "LtF 140",
+  "date_min": null,
+  "date_max": null,
+  "object_type": "tile",
+  "inscription_type": null,
+  "monument_type": null,
+  "text": "ceisi- holcosi ar p---",
+  "region_sub": null,
+  "region_main": "Civita Castellana",
+  "ids_alt": {
+   "bakkum": "140"
+  },
+  "faliscan": {
+   "language_group": "LtF",
+   "language_group_db": null,
+   "period_group": "Latino-Faliscan",
+   "uncertain": false,
+   "review_status": null,
+   "direction": null,
+   "date_label": null,
+   "text_source": "added from Bakkum Part 2, p. 468",
+   "diplomatic": "cẹịṣ[i.]\nholc[osi]\nar·p[...]",
+   "gap_ranges": [],
+   "text_variants": [
+    "ceisi- holcosi ar p---"
+   ]
+  }
+ },
+ {
+  "id": 90200003,
+  "record_number": "MF 144-145",
+  "date_min": null,
+  "date_max": null,
+  "object_type": "tile",
+  "inscription_type": null,
+  "monument_type": null,
+  "text": "-a-ia lepuia uoltilia uolt_",
+  "region_sub": null,
+  "region_main": "Civita Castellana",
+  "ids_alt": {
+   "bakkum": "144-145"
+  },
+  "faliscan": {
+   "language_group": "MF",
+   "language_group_db": null,
+   "period_group": "Middle Faliscan",
+   "uncertain": false,
+   "review_status": null,
+   "direction": null,
+   "date_label": null,
+   "text_source": "added from Bakkum Part 2, p. 470",
+   "diplomatic": "[.?]ạ*ịạ\nlepuia\nuoltilia\n[u]ọlt[---]",
+   "gap_ranges": [],
+   "text_variants": [
+    "-a-ia lepuia uoltilia uolt_"
+   ]
+  }
+ },
+ {
+  "id": 90200004,
+  "record_number": "MF 152",
+  "date_min": null,
+  "date_max": null,
+  "object_type": "tile",
+  "inscription_type": null,
+  "monument_type": null,
+  "text": "uoltio marc_ putellio",
+  "region_sub": null,
+  "region_main": "Civita Castellana",
+  "ids_alt": {
+   "bakkum": "152"
+  },
+  "faliscan": {
+   "language_group": "MF",
+   "language_group_db": null,
+   "period_group": "Middle Faliscan",
+   "uncertain": false,
+   "review_status": null,
+   "direction": null,
+   "date_label": null,
+   "text_source": "added from Bakkum Part 2, p. 474",
+   "diplomatic": "1uolti[o:]marc[2][---]\n1putellio [2][",
+   "gap_ranges": [],
+   "text_variants": [
+    "uoltio marc_ putellio"
+   ]
+  }
+ },
+ {
+  "id": 90200005,
+  "record_number": "MF 155",
+  "date_min": null,
+  "date_max": null,
+  "object_type": "tile",
+  "inscription_type": null,
+  "monument_type": null,
+  "text": "ti tirialo_ lea cs f",
+  "region_sub": null,
+  "region_main": "Civita Castellana",
+  "ids_alt": {
+   "bakkum": "155"
+  },
+  "faliscan": {
+   "language_group": "MF",
+   "language_group_db": null,
+   "period_group": "Middle Faliscan",
+   "uncertain": false,
+   "review_status": null,
+   "direction": null,
+   "date_label": null,
+   "text_source": "added from Bakkum Part 2, p. 475",
+   "diplomatic": "1ṭị[·]ṭịrialo[2][?---]\n1l[e]a:cs:f [2][",
+   "gap_ranges": [],
+   "text_variants": [
+    "ti tirialo_ lea cs f"
+   ]
+  }
+ },
+ {
+  "id": 90200006,
+  "record_number": "MF 156-157",
+  "date_min": null,
+  "date_max": null,
+  "object_type": "tile",
+  "inscription_type": null,
+  "monument_type": null,
+  "text": "_ronio uolt_ _a-ome iu uiui_",
+  "region_sub": null,
+  "region_main": "Civita Castellana",
+  "ids_alt": {
+   "bakkum": "156-157"
+  },
+  "faliscan": {
+   "language_group": "MF",
+   "language_group_db": null,
+   "period_group": "Middle Faliscan",
+   "uncertain": false,
+   "review_status": null,
+   "direction": null,
+   "date_label": null,
+   "text_source": "added from Bakkum Part 2, p. 476",
+   "diplomatic": "[1][---]2ronio:uol3[t---]\n[1][---]2a*ome 3[\niu·uiụi[---]",
+   "gap_ranges": [],
+   "text_variants": [
+    "_ronio uolt_ _a-ome iu uiui_"
+   ]
+  }
+ },
+ {
+  "id": 90200007,
+  "record_number": "MLF 363",
+  "date_min": null,
+  "date_max": null,
+  "object_type": "tile",
+  "inscription_type": null,
+  "monument_type": null,
+  "text": "iuna upreciano",
+  "region_sub": null,
+  "region_main": "Rignano Flaminio",
+  "ids_alt": {
+   "bakkum": "363"
+  },
+  "faliscan": {
+   "language_group": "MLF",
+   "language_group_db": null,
+   "period_group": "Middle or Late Faliscan",
+   "uncertain": false,
+   "review_status": null,
+   "direction": null,
+   "date_label": null,
+   "text_source": "added from Bakkum Part 2, p. 556",
+   "diplomatic": "[iu]na:upreciano",
+   "gap_ranges": [],
+   "text_variants": [
+    "iuna upreciano"
+   ]
+  }
+ },
+ {
+  "id": 90200008,
+  "record_number": "MLF 364",
+  "date_min": null,
+  "date_max": null,
+  "object_type": "tile",
+  "inscription_type": null,
+  "monument_type": null,
+  "text": "_upreciano",
+  "region_sub": null,
+  "region_main": "Rignano Flaminio",
+  "ids_alt": {
+   "bakkum": "364"
+  },
+  "faliscan": {
+   "language_group": "MLF",
+   "language_group_db": null,
+   "period_group": "Middle or Late Faliscan",
+   "uncertain": false,
+   "review_status": null,
+   "direction": null,
+   "date_label": null,
+   "text_source": "added from Bakkum Part 2, p. 556",
+   "diplomatic": "[---]upreciano",
+   "gap_ranges": [],
+   "text_variants": [
+    "_upreciano"
+   ]
+  }
+ },
+ {
+  "id": 90200009,
+  "record_number": "MLF 365-366",
+  "date_min": null,
+  "date_max": null,
+  "object_type": "tile",
+  "inscription_type": null,
+  "monument_type": null,
+  "text": "_are -_ _uinu_",
+  "region_sub": null,
+  "region_main": "Rignano Flaminio",
+  "ids_alt": {
+   "bakkum": "365-366"
+  },
+  "faliscan": {
+   "language_group": "MLF",
+   "language_group_db": null,
+   "period_group": "Middle or Late Faliscan",
+   "uncertain": false,
+   "review_status": null,
+   "direction": null,
+   "date_label": null,
+   "text_source": "added from Bakkum Part 2, p. 556",
+   "diplomatic": "[---]are·*[---]\n[---]uịnụ[---]",
+   "gap_ranges": [],
+   "text_variants": [
+    "_are -_ _uinu_"
+   ]
+  }
+ },
+ {
+  "id": 90200010,
+  "record_number": "EF 467",
+  "date_min": -600,
+  "date_max": -501,
+  "object_type": "cup",
+  "inscription_type": null,
+  "monument_type": null,
+  "text": "aimiosioeqo",
+  "region_sub": null,
+  "region_main": null,
+  "ids_alt": {
+   "bakkum": "467"
+  },
+  "faliscan": {
+   "language_group": "EF",
+   "language_group_db": null,
+   "period_group": "Early Faliscan",
+   "uncertain": false,
+   "review_status": null,
+   "direction": null,
+   "date_label": null,
+   "text_source": "added from Bakkum Part 2, p. 577",
+   "diplomatic": "aịṃiosioeqo",
+   "gap_ranges": [],
+   "text_variants": [
+    "aimiosioeqo"
+   ]
+  }
+ },
+ {
+  "id": 90200011,
+  "record_number": "Sab 468",
+  "date_min": null,
+  "date_max": null,
+  "object_type": "cup",
+  "inscription_type": null,
+  "monument_type": null,
+  "text": "paquisblaisiis",
+  "region_sub": null,
+  "region_main": null,
+  "ids_alt": {
+   "bakkum": "468"
+  },
+  "faliscan": {
+   "language_group": "Sab",
+   "language_group_db": null,
+   "period_group": "Sabellic",
+   "uncertain": false,
+   "review_status": null,
+   "direction": null,
+   "date_label": null,
+   "text_source": "added from Bakkum Part 2, p. 578",
+   "diplomatic": "pa‹qu›isblaisiís",
+   "gap_ranges": [],
+   "text_variants": [
+    "paquisblaisiis"
+   ]
+  }
+ },
+ {
+  "id": 90200012,
+  "record_number": "MF 469",
+  "date_min": null,
+  "date_max": null,
+  "object_type": "cup",
+  "inscription_type": null,
+  "monument_type": null,
+  "text": "uolti catinei",
+  "region_sub": null,
+  "region_main": null,
+  "ids_alt": {
+   "bakkum": "469"
+  },
+  "faliscan": {
+   "language_group": "MF",
+   "language_group_db": null,
+   "period_group": "Middle Faliscan",
+   "uncertain": false,
+   "review_status": null,
+   "direction": null,
+   "date_label": null,
+   "text_source": "added from Bakkum Part 2, p. 579",
+   "diplomatic": "uolti:catinei",
+   "gap_ranges": [],
+   "text_variants": [
+    "uolti catinei"
+   ]
+  }
+ },
+ {
+  "id": 90200013,
+  "record_number": "MF 470",
+  "date_min": -350,
+  "date_max": -301,
+  "object_type": "vase",
+  "inscription_type": null,
+  "monument_type": null,
+  "text": "oufilo clipeaio letei fileo met facet",
+  "region_sub": null,
+  "region_main": null,
+  "ids_alt": {
+   "bakkum": "470"
+  },
+  "faliscan": {
+   "language_group": "MF",
+   "language_group_db": null,
+   "period_group": "Middle Faliscan",
+   "uncertain": false,
+   "review_status": null,
+   "direction": null,
+   "date_label": null,
+   "text_source": "added from Bakkum Part 2, p. 579",
+   "diplomatic": "oufilo:clipeaio:letei:fileo:met:facet",
+   "gap_ranges": [],
+   "text_variants": [
+    "oufilo clipeaio letei fileo met facet"
+   ]
+  }
+ },
+ {
+  "id": 90200014,
+  "record_number": "MF 471",
+  "date_min": -325,
+  "date_max": -250,
+  "object_type": "crater",
+  "inscription_type": null,
+  "monument_type": null,
+  "text": "cauiosfrenaiosfaced",
+  "region_sub": null,
+  "region_main": null,
+  "ids_alt": {
+   "bakkum": "471"
+  },
+  "faliscan": {
+   "language_group": "MF",
+   "language_group_db": null,
+   "period_group": "Middle Faliscan",
+   "uncertain": false,
+   "review_status": null,
+   "direction": null,
+   "date_label": null,
+   "text_source": "added from Bakkum Part 2, p. 580",
+   "diplomatic": "cauiosfrenaiosfaced",
+   "gap_ranges": [],
+   "text_variants": [
+    "cauiosfrenaiosfaced"
+   ]
+  }
+ },
+ {
+  "id": 90200015,
+  "record_number": "MF 472",
+  "date_min": -325,
+  "date_max": -275,
+  "object_type": "pottery_fragment",
+  "inscription_type": null,
+  "monument_type": null,
+  "text": "marci aneli _",
+  "region_sub": null,
+  "region_main": null,
+  "ids_alt": {
+   "bakkum": "472"
+  },
+  "faliscan": {
+   "language_group": "MF",
+   "language_group_db": null,
+   "period_group": "Middle Faliscan",
+   "uncertain": false,
+   "review_status": null,
+   "direction": null,
+   "date_label": null,
+   "text_source": "added from Bakkum Part 2, p. 580",
+   "diplomatic": "marci:anel[i ?---]",
+   "gap_ranges": [],
+   "text_variants": [
+    "marci aneli _"
+   ]
+  }
+ },
+ {
+  "id": 90200016,
+  "record_number": "MF 473",
+  "date_min": -325,
+  "date_max": -275,
+  "object_type": "plate",
+  "inscription_type": null,
+  "monument_type": null,
+  "text": "cauio petroneo",
+  "region_sub": null,
+  "region_main": null,
+  "ids_alt": {
+   "bakkum": "473"
+  },
+  "faliscan": {
+   "language_group": "MF",
+   "language_group_db": null,
+   "period_group": "Middle Faliscan",
+   "uncertain": false,
+   "review_status": null,
+   "direction": null,
+   "date_label": null,
+   "text_source": "added from Bakkum Part 2, p. 580",
+   "diplomatic": "cauio:peṭṛọṇẹọ",
+   "gap_ranges": [],
+   "text_variants": [
+    "cauio petroneo"
+   ]
+  }
+ },
+ {
+  "id": 90200017,
+  "record_number": "MLF/Cap 474",
+  "date_min": null,
+  "date_max": null,
+  "object_type": "statuette_base",
+  "inscription_type": null,
+  "monument_type": null,
+  "text": "caui tertinei posticnu",
+  "region_sub": null,
+  "region_main": null,
+  "ids_alt": {
+   "bakkum": "474"
+  },
+  "faliscan": {
+   "language_group": "MLF/Cap",
+   "language_group_db": null,
+   "period_group": "Middle or Late Faliscan",
+   "uncertain": false,
+   "review_status": null,
+   "direction": null,
+   "date_label": null,
+   "text_source": "added from Bakkum Part 2, p. 581",
+   "diplomatic": "caui:tertinei:|posticnu",
+   "gap_ranges": [],
+   "text_variants": [
+    "caui tertinei posticnu"
+   ]
+  }
+ },
+ {
+  "id": 90200018,
+  "record_number": "MLF/Cap 475",
+  "date_min": null,
+  "date_max": null,
+  "object_type": "cup",
+  "inscription_type": null,
+  "monument_type": null,
+  "text": "iunai",
+  "region_sub": null,
+  "region_main": null,
+  "ids_alt": {
+   "bakkum": "475"
+  },
+  "faliscan": {
+   "language_group": "MLF/Cap",
+   "language_group_db": null,
+   "period_group": "Middle or Late Faliscan",
+   "uncertain": false,
+   "review_status": null,
+   "direction": null,
+   "date_label": null,
+   "text_source": "added from Bakkum Part 2, p. 581",
+   "diplomatic": "iunai",
+   "gap_ranges": [],
+   "text_variants": [
+    "iunai"
+   ]
+  }
+ },
+ {
+  "id": 90200019,
+  "record_number": "MLF/Cap 476",
+  "date_min": null,
+  "date_max": null,
+  "object_type": "vessel",
+  "inscription_type": null,
+  "monument_type": null,
+  "text": "setorio",
+  "region_sub": null,
+  "region_main": null,
+  "ids_alt": {
+   "bakkum": "476"
+  },
+  "faliscan": {
+   "language_group": "MLF/Cap",
+   "language_group_db": null,
+   "period_group": "Middle or Late Faliscan",
+   "uncertain": false,
+   "review_status": null,
+   "direction": null,
+   "date_label": null,
+   "text_source": "added from Bakkum Part 2, p. 581",
+   "diplomatic": "setorio",
+   "gap_ranges": [],
+   "text_variants": [
+    "setorio"
+   ]
+  }
+ },
+ {
+  "id": 90200020,
+  "record_number": "Lat 477",
+  "date_min": -225,
+  "date_max": -175,
+  "object_type": "bowl",
+  "inscription_type": null,
+  "monument_type": null,
+  "text": "l quinti",
+  "region_sub": null,
+  "region_main": null,
+  "ids_alt": {
+   "bakkum": "477"
+  },
+  "faliscan": {
+   "language_group": "Lat",
+   "language_group_db": null,
+   "period_group": "Latin",
+   "uncertain": false,
+   "review_status": null,
+   "direction": null,
+   "date_label": null,
+   "text_source": "added from Bakkum Part 2, p. 582",
+   "diplomatic": "l·quinti",
+   "gap_ranges": [],
+   "text_variants": [
+    "l quinti"
+   ]
+  }
+ },
+ {
+  "id": 90200021,
+  "record_number": "Lat 478",
+  "date_min": -230,
+  "date_max": -150,
+  "object_type": "bowl",
+  "inscription_type": null,
+  "monument_type": null,
+  "text": "c popili",
+  "region_sub": null,
+  "region_main": null,
+  "ids_alt": {
+   "bakkum": "478"
+  },
+  "faliscan": {
+   "language_group": "Lat",
+   "language_group_db": null,
+   "period_group": "Latin",
+   "uncertain": false,
+   "review_status": null,
+   "direction": null,
+   "date_label": null,
+   "text_source": "added from Bakkum Part 2, p. 582",
+   "diplomatic": "[c·]popili",
+   "gap_ranges": [],
+   "text_variants": [
+    "c popili"
    ]
   }
  }

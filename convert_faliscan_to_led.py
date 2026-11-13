@@ -21,10 +21,14 @@ import re
 import sqlite3
 import unicodedata
 
+from bakkum_corrections import ADDED, SPLITS, bakkum_group, period_name
+
 # Aeneas LatinAlphabet tokens that may appear in a text (pad/sos/unk excluded).
 VOCAB = set('abcdefghiklmnopqrstuvxyz') | set(' -_.0')
 
 ID_OFFSET = 90_000_000  # above led.json's max id (~82.9M)
+SPLIT_OFFSET = 100_000  # second half of a split database record
+ADDED_OFFSET = 200_000  # inscriptions added from Bakkum (bakkum_corrections)
 
 # Records left out on purpose (besides those without any text).
 EXCLUDE_IDS = {
@@ -36,6 +40,11 @@ MANUAL_FIXES = {
     # The final U+FFFD is a double interpunct dividing the beginning and end
     # of this circular inscription (Bakkum Part 2, p. 409 and §11.1.4(4)).
     'EF 3': [('\ufffd', ' ')],
+    # The edition line extracts as `para[i?1]douiad`, but Bakkum's own
+    # quotations of it print `para[i? .]` (i?, then one more lost letter;
+    # "the width of the lacuna shows that more is missing than one i",
+    # Part 2, edition p. 395, discussion p. 404).
+    'EF 1': [('[i?1]', '[i?.]')],
 }
 
 RANGE_RE = re.compile(r'\[(\d+)-(\d+)\??\]')   # [5-6], [1-2?], [0-4?]
@@ -167,13 +176,16 @@ def main():
       from inscriptions i left join texts t on t.inscription_id = i.id
       order by i.rowid""").fetchall()
 
-  out, skipped, invalid = [], [], []
+  # Gather (id, metadata, raw text, text source) for every inscription:
+  # database rows (with Bakkum's corrections), then the added ones.
+  items, skipped = [], []
   for n, r in enumerate(rows):
+    r = dict(r)
     iid = r['id']
     if iid in EXCLUDE_IDS:
       skipped.append((iid, EXCLUDE_IDS[iid])); continue
     if r['falsum']:
-      skipped.append((iid, 'falsum (forgery)')); continue
+      skipped.append((iid, 'falsum? (possible forgery)')); continue
     if r['rejected']:
       skipped.append((iid, 'rejected in Bakkum')); continue
 
@@ -186,14 +198,37 @@ def main():
     for old, new in MANUAL_FIXES.get(iid, []):
       raw = raw.replace(old, new)
 
+    parts = SPLITS.get(iid, [(r['bakkum_number'], raw)])
+    for k, (number, text) in enumerate(parts):
+      rec_id = ID_OFFSET + n if k == 0 else ID_OFFSET + SPLIT_OFFSET + n
+      name = (iid if len(parts) == 1 else
+              f'{bakkum_group(number, r["language_group"])} {number}')
+      items.append((rec_id, name, dict(r, bakkum_number=number), text,
+                    source if len(parts) == 1 else f'{source} (split)'))
+
+  for k, a in enumerate(ADDED):
+    label = bakkum_group(a['number'], None)
+    lo, hi = a.get('date', (None, None))
+    meta = {
+        'bakkum_number': a['number'], 'language_group': None,
+        'period_group': None, 'uncertain': False, 'review_status': None,
+        'direction': None, 'date_label': None, 'object_type': a['object_type'],
+        'site': a['site'], 'start_bce': lo, 'end_bce': hi,
+    }
+    items.append((ID_OFFSET + ADDED_OFFSET + k, f'{label} {a["number"]}',
+                  meta, a['text'], f'added from Bakkum Part 2, p. {a["page"]}'))
+
+  out, invalid = [], []
+  for rec_id, iid, r, raw, source in items:
     variants, ranges = convert(raw)
     bad = sorted({c for v in variants for c in v} - VOCAB)
     if bad or not variants[0].strip(' _-'):
       invalid.append((iid, bad or 'empty after conversion', raw)); continue
 
+    label = bakkum_group(r['bakkum_number'], r['language_group'])
     date_min, date_max = convert_dates(r['start_bce'], r['end_bce'])
     out.append({
-        'id': ID_OFFSET + n,
+        'id': rec_id,
         'record_number': iid,
         'date_min': date_min,
         'date_max': date_max,
@@ -205,8 +240,12 @@ def main():
         'region_main': r['site'],
         'ids_alt': {'bakkum': r['bakkum_number']},
         'faliscan': {
-            'language_group': r['language_group'],
-            'period_group': r['period_group'],
+            # Bakkum's group (Part 2 §11.1.3); the database's own label is
+            # kept in language_group_db.
+            'language_group': label,
+            'language_group_db': r['language_group'],
+            'period_group': (period_name(label) if label != r['language_group']
+                             else r['period_group']) or r['period_group'],
             'uncertain': bool(r['uncertain']),
             'review_status': r['review_status'],
             'direction': r['direction'],
@@ -229,6 +268,12 @@ def main():
         f'{sum(len(r["faliscan"]["text_variants"]) > 1 for r in out)}')
   print(f'  with both dates usable: '
         f'{sum(r["date_min"] is not None and r["date_max"] is not None for r in out)}')
+  relabelled = [r for r in out if r['faliscan']['language_group']
+                != r['faliscan']['language_group_db']
+                and r['faliscan']['language_group_db'] is not None]
+  print(f'  relabelled to Bakkum\'s group: {len(relabelled)}; '
+        f'added from Bakkum: {sum(r["id"] >= ID_OFFSET + ADDED_OFFSET for r in out)}; '
+        f'split: {len(SPLITS)}')
   print(f'skipped {len(skipped)}:')
   for iid, why in skipped:
     print(f'  {iid}: {why}')
