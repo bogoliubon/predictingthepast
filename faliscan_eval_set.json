@@ -1,0 +1,5031 @@
+{
+ "source": "faliscan_led.json",
+ "settings": {
+  "min_len": 25,
+  "min_surviving": 20,
+  "min_surviving_share": 0.7,
+  "max_abbrev_share": 0.5,
+  "seed": 0
+ },
+ "faliscan": [
+  {
+   "id": 90000049,
+   "record_number": "Cap 431",
+   "language_group": "Cap",
+   "date_min": -250,
+   "date_max": -200,
+   "text": "pescosal quod afluc plaria t l dedet libes feron dono m mereto",
+   "repeats_removed": 0,
+   "bakkum_restorations": [
+    {
+     "start": 9,
+     "end": 10,
+     "gold": "q"
+    },
+    {
+     "start": 15,
+     "end": 19,
+     "gold": "fluc"
+    }
+   ],
+   "uncertain_letters": [
+    0,
+    5
+   ],
+   "hideable_positions": [
+    1,
+    2,
+    3,
+    4,
+    6,
+    7,
+    10,
+    11,
+    12,
+    14,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    27,
+    29,
+    31,
+    32,
+    33,
+    34,
+    35,
+    37,
+    38,
+    39,
+    40,
+    41,
+    43,
+    44,
+    45,
+    46,
+    47,
+    49,
+    50,
+    51,
+    52,
+    54,
+    56,
+    57,
+    58,
+    59,
+    60,
+    61
+   ],
+   "surviving_share": 0.863
+  },
+  {
+   "id": 90000051,
+   "record_number": "Cap 435",
+   "language_group": "Cap",
+   "date_min": -225,
+   "date_max": -200,
+   "text": "m t u genucilio sen l feroneai dedit",
+   "repeats_removed": 0,
+   "bakkum_restorations": [],
+   "uncertain_letters": [],
+   "hideable_positions": [
+    0,
+    2,
+    4,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    16,
+    17,
+    18,
+    20,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27,
+    28,
+    29,
+    31,
+    32,
+    33,
+    34,
+    35
+   ],
+   "surviving_share": 1.0
+  },
+  {
+   "id": 90000059,
+   "record_number": "EF 1",
+   "language_group": "EF",
+   "date_min": -700,
+   "date_max": -500,
+   "text": "ceres far---e---tom ------uf----ui--m ------adeuios mamazextosmed f-fiqod prauiosurnam sociaipordedkarai eqournelatitelafitaidupes arcen telomhuticilom pe parai-douiad",
+   "repeats_removed": 0,
+   "bakkum_restorations": [
+    {
+     "start": 57,
+     "end": 58,
+     "gold": "e"
+    },
+    {
+     "start": 78,
+     "end": 79,
+     "gold": "i"
+    },
+    {
+     "start": 90,
+     "end": 93,
+     "gold": "iai"
+    }
+   ],
+   "uncertain_letters": [
+    69,
+    77,
+    89,
+    93,
+    108,
+    112,
+    145
+   ],
+   "hideable_positions": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    6,
+    7,
+    8,
+    12,
+    16,
+    17,
+    18,
+    26,
+    27,
+    32,
+    33,
+    36,
+    44,
+    45,
+    46,
+    47,
+    48,
+    49,
+    50,
+    52,
+    53,
+    54,
+    55,
+    56,
+    58,
+    59,
+    60,
+    61,
+    62,
+    63,
+    64,
+    66,
+    68,
+    70,
+    71,
+    72,
+    74,
+    75,
+    76,
+    79,
+    80,
+    81,
+    82,
+    83,
+    84,
+    85,
+    87,
+    88,
+    94,
+    95,
+    96,
+    97,
+    98,
+    99,
+    100,
+    101,
+    102,
+    103,
+    105,
+    106,
+    107,
+    109,
+    110,
+    111,
+    113,
+    114,
+    115,
+    116,
+    117,
+    118,
+    119,
+    120,
+    121,
+    122,
+    123,
+    124,
+    125,
+    126,
+    127,
+    128,
+    129,
+    131,
+    132,
+    133,
+    134,
+    135,
+    137,
+    138,
+    139,
+    140,
+    141,
+    142,
+    143,
+    144,
+    146,
+    147,
+    148,
+    149,
+    150,
+    152,
+    153,
+    155,
+    156,
+    157,
+    158,
+    159,
+    161,
+    162,
+    163,
+    164,
+    165,
+    166
+   ],
+   "surviving_share": 0.755
+  },
+  {
+   "id": 90000061,
+   "record_number": "EF 2",
+   "language_group": "EF",
+   "date_min": -700,
+   "date_max": -600,
+   "text": "propramom pramedumompramodpramedumom pramodpropramod pr amodumom",
+   "repeats_removed": 0,
+   "bakkum_restorations": [
+    {
+     "start": 16,
+     "end": 17,
+     "gold": "u"
+    },
+    {
+     "start": 63,
+     "end": 64,
+     "gold": "m"
+    }
+   ],
+   "uncertain_letters": [
+    15,
+    50,
+    51,
+    62
+   ],
+   "hideable_positions": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    10,
+    11,
+    12,
+    13,
+    14,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27,
+    28,
+    29,
+    30,
+    31,
+    32,
+    33,
+    34,
+    35,
+    37,
+    38,
+    39,
+    40,
+    41,
+    42,
+    43,
+    44,
+    45,
+    46,
+    47,
+    48,
+    49,
+    53,
+    54,
+    56,
+    57,
+    58,
+    59,
+    60,
+    61
+   ],
+   "surviving_share": 0.9
+  },
+  {
+   "id": 90000062,
+   "record_number": "EF 3",
+   "language_group": "EF",
+   "date_min": -700,
+   "date_max": -600,
+   "text": "ecoquto-euotenosiotitiasduenomduenassaluetoduoltene",
+   "repeats_removed": 0,
+   "bakkum_restorations": [
+    {
+     "start": 41,
+     "end": 43,
+     "gold": "to"
+    }
+   ],
+   "uncertain_letters": [],
+   "hideable_positions": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27,
+    28,
+    29,
+    30,
+    31,
+    32,
+    33,
+    34,
+    35,
+    36,
+    37,
+    38,
+    39,
+    40,
+    43,
+    44,
+    45,
+    46,
+    47,
+    48,
+    49,
+    50
+   ],
+   "surviving_share": 0.941
+  },
+  {
+   "id": 90000063,
+   "record_number": "EF 4",
+   "language_group": "EF",
+   "date_min": -700,
+   "date_max": -600,
+   "text": "e--azieputilepekapenarufiakaleptiauessaluetesociaiofetioskaiosuelosa manossaluetosaluesseiteiofeteqemeneses-eie",
+   "repeats_removed": 0,
+   "bakkum_restorations": [],
+   "uncertain_letters": [
+    15,
+    26,
+    29
+   ],
+   "hideable_positions": [
+    0,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    27,
+    28,
+    30,
+    31,
+    32,
+    33,
+    34,
+    35,
+    36,
+    37,
+    38,
+    39,
+    40,
+    41,
+    42,
+    43,
+    44,
+    45,
+    46,
+    47,
+    48,
+    49,
+    50,
+    51,
+    52,
+    53,
+    54,
+    55,
+    56,
+    57,
+    58,
+    59,
+    60,
+    61,
+    62,
+    63,
+    64,
+    65,
+    66,
+    67,
+    69,
+    70,
+    71,
+    72,
+    73,
+    74,
+    75,
+    76,
+    77,
+    78,
+    79,
+    80,
+    81,
+    82,
+    83,
+    84,
+    85,
+    86,
+    87,
+    88,
+    89,
+    90,
+    91,
+    92,
+    93,
+    94,
+    95,
+    96,
+    97,
+    98,
+    99,
+    100,
+    101,
+    102,
+    103,
+    104,
+    105,
+    106,
+    108,
+    109,
+    110
+   ],
+   "surviving_share": 0.945
+  },
+  {
+   "id": 90000136,
+   "record_number": "LF 220",
+   "language_group": "LF",
+   "date_min": -240,
+   "date_max": null,
+   "text": "uoltio uecineo maxomo iuneo he cupat caaconia",
+   "repeats_removed": 0,
+   "bakkum_restorations": [],
+   "uncertain_letters": [
+    39
+   ],
+   "hideable_positions": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    22,
+    23,
+    24,
+    25,
+    26,
+    28,
+    29,
+    31,
+    32,
+    33,
+    34,
+    35,
+    37,
+    38,
+    40,
+    41,
+    42,
+    43,
+    44
+   ],
+   "surviving_share": 0.974
+  },
+  {
+   "id": 90000137,
+   "record_number": "LF 221",
+   "language_group": "LF",
+   "date_min": -240,
+   "date_max": null,
+   "text": "uipia zertenea loferta marci acarcelini mate he cupa",
+   "repeats_removed": 0,
+   "bakkum_restorations": [],
+   "uncertain_letters": [],
+   "hideable_positions": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    23,
+    24,
+    25,
+    26,
+    27,
+    29,
+    30,
+    31,
+    32,
+    33,
+    34,
+    35,
+    36,
+    37,
+    38,
+    40,
+    41,
+    42,
+    43,
+    45,
+    46,
+    48,
+    49,
+    50,
+    51
+   ],
+   "surviving_share": 1.0
+  },
+  {
+   "id": 90000138,
+   "record_number": "LF 222-223",
+   "language_group": "LF",
+   "date_min": null,
+   "date_max": null,
+   "text": "caui a uecinea uotilia maci acacelini uxo marcio acarcelinio cauia uecinea heccupat",
+   "repeats_removed": 0,
+   "bakkum_restorations": [
+    {
+     "start": 12,
+     "end": 13,
+     "gold": "e"
+    }
+   ],
+   "uncertain_letters": [
+    21,
+    76,
+    77
+   ],
+   "hideable_positions": [
+    0,
+    1,
+    2,
+    3,
+    5,
+    7,
+    8,
+    9,
+    10,
+    11,
+    13,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    23,
+    24,
+    25,
+    26,
+    28,
+    29,
+    30,
+    31,
+    32,
+    33,
+    34,
+    35,
+    36,
+    38,
+    39,
+    40,
+    42,
+    43,
+    44,
+    45,
+    46,
+    47,
+    49,
+    50,
+    51,
+    52,
+    53,
+    54,
+    55,
+    56,
+    57,
+    58,
+    59,
+    61,
+    62,
+    63,
+    64,
+    65,
+    67,
+    68,
+    69,
+    70,
+    71,
+    72,
+    73,
+    75,
+    78,
+    79,
+    80,
+    81,
+    82
+   ],
+   "surviving_share": 0.944
+  },
+  {
+   "id": 90000139,
+   "record_number": "LF 224-225",
+   "language_group": "LF",
+   "date_min": null,
+   "date_max": null,
+   "text": "ca uecineo uoltio he cupat meania ca uecineo ca mania",
+   "repeats_removed": 0,
+   "bakkum_restorations": [],
+   "uncertain_letters": [],
+   "hideable_positions": [
+    0,
+    1,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    18,
+    19,
+    21,
+    22,
+    23,
+    24,
+    25,
+    27,
+    28,
+    29,
+    30,
+    31,
+    32,
+    34,
+    35,
+    37,
+    38,
+    39,
+    40,
+    41,
+    42,
+    43,
+    45,
+    46,
+    48,
+    49,
+    50,
+    51,
+    52
+   ],
+   "surviving_share": 1.0
+  },
+  {
+   "id": 90000140,
+   "record_number": "LF 226",
+   "language_group": "LF",
+   "date_min": -240,
+   "date_max": null,
+   "text": "tito acarcelinio ma fi pop petrunes ce f hecupa",
+   "repeats_removed": 0,
+   "bakkum_restorations": [
+    {
+     "start": 41,
+     "end": 42,
+     "gold": "h"
+    },
+    {
+     "start": 45,
+     "end": 47,
+     "gold": "pa"
+    }
+   ],
+   "uncertain_letters": [],
+   "hideable_positions": [
+    0,
+    1,
+    2,
+    3,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    17,
+    18,
+    20,
+    21,
+    23,
+    24,
+    25,
+    27,
+    28,
+    29,
+    30,
+    31,
+    32,
+    33,
+    34,
+    36,
+    37,
+    39,
+    42,
+    43,
+    44
+   ],
+   "surviving_share": 0.923
+  },
+  {
+   "id": 90000142,
+   "record_number": "LF 228-229",
+   "language_group": "LF",
+   "date_min": null,
+   "date_max": null,
+   "text": "_marcio cesula tiperilia tef",
+   "repeats_removed": 0,
+   "bakkum_restorations": [],
+   "uncertain_letters": [
+    1
+   ],
+   "hideable_positions": [
+    2,
+    3,
+    4,
+    5,
+    6,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    25,
+    26,
+    27
+   ],
+   "surviving_share": 0.958
+  },
+  {
+   "id": 90000148,
+   "record_number": "LF 242",
+   "language_group": "LF",
+   "date_min": null,
+   "date_max": null,
+   "text": "-a protacio m f macistratu keset cuestod pi pretod pis cauia uxo a f",
+   "repeats_removed": 0,
+   "bakkum_restorations": [],
+   "uncertain_letters": [
+    17,
+    34
+   ],
+   "hideable_positions": [
+    1,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    12,
+    14,
+    16,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    27,
+    28,
+    29,
+    30,
+    31,
+    33,
+    35,
+    36,
+    37,
+    38,
+    39,
+    41,
+    42,
+    44,
+    45,
+    46,
+    47,
+    48,
+    49,
+    51,
+    52,
+    53,
+    55,
+    56,
+    57,
+    58,
+    59,
+    61,
+    62,
+    63,
+    65,
+    67
+   ],
+   "surviving_share": 0.945
+  },
+  {
+   "id": 90000157,
+   "record_number": "LF 330",
+   "language_group": "LF",
+   "date_min": -241,
+   "date_max": -100,
+   "text": "uoltio folcozeo zextoi fi",
+   "repeats_removed": 0,
+   "bakkum_restorations": [],
+   "uncertain_letters": [],
+   "hideable_positions": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    23,
+    24
+   ],
+   "surviving_share": 1.0
+  },
+  {
+   "id": 90000159,
+   "record_number": "LF 332",
+   "language_group": "LF",
+   "date_min": -241,
+   "date_max": -100,
+   "text": "celio-olcuzeo ---io poplia e uelcei f",
+   "repeats_removed": 0,
+   "bakkum_restorations": [],
+   "uncertain_letters": [
+    1,
+    2,
+    33,
+    34
+   ],
+   "hideable_positions": [
+    0,
+    3,
+    4,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    17,
+    18,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    27,
+    29,
+    30,
+    31,
+    32,
+    36
+   ],
+   "surviving_share": 0.75
+  },
+  {
+   "id": 90000168,
+   "record_number": "LF/Lat 214",
+   "language_group": "LF/Lat",
+   "date_min": -160,
+   "date_max": -140,
+   "text": "menerua sacru la cotena la f pretod de zenatuo sententiad uootum dedet cuando datu rected cuncaptum",
+   "repeats_removed": 0,
+   "bakkum_restorations": [],
+   "uncertain_letters": [],
+   "hideable_positions": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    8,
+    9,
+    10,
+    11,
+    12,
+    14,
+    15,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    24,
+    25,
+    27,
+    29,
+    30,
+    31,
+    32,
+    33,
+    34,
+    36,
+    37,
+    39,
+    40,
+    41,
+    42,
+    43,
+    44,
+    45,
+    47,
+    48,
+    49,
+    50,
+    51,
+    52,
+    53,
+    54,
+    55,
+    56,
+    58,
+    59,
+    60,
+    61,
+    62,
+    63,
+    65,
+    66,
+    67,
+    68,
+    69,
+    71,
+    72,
+    73,
+    74,
+    75,
+    76,
+    78,
+    79,
+    80,
+    81,
+    83,
+    84,
+    85,
+    86,
+    87,
+    88,
+    90,
+    91,
+    92,
+    93,
+    94,
+    95,
+    96,
+    97,
+    98
+   ],
+   "surviving_share": 1.0
+  },
+  {
+   "id": 90000176,
+   "record_number": "LtF 232",
+   "language_group": "LtF",
+   "date_min": -240,
+   "date_max": null,
+   "text": "harisp sor - anco ma censo",
+   "repeats_removed": 0,
+   "bakkum_restorations": [],
+   "uncertain_letters": [],
+   "hideable_positions": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    7,
+    8,
+    9,
+    13,
+    14,
+    15,
+    16,
+    18,
+    19,
+    21,
+    22,
+    23,
+    24,
+    25
+   ],
+   "surviving_share": 0.952
+  },
+  {
+   "id": 90000194,
+   "record_number": "LtF 341",
+   "language_group": "LtF",
+   "date_min": null,
+   "date_max": null,
+   "text": "m aco nio ia - rutil ce ilia co-",
+   "repeats_removed": 0,
+   "bakkum_restorations": [],
+   "uncertain_letters": [
+    30
+   ],
+   "hideable_positions": [
+    0,
+    2,
+    3,
+    4,
+    6,
+    7,
+    8,
+    10,
+    11,
+    15,
+    16,
+    17,
+    18,
+    19,
+    21,
+    22,
+    24,
+    25,
+    26,
+    27,
+    29
+   ],
+   "surviving_share": 0.875
+  },
+  {
+   "id": 90000196,
+   "record_number": "LtF 377",
+   "language_group": "LtF",
+   "date_min": null,
+   "date_max": null,
+   "text": "-muniorecena- numesio marte ddlm",
+   "repeats_removed": 0,
+   "bakkum_restorations": [
+    {
+     "start": 23,
+     "end": 26,
+     "gold": "art"
+    }
+   ],
+   "uncertain_letters": [
+    1,
+    26
+   ],
+   "hideable_positions": [
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    22,
+    28,
+    29,
+    30,
+    31
+   ],
+   "surviving_share": 0.759
+  },
+  {
+   "id": 90000214,
+   "record_number": "MF 11-12",
+   "language_group": "MF",
+   "date_min": null,
+   "date_max": null,
+   "text": "uolti teti cauio paui ceo locies cela",
+   "repeats_removed": 0,
+   "bakkum_restorations": [
+    {
+     "start": 27,
+     "end": 29,
+     "gold": "oc"
+    }
+   ],
+   "uncertain_letters": [
+    26,
+    29
+   ],
+   "hideable_positions": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    6,
+    7,
+    8,
+    9,
+    11,
+    12,
+    13,
+    14,
+    15,
+    17,
+    18,
+    19,
+    20,
+    22,
+    23,
+    24,
+    30,
+    31,
+    33,
+    34,
+    35,
+    36
+   ],
+   "surviving_share": 0.871
+  },
+  {
+   "id": 90000231,
+   "record_number": "MF 146",
+   "language_group": "MF",
+   "date_min": null,
+   "date_max": -241,
+   "text": "cauio leuelio caui hileo ianta --lnia hec cupat ----ta",
+   "repeats_removed": 0,
+   "bakkum_restorations": [
+    {
+     "start": 2,
+     "end": 3,
+     "gold": "u"
+    },
+    {
+     "start": 17,
+     "end": 18,
+     "gold": "i"
+    },
+    {
+     "start": 36,
+     "end": 37,
+     "gold": "a"
+    }
+   ],
+   "uncertain_letters": [],
+   "hideable_positions": [
+    0,
+    1,
+    3,
+    4,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    14,
+    15,
+    16,
+    19,
+    20,
+    21,
+    22,
+    23,
+    25,
+    26,
+    27,
+    28,
+    29,
+    33,
+    34,
+    35,
+    38,
+    39,
+    40,
+    42,
+    43,
+    44,
+    45,
+    46,
+    52,
+    53
+   ],
+   "surviving_share": 0.804
+  },
+  {
+   "id": 90000292,
+   "record_number": "MF 265",
+   "language_group": "MF",
+   "date_min": null,
+   "date_max": null,
+   "text": "poplia calitenes aronto cesies lartio uxor",
+   "repeats_removed": 0,
+   "bakkum_restorations": [],
+   "uncertain_letters": [],
+   "hideable_positions": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    24,
+    25,
+    26,
+    27,
+    28,
+    29,
+    31,
+    32,
+    33,
+    34,
+    35,
+    36,
+    38,
+    39,
+    40,
+    41
+   ],
+   "surviving_share": 1.0
+  },
+  {
+   "id": 90000297,
+   "record_number": "MF 272",
+   "language_group": "MF",
+   "date_min": -300,
+   "date_max": -201,
+   "text": "cauio nomes ina maxomo zeruatronia",
+   "repeats_removed": 0,
+   "bakkum_restorations": [],
+   "uncertain_letters": [],
+   "hideable_positions": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    6,
+    7,
+    8,
+    9,
+    10,
+    12,
+    13,
+    14,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    23,
+    24,
+    25,
+    26,
+    27,
+    28,
+    29,
+    30,
+    31,
+    32,
+    33
+   ],
+   "surviving_share": 1.0
+  },
+  {
+   "id": 90000311,
+   "record_number": "MF 41",
+   "language_group": "MF",
+   "date_min": -400,
+   "date_max": -300,
+   "text": "fasies caisia louria louci teti uxor loifirta",
+   "repeats_removed": 0,
+   "bakkum_restorations": [
+    {
+     "start": 3,
+     "end": 4,
+     "gold": "i"
+    },
+    {
+     "start": 8,
+     "end": 10,
+     "gold": "ai"
+    }
+   ],
+   "uncertain_letters": [
+    16,
+    17,
+    44
+   ],
+   "hideable_positions": [
+    0,
+    1,
+    2,
+    4,
+    5,
+    7,
+    10,
+    11,
+    12,
+    14,
+    15,
+    18,
+    19,
+    21,
+    22,
+    23,
+    24,
+    25,
+    27,
+    28,
+    29,
+    30,
+    32,
+    33,
+    34,
+    35,
+    37,
+    38,
+    39,
+    40,
+    41,
+    42,
+    43
+   ],
+   "surviving_share": 0.846
+  },
+  {
+   "id": 90000312,
+   "record_number": "MF 42",
+   "language_group": "MF",
+   "date_min": -400,
+   "date_max": -300,
+   "text": "cauia satelie caui felicinate uxor",
+   "repeats_removed": 0,
+   "bakkum_restorations": [],
+   "uncertain_letters": [
+    23
+   ],
+   "hideable_positions": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    14,
+    15,
+    16,
+    17,
+    19,
+    20,
+    21,
+    22,
+    24,
+    25,
+    26,
+    27,
+    28,
+    30,
+    31,
+    32,
+    33
+   ],
+   "surviving_share": 0.967
+  },
+  {
+   "id": 90000328,
+   "record_number": "MF 59-60",
+   "language_group": "MF",
+   "date_min": -400,
+   "date_max": -300,
+   "text": "foied uino pipafo cra carefo",
+   "repeats_removed": 1,
+   "bakkum_restorations": [],
+   "uncertain_letters": [],
+   "hideable_positions": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    6,
+    7,
+    8,
+    9,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    18,
+    19,
+    20,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27
+   ],
+   "surviving_share": 1.0
+  },
+  {
+   "id": 90000329,
+   "record_number": "MF 62",
+   "language_group": "MF",
+   "date_min": -380,
+   "date_max": -370,
+   "text": "canumede dies pater cupido menerua",
+   "repeats_removed": 0,
+   "bakkum_restorations": [
+    {
+     "start": 9,
+     "end": 12,
+     "gold": "die"
+    }
+   ],
+   "uncertain_letters": [],
+   "hideable_positions": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    12,
+    14,
+    15,
+    16,
+    17,
+    18,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    27,
+    28,
+    29,
+    30,
+    31,
+    32,
+    33
+   ],
+   "surviving_share": 0.9
+  },
+  {
+   "id": 90000338,
+   "record_number": "MF 80",
+   "language_group": "MF",
+   "date_min": null,
+   "date_max": null,
+   "text": "marco pleina marcio manomo cauiacue ueculia uoltilia uentarc------ hec cupant",
+   "repeats_removed": 0,
+   "bakkum_restorations": [
+    {
+     "start": 0,
+     "end": 2,
+     "gold": "ma"
+    },
+    {
+     "start": 23,
+     "end": 24,
+     "gold": "o"
+    },
+    {
+     "start": 36,
+     "end": 37,
+     "gold": "u"
+    }
+   ],
+   "uncertain_letters": [],
+   "hideable_positions": [
+    2,
+    3,
+    4,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    20,
+    21,
+    22,
+    24,
+    25,
+    27,
+    28,
+    29,
+    30,
+    31,
+    32,
+    33,
+    34,
+    37,
+    38,
+    39,
+    40,
+    41,
+    42,
+    44,
+    45,
+    46,
+    47,
+    48,
+    49,
+    50,
+    51,
+    53,
+    54,
+    55,
+    56,
+    57,
+    58,
+    59,
+    67,
+    68,
+    69,
+    71,
+    72,
+    73,
+    74,
+    75,
+    76
+   ],
+   "surviving_share": 0.853
+  },
+  {
+   "id": 90000405,
+   "record_number": "MLF 305",
+   "language_group": "MLF",
+   "date_min": -300,
+   "date_max": -201,
+   "text": "tito uelmineo titoi fecupa",
+   "repeats_removed": 0,
+   "bakkum_restorations": [],
+   "uncertain_letters": [
+    17
+   ],
+   "hideable_positions": [
+    0,
+    1,
+    2,
+    3,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    14,
+    15,
+    16,
+    18,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25
+   ],
+   "surviving_share": 0.957
+  },
+  {
+   "id": 90000408,
+   "record_number": "MLF 308",
+   "language_group": "MLF",
+   "date_min": -300,
+   "date_max": -201,
+   "text": "cauiouelmineo popliaifile",
+   "repeats_removed": 0,
+   "bakkum_restorations": [],
+   "uncertain_letters": [
+    11
+   ],
+   "hideable_positions": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    12,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24
+   ],
+   "surviving_share": 0.958
+  },
+  {
+   "id": 90000410,
+   "record_number": "MLF 310",
+   "language_group": "MLF",
+   "date_min": -300,
+   "date_max": -201,
+   "text": "cuicto uelmineo _uoxie-eai",
+   "repeats_removed": 0,
+   "bakkum_restorations": [],
+   "uncertain_letters": [],
+   "hideable_positions": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    17,
+    18,
+    19,
+    20,
+    21,
+    23,
+    24,
+    25
+   ],
+   "surviving_share": 0.957
+  },
+  {
+   "id": 90000412,
+   "record_number": "MLF 312",
+   "language_group": "MLF",
+   "date_min": -300,
+   "date_max": -201,
+   "text": "uoltio uelmineo titio sceua",
+   "repeats_removed": 0,
+   "bakkum_restorations": [],
+   "uncertain_letters": [
+    25
+   ],
+   "hideable_positions": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    16,
+    17,
+    18,
+    19,
+    20,
+    22,
+    23,
+    24,
+    26
+   ],
+   "surviving_share": 0.958
+  },
+  {
+   "id": 90000413,
+   "record_number": "MLF 313",
+   "language_group": "MLF",
+   "date_min": -300,
+   "date_max": -201,
+   "text": "uolta uelmineo fuloniacue",
+   "repeats_removed": 0,
+   "bakkum_restorations": [],
+   "uncertain_letters": [],
+   "hideable_positions": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24
+   ],
+   "surviving_share": 1.0
+  },
+  {
+   "id": 90000431,
+   "record_number": "MLF 346",
+   "language_group": "MLF",
+   "date_min": null,
+   "date_max": null,
+   "text": "m tito tulio uoltilio hescuna",
+   "repeats_removed": 0,
+   "bakkum_restorations": [],
+   "uncertain_letters": [],
+   "hideable_positions": [
+    0,
+    2,
+    3,
+    4,
+    5,
+    7,
+    8,
+    9,
+    10,
+    11,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27,
+    28
+   ],
+   "surviving_share": 1.0
+  },
+  {
+   "id": 90200013,
+   "record_number": "MF 470",
+   "language_group": "MF",
+   "date_min": -350,
+   "date_max": -301,
+   "text": "oufilo clipeaio letei fileo met facet",
+   "repeats_removed": 0,
+   "bakkum_restorations": [],
+   "uncertain_letters": [],
+   "hideable_positions": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    16,
+    17,
+    18,
+    19,
+    20,
+    22,
+    23,
+    24,
+    25,
+    26,
+    28,
+    29,
+    30,
+    32,
+    33,
+    34,
+    35,
+    36
+   ],
+   "surviving_share": 1.0
+  }
+ ],
+ "latin": [
+  {
+   "id": 90000114,
+   "record_number": "Lat 217-218",
+   "language_group": "Lat",
+   "date_min": -150,
+   "date_max": -100,
+   "text": "gonlegium quod est aciptum aetatei agedai opiparum ad uiitam quolunda festosque dies quei soueis aastuties opidque uolgani gondecorant saipisume comuiuia loidosque ququei huc dederunt inperat oribus summeis utei sesed lubentis beneiouent optantis diouei iunonei mineruai falesce quei in sardinia sunt donum dederunt magistreis l latrius k f c saluena uoltai f coiraueront",
+   "repeats_removed": 0,
+   "bakkum_restorations": [
+    {
+     "start": 39,
+     "end": 41,
+     "gold": "ai"
+    },
+    {
+     "start": 139,
+     "end": 140,
+     "gold": "i"
+    },
+    {
+     "start": 247,
+     "end": 249,
+     "gold": "di"
+    },
+    {
+     "start": 347,
+     "end": 348,
+     "gold": "e"
+    }
+   ],
+   "uncertain_letters": [],
+   "hideable_positions": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    10,
+    11,
+    12,
+    13,
+    15,
+    16,
+    17,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    27,
+    28,
+    29,
+    30,
+    31,
+    32,
+    33,
+    35,
+    36,
+    37,
+    38,
+    42,
+    43,
+    44,
+    45,
+    46,
+    47,
+    48,
+    49,
+    51,
+    52,
+    54,
+    55,
+    56,
+    57,
+    58,
+    59,
+    61,
+    62,
+    63,
+    64,
+    65,
+    66,
+    67,
+    68,
+    70,
+    71,
+    72,
+    73,
+    74,
+    75,
+    76,
+    77,
+    78,
+    80,
+    81,
+    82,
+    83,
+    85,
+    86,
+    87,
+    88,
+    90,
+    91,
+    92,
+    93,
+    94,
+    95,
+    97,
+    98,
+    99,
+    100,
+    101,
+    102,
+    103,
+    104,
+    105,
+    107,
+    108,
+    109,
+    110,
+    111,
+    112,
+    113,
+    115,
+    116,
+    117,
+    118,
+    119,
+    120,
+    121,
+    123,
+    124,
+    125,
+    126,
+    127,
+    128,
+    129,
+    130,
+    131,
+    132,
+    133,
+    135,
+    136,
+    137,
+    138,
+    140,
+    141,
+    142,
+    143,
+    145,
+    146,
+    147,
+    148,
+    149,
+    150,
+    151,
+    152,
+    154,
+    155,
+    156,
+    157,
+    158,
+    159,
+    160,
+    161,
+    162,
+    164,
+    165,
+    166,
+    167,
+    168,
+    169,
+    171,
+    172,
+    173,
+    175,
+    176,
+    177,
+    178,
+    179,
+    180,
+    181,
+    182,
+    184,
+    185,
+    186,
+    187,
+    188,
+    189,
+    190,
+    192,
+    193,
+    194,
+    195,
+    196,
+    197,
+    199,
+    200,
+    201,
+    202,
+    203,
+    204,
+    205,
+    207,
+    208,
+    209,
+    210,
+    212,
+    213,
+    214,
+    215,
+    216,
+    218,
+    219,
+    220,
+    221,
+    222,
+    223,
+    224,
+    225,
+    227,
+    228,
+    229,
+    230,
+    231,
+    232,
+    233,
+    234,
+    235,
+    236,
+    238,
+    239,
+    240,
+    241,
+    242,
+    243,
+    244,
+    245,
+    249,
+    250,
+    251,
+    252,
+    254,
+    255,
+    256,
+    257,
+    258,
+    259,
+    260,
+    262,
+    263,
+    264,
+    265,
+    266,
+    267,
+    268,
+    269,
+    271,
+    272,
+    273,
+    274,
+    275,
+    276,
+    277,
+    279,
+    280,
+    281,
+    282,
+    284,
+    285,
+    287,
+    288,
+    289,
+    290,
+    291,
+    292,
+    293,
+    294,
+    296,
+    297,
+    298,
+    299,
+    301,
+    302,
+    303,
+    304,
+    305,
+    307,
+    308,
+    309,
+    310,
+    311,
+    312,
+    313,
+    314,
+    316,
+    317,
+    318,
+    319,
+    320,
+    321,
+    322,
+    323,
+    324,
+    325,
+    327,
+    329,
+    330,
+    331,
+    332,
+    333,
+    334,
+    335,
+    337,
+    339,
+    341,
+    343,
+    344,
+    345,
+    346,
+    348,
+    349,
+    351,
+    352,
+    353,
+    354,
+    355,
+    356,
+    358,
+    360,
+    361,
+    362,
+    363,
+    364,
+    365,
+    366,
+    367,
+    368,
+    369,
+    370
+   ],
+   "surviving_share": 0.981
+  },
+  {
+   "id": 90000115,
+   "record_number": "Lat 219",
+   "language_group": "Lat",
+   "date_min": -120,
+   "date_max": -50,
+   "text": "- umpricius c f aburcus q apolinei dat",
+   "repeats_removed": 0,
+   "bakkum_restorations": [
+    {
+     "start": 26,
+     "end": 28,
+     "gold": "ap"
+    }
+   ],
+   "uncertain_letters": [],
+   "hideable_positions": [
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    12,
+    14,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    24,
+    28,
+    29,
+    30,
+    31,
+    32,
+    33,
+    35,
+    36,
+    37
+   ],
+   "surviving_share": 0.903
+  },
+  {
+   "id": 90000116,
+   "record_number": "Lat 237",
+   "language_group": "Lat",
+   "date_min": null,
+   "date_max": null,
+   "text": "m spurilius c f bis q duo uir",
+   "repeats_removed": 0,
+   "bakkum_restorations": [],
+   "uncertain_letters": [],
+   "hideable_positions": [
+    0,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    12,
+    14,
+    16,
+    17,
+    18,
+    20,
+    22,
+    23,
+    24,
+    26,
+    27,
+    28
+   ],
+   "surviving_share": 1.0
+  },
+  {
+   "id": 90000120,
+   "record_number": "Lat 251",
+   "language_group": "Lat",
+   "date_min": null,
+   "date_max": null,
+   "text": "l uecilio uo f et polae abelese lectu i datus - uecilio l f et plenese lectu i amplius nihil inuiteis l c leuieis l f et quei eos parentaret ne anteponat",
+   "repeats_removed": 0,
+   "bakkum_restorations": [
+    {
+     "start": 20,
+     "end": 21,
+     "gold": "l"
+    }
+   ],
+   "uncertain_letters": [
+    44,
+    61
+   ],
+   "hideable_positions": [
+    0,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    10,
+    11,
+    13,
+    15,
+    16,
+    18,
+    19,
+    21,
+    22,
+    24,
+    25,
+    26,
+    27,
+    28,
+    29,
+    30,
+    32,
+    33,
+    34,
+    35,
+    36,
+    38,
+    40,
+    41,
+    42,
+    43,
+    48,
+    49,
+    50,
+    51,
+    52,
+    53,
+    54,
+    56,
+    58,
+    60,
+    63,
+    64,
+    65,
+    66,
+    67,
+    68,
+    69,
+    71,
+    72,
+    73,
+    74,
+    75,
+    77,
+    79,
+    80,
+    81,
+    82,
+    83,
+    84,
+    85,
+    87,
+    88,
+    89,
+    90,
+    91,
+    93,
+    94,
+    95,
+    96,
+    97,
+    98,
+    99,
+    100,
+    102,
+    104,
+    106,
+    107,
+    108,
+    109,
+    110,
+    111,
+    112,
+    114,
+    116,
+    118,
+    119,
+    121,
+    122,
+    123,
+    124,
+    126,
+    127,
+    128,
+    130,
+    131,
+    132,
+    133,
+    134,
+    135,
+    136,
+    137,
+    138,
+    139,
+    141,
+    142,
+    144,
+    145,
+    146,
+    147,
+    148,
+    149,
+    150,
+    151,
+    152
+   ],
+   "surviving_share": 0.967
+  },
+  {
+   "id": 90000122,
+   "record_number": "Lat 291",
+   "language_group": "Lat",
+   "date_min": -200,
+   "date_max": -101,
+   "text": "c egnatius sex f prata faciunda coirauit",
+   "repeats_removed": 0,
+   "bakkum_restorations": [],
+   "uncertain_letters": [],
+   "hideable_positions": [
+    0,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    11,
+    12,
+    13,
+    15,
+    17,
+    18,
+    19,
+    20,
+    21,
+    23,
+    24,
+    25,
+    26,
+    27,
+    28,
+    29,
+    30,
+    32,
+    33,
+    34,
+    35,
+    36,
+    37,
+    38,
+    39
+   ],
+   "surviving_share": 1.0
+  },
+  {
+   "id": 90000125,
+   "record_number": "Lat 393",
+   "language_group": "Lat",
+   "date_min": -200,
+   "date_max": -100,
+   "text": "claudia c f a d iii eidus sext",
+   "repeats_removed": 0,
+   "bakkum_restorations": [],
+   "uncertain_letters": [],
+   "hideable_positions": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    8,
+    10,
+    12,
+    14,
+    16,
+    17,
+    18,
+    20,
+    21,
+    22,
+    23,
+    24,
+    26,
+    27,
+    28,
+    29
+   ],
+   "surviving_share": 1.0
+  },
+  {
+   "id": 90000126,
+   "record_number": "Lat 432",
+   "language_group": "Lat",
+   "date_min": -300,
+   "date_max": -200,
+   "text": "l calpurnius feronea dono merite",
+   "repeats_removed": 0,
+   "bakkum_restorations": [
+    {
+     "start": 13,
+     "end": 15,
+     "gold": "fe"
+    }
+   ],
+   "uncertain_letters": [],
+   "hideable_positions": [
+    0,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    15,
+    16,
+    17,
+    18,
+    19,
+    21,
+    22,
+    23,
+    24,
+    26,
+    27,
+    28,
+    29,
+    30,
+    31
+   ],
+   "surviving_share": 0.929
+  },
+  {
+   "id": 90000127,
+   "record_number": "Lat 434",
+   "language_group": "Lat",
+   "date_min": -300,
+   "date_max": -200,
+   "text": "_ feronea dono lubens merto dedit",
+   "repeats_removed": 0,
+   "bakkum_restorations": [],
+   "uncertain_letters": [],
+   "hideable_positions": [
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    10,
+    11,
+    12,
+    13,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    22,
+    23,
+    24,
+    25,
+    26,
+    28,
+    29,
+    30,
+    31,
+    32
+   ],
+   "surviving_share": 1.0
+  },
+  {
+   "id": 90000130,
+   "record_number": "Lat 456",
+   "language_group": "Lat",
+   "date_min": -100,
+   "date_max": -1,
+   "text": "c didius t f m uettius m f duomuiri quinq statuas fornicesque d d faciundum coer idemque probauerunt",
+   "repeats_removed": 0,
+   "bakkum_restorations": [],
+   "uncertain_letters": [],
+   "hideable_positions": [
+    0,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    9,
+    11,
+    13,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    23,
+    25,
+    27,
+    28,
+    29,
+    30,
+    31,
+    32,
+    33,
+    34,
+    36,
+    37,
+    38,
+    39,
+    40,
+    42,
+    43,
+    44,
+    45,
+    46,
+    47,
+    48,
+    50,
+    51,
+    52,
+    53,
+    54,
+    55,
+    56,
+    57,
+    58,
+    59,
+    60,
+    62,
+    64,
+    66,
+    67,
+    68,
+    69,
+    70,
+    71,
+    72,
+    73,
+    74,
+    76,
+    77,
+    78,
+    79,
+    81,
+    82,
+    83,
+    84,
+    85,
+    86,
+    87,
+    89,
+    90,
+    91,
+    92,
+    93,
+    94,
+    95,
+    96,
+    97,
+    98,
+    99
+   ],
+   "surviving_share": 1.0
+  }
+ ],
+ "expert_parallels_sample": [
+  "Cap 431",
+  "Cap 435",
+  "EF 1",
+  "EF 2",
+  "EF 3",
+  "EF 4",
+  "LF 220",
+  "LF 221",
+  "LF 222-223",
+  "LF 224-225",
+  "LF 226",
+  "LF 228-229",
+  "LF 242",
+  "LF 330",
+  "LF 332",
+  "LF/Lat 214",
+  "LtF 232",
+  "LtF 341",
+  "LtF 377",
+  "MF 11-12",
+  "MF 146",
+  "MF 265",
+  "MF 272",
+  "MF 41",
+  "MF 42",
+  "MF 470",
+  "MF 59-60",
+  "MF 62",
+  "MF 80",
+  "MLF 305",
+  "MLF 308",
+  "MLF 310",
+  "MLF 312",
+  "MLF 313",
+  "MLF 346"
+ ],
+ "excluded": [
+  {
+   "record_number": "Bakkum 356",
+   "length": 17,
+   "reason": "not Faliscan or Latin (MLF/Etr)"
+  },
+  {
+   "record_number": "Bakkum 357",
+   "length": 27,
+   "reason": "not Faliscan or Latin (MLF/Etr)"
+  },
+  {
+   "record_number": "Bakkum 358",
+   "length": 12,
+   "reason": "too short (12 characters)"
+  },
+  {
+   "record_number": "Bakkum 359",
+   "length": 10,
+   "reason": "too short (10 characters)"
+  },
+  {
+   "record_number": "Bakkum 439-455",
+   "length": 63,
+   "reason": "mostly abbreviations (91% of words <= 2 letters)"
+  },
+  {
+   "record_number": "Cap 382",
+   "length": 6,
+   "reason": "too short (6 characters)"
+  },
+  {
+   "record_number": "Cap 386-387",
+   "length": 11,
+   "reason": "too short (11 characters)"
+  },
+  {
+   "record_number": "Cap 388",
+   "length": 9,
+   "reason": "too short (9 characters)"
+  },
+  {
+   "record_number": "Cap 389",
+   "length": 12,
+   "reason": "too short (12 characters)"
+  },
+  {
+   "record_number": "Cap 390",
+   "length": 12,
+   "reason": "too short (12 characters)"
+  },
+  {
+   "record_number": "Cap 391",
+   "length": 10,
+   "reason": "too short (10 characters)"
+  },
+  {
+   "record_number": "Cap 392",
+   "length": 8,
+   "reason": "too short (8 characters)"
+  },
+  {
+   "record_number": "Cap 394",
+   "length": 11,
+   "reason": "too short (11 characters)"
+  },
+  {
+   "record_number": "Cap 395",
+   "length": 5,
+   "reason": "too short (5 characters)"
+  },
+  {
+   "record_number": "Cap 396",
+   "length": 5,
+   "reason": "too short (5 characters)"
+  },
+  {
+   "record_number": "Cap 397",
+   "length": 6,
+   "reason": "too short (6 characters)"
+  },
+  {
+   "record_number": "Cap 398",
+   "length": 3,
+   "reason": "too short (3 characters)"
+  },
+  {
+   "record_number": "Cap 399",
+   "length": 9,
+   "reason": "too short (9 characters)"
+  },
+  {
+   "record_number": "Cap 400",
+   "length": 5,
+   "reason": "too short (5 characters)"
+  },
+  {
+   "record_number": "Cap 401",
+   "length": 2,
+   "reason": "too short (2 characters)"
+  },
+  {
+   "record_number": "Cap 402",
+   "length": 2,
+   "reason": "too short (2 characters)"
+  },
+  {
+   "record_number": "Cap 403",
+   "length": 4,
+   "reason": "too short (4 characters)"
+  },
+  {
+   "record_number": "Cap 404",
+   "length": 11,
+   "reason": "too short (11 characters)"
+  },
+  {
+   "record_number": "Cap 405",
+   "length": 2,
+   "reason": "too short (2 characters)"
+  },
+  {
+   "record_number": "Cap 406",
+   "length": 2,
+   "reason": "too short (2 characters)"
+  },
+  {
+   "record_number": "Cap 407",
+   "length": 2,
+   "reason": "too short (2 characters)"
+  },
+  {
+   "record_number": "Cap 408",
+   "length": 2,
+   "reason": "too short (2 characters)"
+  },
+  {
+   "record_number": "Cap 409",
+   "length": 4,
+   "reason": "too short (4 characters)"
+  },
+  {
+   "record_number": "Cap 410",
+   "length": 2,
+   "reason": "too short (2 characters)"
+  },
+  {
+   "record_number": "Cap 411",
+   "length": 2,
+   "reason": "too short (2 characters)"
+  },
+  {
+   "record_number": "Cap 412",
+   "length": 2,
+   "reason": "too short (2 characters)"
+  },
+  {
+   "record_number": "Cap 413",
+   "length": 9,
+   "reason": "too short (9 characters)"
+  },
+  {
+   "record_number": "Cap 414",
+   "length": 3,
+   "reason": "too short (3 characters)"
+  },
+  {
+   "record_number": "Cap 415",
+   "length": 4,
+   "reason": "too short (4 characters)"
+  },
+  {
+   "record_number": "Cap 416",
+   "length": 2,
+   "reason": "too short (2 characters)"
+  },
+  {
+   "record_number": "Cap 417",
+   "length": 3,
+   "reason": "too short (3 characters)"
+  },
+  {
+   "record_number": "Cap 418",
+   "length": 2,
+   "reason": "too short (2 characters)"
+  },
+  {
+   "record_number": "Cap 419",
+   "length": 4,
+   "reason": "too short (4 characters)"
+  },
+  {
+   "record_number": "Cap 420",
+   "length": 6,
+   "reason": "too short (6 characters)"
+  },
+  {
+   "record_number": "Cap 421",
+   "length": 27,
+   "reason": "mostly abbreviations (67% of words <= 2 letters)"
+  },
+  {
+   "record_number": "Cap 423",
+   "length": 10,
+   "reason": "too short (10 characters)"
+  },
+  {
+   "record_number": "Cap 424",
+   "length": 5,
+   "reason": "too short (5 characters)"
+  },
+  {
+   "record_number": "Cap 425",
+   "length": 4,
+   "reason": "too short (4 characters)"
+  },
+  {
+   "record_number": "Cap 426",
+   "length": 2,
+   "reason": "too short (2 characters)"
+  },
+  {
+   "record_number": "Cap 427",
+   "length": 4,
+   "reason": "too short (4 characters)"
+  },
+  {
+   "record_number": "Cap 428",
+   "length": 4,
+   "reason": "too short (4 characters)"
+  },
+  {
+   "record_number": "Cap 429",
+   "length": 4,
+   "reason": "too short (4 characters)"
+  },
+  {
+   "record_number": "Cap 430",
+   "length": 10,
+   "reason": "too short (10 characters)"
+  },
+  {
+   "record_number": "Cap 433",
+   "length": 16,
+   "reason": "too short (16 characters)"
+  },
+  {
+   "record_number": "Cap 437",
+   "length": 2,
+   "reason": "too short (2 characters)"
+  },
+  {
+   "record_number": "Cap 457",
+   "length": 3,
+   "reason": "too short (3 characters)"
+  },
+  {
+   "record_number": "Cap 458",
+   "length": 8,
+   "reason": "too short (8 characters)"
+  },
+  {
+   "record_number": "Cap 461",
+   "length": 5,
+   "reason": "too short (5 characters)"
+  },
+  {
+   "record_number": "Cap 462",
+   "length": 7,
+   "reason": "too short (7 characters)"
+  },
+  {
+   "record_number": "Cap 465",
+   "length": 11,
+   "reason": "too short (11 characters)"
+  },
+  {
+   "record_number": "Cap 466",
+   "length": 8,
+   "reason": "too short (8 characters)"
+  },
+  {
+   "record_number": "EF 10",
+   "length": 8,
+   "reason": "too short (8 characters)"
+  },
+  {
+   "record_number": "EF 6-7",
+   "length": 22,
+   "reason": "too short (22 characters)"
+  },
+  {
+   "record_number": "EF 8-9",
+   "length": 20,
+   "reason": "too short (20 characters)"
+  },
+  {
+   "record_number": "EF/Etr 385",
+   "length": 18,
+   "reason": "not Faliscan or Latin (EF/Etr)"
+  },
+  {
+   "record_number": "EF/Etr 5",
+   "length": 5,
+   "reason": "not Faliscan or Latin (EF/Etr)"
+  },
+  {
+   "record_number": "Etr I-II",
+   "length": 16,
+   "reason": "not Faliscan or Latin (Etr)"
+  },
+  {
+   "record_number": "Etr III-IV",
+   "length": 90,
+   "reason": "not Faliscan or Latin (Etr)"
+  },
+  {
+   "record_number": "Etr IX",
+   "length": 18,
+   "reason": "not Faliscan or Latin (Etr)"
+  },
+  {
+   "record_number": "Etr L-LI",
+   "length": 23,
+   "reason": "not Faliscan or Latin (Etr)"
+  },
+  {
+   "record_number": "Etr V",
+   "length": 6,
+   "reason": "not Faliscan or Latin (Etr)"
+  },
+  {
+   "record_number": "Etr VI-VII",
+   "length": 7,
+   "reason": "not Faliscan or Latin (Etr)"
+  },
+  {
+   "record_number": "Etr VIII",
+   "length": 93,
+   "reason": "not Faliscan or Latin (Etr)"
+  },
+  {
+   "record_number": "Etr X",
+   "length": 129,
+   "reason": "not Faliscan or Latin (Etr)"
+  },
+  {
+   "record_number": "Etr XI-XV",
+   "length": 63,
+   "reason": "not Faliscan or Latin (Etr)"
+  },
+  {
+   "record_number": "Etr XIX",
+   "length": 62,
+   "reason": "not Faliscan or Latin (Etr)"
+  },
+  {
+   "record_number": "Etr XL",
+   "length": 11,
+   "reason": "not Faliscan or Latin (Etr)"
+  },
+  {
+   "record_number": "Etr XLI",
+   "length": 30,
+   "reason": "not Faliscan or Latin (Etr)"
+  },
+  {
+   "record_number": "Etr XLII",
+   "length": 7,
+   "reason": "not Faliscan or Latin (Etr)"
+  },
+  {
+   "record_number": "Etr XLIII",
+   "length": 5,
+   "reason": "not Faliscan or Latin (Etr)"
+  },
+  {
+   "record_number": "Etr XLIV",
+   "length": 25,
+   "reason": "not Faliscan or Latin (Etr)"
+  },
+  {
+   "record_number": "Etr XLIX",
+   "length": 18,
+   "reason": "not Faliscan or Latin (Etr)"
+  },
+  {
+   "record_number": "Etr XLV",
+   "length": 13,
+   "reason": "not Faliscan or Latin (Etr)"
+  },
+  {
+   "record_number": "Etr XLVI",
+   "length": 27,
+   "reason": "not Faliscan or Latin (Etr)"
+  },
+  {
+   "record_number": "Etr XLVII",
+   "length": 19,
+   "reason": "not Faliscan or Latin (Etr)"
+  },
+  {
+   "record_number": "Etr XLVIII",
+   "length": 29,
+   "reason": "not Faliscan or Latin (Etr)"
+  },
+  {
+   "record_number": "Etr XVI",
+   "length": 16,
+   "reason": "not Faliscan or Latin (Etr)"
+  },
+  {
+   "record_number": "Etr XVII",
+   "length": 21,
+   "reason": "not Faliscan or Latin (Etr)"
+  },
+  {
+   "record_number": "Etr XVIII",
+   "length": 8,
+   "reason": "not Faliscan or Latin (Etr)"
+  },
+  {
+   "record_number": "Etr XX",
+   "length": 14,
+   "reason": "not Faliscan or Latin (Etr)"
+  },
+  {
+   "record_number": "Etr XXI",
+   "length": 5,
+   "reason": "not Faliscan or Latin (Etr)"
+  },
+  {
+   "record_number": "Etr XXII-XXIII",
+   "length": 9,
+   "reason": "not Faliscan or Latin (Etr)"
+  },
+  {
+   "record_number": "Etr XXIV",
+   "length": 4,
+   "reason": "not Faliscan or Latin (Etr)"
+  },
+  {
+   "record_number": "Etr XXIX",
+   "length": 13,
+   "reason": "not Faliscan or Latin (Etr)"
+  },
+  {
+   "record_number": "Etr XXV",
+   "length": 12,
+   "reason": "not Faliscan or Latin (Etr)"
+  },
+  {
+   "record_number": "Etr XXVI",
+   "length": 11,
+   "reason": "not Faliscan or Latin (Etr)"
+  },
+  {
+   "record_number": "Etr XXVII",
+   "length": 15,
+   "reason": "not Faliscan or Latin (Etr)"
+  },
+  {
+   "record_number": "Etr XXVIII",
+   "length": 43,
+   "reason": "not Faliscan or Latin (Etr)"
+  },
+  {
+   "record_number": "Etr XXX",
+   "length": 7,
+   "reason": "not Faliscan or Latin (Etr)"
+  },
+  {
+   "record_number": "Etr XXXII",
+   "length": 12,
+   "reason": "not Faliscan or Latin (Etr)"
+  },
+  {
+   "record_number": "Etr XXXIII",
+   "length": 11,
+   "reason": "not Faliscan or Latin (Etr)"
+  },
+  {
+   "record_number": "Etr XXXIV",
+   "length": 19,
+   "reason": "not Faliscan or Latin (Etr)"
+  },
+  {
+   "record_number": "Etr XXXIX",
+   "length": 14,
+   "reason": "not Faliscan or Latin (Etr)"
+  },
+  {
+   "record_number": "Etr XXXV",
+   "length": 14,
+   "reason": "not Faliscan or Latin (Etr)"
+  },
+  {
+   "record_number": "Etr XXXVI",
+   "length": 6,
+   "reason": "not Faliscan or Latin (Etr)"
+  },
+  {
+   "record_number": "Etr XXXVII",
+   "length": 15,
+   "reason": "not Faliscan or Latin (Etr)"
+  },
+  {
+   "record_number": "Etr XXXVIII",
+   "length": 12,
+   "reason": "not Faliscan or Latin (Etr)"
+  },
+  {
+   "record_number": "Lat 216",
+   "length": 13,
+   "reason": "too short (13 characters)"
+  },
+  {
+   "record_number": "Lat 238",
+   "length": 24,
+   "reason": "too short (24 characters)"
+  },
+  {
+   "record_number": "Lat 240",
+   "length": 21,
+   "reason": "too short (21 characters)"
+  },
+  {
+   "record_number": "Lat 250",
+   "length": 73,
+   "reason": "no edition; Bakkum quotes AE 1982, 286"
+  },
+  {
+   "record_number": "Lat 268",
+   "length": 19,
+   "reason": "too short (19 characters)"
+  },
+  {
+   "record_number": "Lat 295",
+   "length": 8,
+   "reason": "too short (8 characters)"
+  },
+  {
+   "record_number": "Lat 296",
+   "length": 16,
+   "reason": "too short (16 characters)"
+  },
+  {
+   "record_number": "Lat 436",
+   "length": 23,
+   "reason": "too short (23 characters)"
+  },
+  {
+   "record_number": "Lat 438",
+   "length": 7,
+   "reason": "too short (7 characters)"
+  },
+  {
+   "record_number": "LF 112",
+   "length": 5,
+   "reason": "too short (5 characters)"
+  },
+  {
+   "record_number": "LF 213",
+   "length": 40,
+   "reason": "mostly abbreviations (62% of words <= 2 letters)"
+  },
+  {
+   "record_number": "LF 227",
+   "length": 15,
+   "reason": "too short (15 characters)"
+  },
+  {
+   "record_number": "LF 230",
+   "length": 11,
+   "reason": "too short (11 characters)"
+  },
+  {
+   "record_number": "LF 233",
+   "length": 21,
+   "reason": "too short (21 characters)"
+  },
+  {
+   "record_number": "LF 234",
+   "length": 14,
+   "reason": "too short (14 characters)"
+  },
+  {
+   "record_number": "LF 235",
+   "length": 19,
+   "reason": "too short (19 characters)"
+  },
+  {
+   "record_number": "LF 236",
+   "length": 8,
+   "reason": "too short (8 characters)"
+  },
+  {
+   "record_number": "LF 243",
+   "length": 17,
+   "reason": "too short (17 characters)"
+  },
+  {
+   "record_number": "LF 244",
+   "length": 22,
+   "reason": "too short (22 characters)"
+  },
+  {
+   "record_number": "LF 245",
+   "length": 21,
+   "reason": "too short (21 characters)"
+  },
+  {
+   "record_number": "LF 246",
+   "length": 3,
+   "reason": "no edition; mention of an unpublished tile"
+  },
+  {
+   "record_number": "LF 247",
+   "length": 34,
+   "reason": "too little surviving text (14 certain letters, 56% of letter positions)"
+  },
+  {
+   "record_number": "LF 248",
+   "length": 46,
+   "reason": "mostly abbreviations (57% of words <= 2 letters)"
+  },
+  {
+   "record_number": "LF 249",
+   "length": 30,
+   "reason": "mostly abbreviations (62% of words <= 2 letters)"
+  },
+  {
+   "record_number": "LF 329",
+   "length": 13,
+   "reason": "too short (13 characters)"
+  },
+  {
+   "record_number": "LF 331",
+   "length": 12,
+   "reason": "too short (12 characters)"
+  },
+  {
+   "record_number": "LF 333",
+   "length": 18,
+   "reason": "too short (18 characters)"
+  },
+  {
+   "record_number": "LF 337",
+   "length": 7,
+   "reason": "too short (7 characters)"
+  },
+  {
+   "record_number": "LF 378",
+   "length": 10,
+   "reason": "too short (10 characters)"
+  },
+  {
+   "record_number": "LF 379",
+   "length": 7,
+   "reason": "too short (7 characters)"
+  },
+  {
+   "record_number": "LF 380",
+   "length": 7,
+   "reason": "too short (7 characters)"
+  },
+  {
+   "record_number": "LF 383",
+   "length": 8,
+   "reason": "too short (8 characters)"
+  },
+  {
+   "record_number": "LF 384",
+   "length": 11,
+   "reason": "too short (11 characters)"
+  },
+  {
+   "record_number": "LF? 381",
+   "length": 3,
+   "reason": "too short (3 characters)"
+  },
+  {
+   "record_number": "LtF 171",
+   "length": 6,
+   "reason": "too short (6 characters)"
+  },
+  {
+   "record_number": "LtF 172",
+   "length": 16,
+   "reason": "too short (16 characters)"
+  },
+  {
+   "record_number": "LtF 173",
+   "length": 15,
+   "reason": "too short (15 characters)"
+  },
+  {
+   "record_number": "LtF 205",
+   "length": 19,
+   "reason": "too short (19 characters)"
+  },
+  {
+   "record_number": "LtF 215",
+   "length": 11,
+   "reason": "too short (11 characters)"
+  },
+  {
+   "record_number": "LtF 231",
+   "length": 54,
+   "reason": "mostly abbreviations (62% of words <= 2 letters)"
+  },
+  {
+   "record_number": "LtF 239",
+   "length": 7,
+   "reason": "too short (7 characters)"
+  },
+  {
+   "record_number": "LtF 277",
+   "length": 3,
+   "reason": "too short (3 characters)"
+  },
+  {
+   "record_number": "LtF 278",
+   "length": 2,
+   "reason": "too short (2 characters)"
+  },
+  {
+   "record_number": "LtF 290",
+   "length": 31,
+   "reason": "too little surviving text (18 certain letters, 72% of letter positions)"
+  },
+  {
+   "record_number": "LtF 292",
+   "length": 11,
+   "reason": "too short (11 characters)"
+  },
+  {
+   "record_number": "LtF 294",
+   "length": 2,
+   "reason": "too short (2 characters)"
+  },
+  {
+   "record_number": "LtF 297",
+   "length": 4,
+   "reason": "too short (4 characters)"
+  },
+  {
+   "record_number": "LtF 298",
+   "length": 4,
+   "reason": "too short (4 characters)"
+  },
+  {
+   "record_number": "LtF 299",
+   "length": 8,
+   "reason": "too short (8 characters)"
+  },
+  {
+   "record_number": "LtF 300",
+   "length": 21,
+   "reason": "too short (21 characters)"
+  },
+  {
+   "record_number": "LtF 301",
+   "length": 30,
+   "reason": "too little surviving text (15 certain letters, 62% of letter positions)"
+  },
+  {
+   "record_number": "LtF 325",
+   "length": 29,
+   "reason": "mostly abbreviations (67% of words <= 2 letters)"
+  },
+  {
+   "record_number": "LtF 326",
+   "length": 11,
+   "reason": "too short (11 characters)"
+  },
+  {
+   "record_number": "LtF 327",
+   "length": 23,
+   "reason": "too short (23 characters)"
+  },
+  {
+   "record_number": "LtF 328",
+   "length": 11,
+   "reason": "too short (11 characters)"
+  },
+  {
+   "record_number": "LtF 340",
+   "length": 9,
+   "reason": "too short (9 characters)"
+  },
+  {
+   "record_number": "LtF 343",
+   "length": 5,
+   "reason": "too short (5 characters)"
+  },
+  {
+   "record_number": "MF 100",
+   "length": 36,
+   "reason": "too little surviving text (11 certain letters, 34% of letter positions)"
+  },
+  {
+   "record_number": "MF 101",
+   "length": 23,
+   "reason": "too short (23 characters)"
+  },
+  {
+   "record_number": "MF 102",
+   "length": 18,
+   "reason": "too short (18 characters)"
+  },
+  {
+   "record_number": "MF 103",
+   "length": 5,
+   "reason": "too short (5 characters)"
+  },
+  {
+   "record_number": "MF 104",
+   "length": 10,
+   "reason": "too short (10 characters)"
+  },
+  {
+   "record_number": "MF 105",
+   "length": 7,
+   "reason": "too short (7 characters)"
+  },
+  {
+   "record_number": "MF 106",
+   "length": 12,
+   "reason": "too short (12 characters)"
+  },
+  {
+   "record_number": "MF 107",
+   "length": 12,
+   "reason": "too short (12 characters)"
+  },
+  {
+   "record_number": "MF 109",
+   "length": 6,
+   "reason": "too short (6 characters)"
+  },
+  {
+   "record_number": "MF 110",
+   "length": 4,
+   "reason": "too short (4 characters)"
+  },
+  {
+   "record_number": "MF 113",
+   "length": 19,
+   "reason": "too short (19 characters)"
+  },
+  {
+   "record_number": "MF 114",
+   "length": 17,
+   "reason": "too short (17 characters)"
+  },
+  {
+   "record_number": "MF 115",
+   "length": 19,
+   "reason": "too short (19 characters)"
+  },
+  {
+   "record_number": "MF 116",
+   "length": 19,
+   "reason": "too short (19 characters)"
+  },
+  {
+   "record_number": "MF 117",
+   "length": 19,
+   "reason": "too short (19 characters)"
+  },
+  {
+   "record_number": "MF 118",
+   "length": 12,
+   "reason": "too short (12 characters)"
+  },
+  {
+   "record_number": "MF 119",
+   "length": 12,
+   "reason": "too short (12 characters)"
+  },
+  {
+   "record_number": "MF 120",
+   "length": 12,
+   "reason": "too short (12 characters)"
+  },
+  {
+   "record_number": "MF 121",
+   "length": 12,
+   "reason": "too short (12 characters)"
+  },
+  {
+   "record_number": "MF 122",
+   "length": 12,
+   "reason": "too short (12 characters)"
+  },
+  {
+   "record_number": "MF 123",
+   "length": 7,
+   "reason": "too short (7 characters)"
+  },
+  {
+   "record_number": "MF 124",
+   "length": 6,
+   "reason": "too short (6 characters)"
+  },
+  {
+   "record_number": "MF 125",
+   "length": 6,
+   "reason": "too short (6 characters)"
+  },
+  {
+   "record_number": "MF 126",
+   "length": 6,
+   "reason": "too short (6 characters)"
+  },
+  {
+   "record_number": "MF 127",
+   "length": 5,
+   "reason": "too short (5 characters)"
+  },
+  {
+   "record_number": "MF 13",
+   "length": 16,
+   "reason": "too short (16 characters)"
+  },
+  {
+   "record_number": "MF 132",
+   "length": 5,
+   "reason": "too short (5 characters)"
+  },
+  {
+   "record_number": "MF 136-137",
+   "length": 27,
+   "reason": "too little surviving text (16 certain letters, 84% of letter positions)"
+  },
+  {
+   "record_number": "MF 138-139",
+   "length": 14,
+   "reason": "too short (14 characters)"
+  },
+  {
+   "record_number": "MF 14",
+   "length": 19,
+   "reason": "too short (19 characters)"
+  },
+  {
+   "record_number": "MF 141",
+   "length": 12,
+   "reason": "too short (12 characters)"
+  },
+  {
+   "record_number": "MF 142",
+   "length": 8,
+   "reason": "too short (8 characters)"
+  },
+  {
+   "record_number": "MF 143",
+   "length": 14,
+   "reason": "too short (14 characters)"
+  },
+  {
+   "record_number": "MF 147",
+   "length": 20,
+   "reason": "too short (20 characters)"
+  },
+  {
+   "record_number": "MF 148",
+   "length": 13,
+   "reason": "too short (13 characters)"
+  },
+  {
+   "record_number": "MF 149",
+   "length": 20,
+   "reason": "too short (20 characters)"
+  },
+  {
+   "record_number": "MF 15",
+   "length": 18,
+   "reason": "too short (18 characters)"
+  },
+  {
+   "record_number": "MF 150",
+   "length": 18,
+   "reason": "too short (18 characters)"
+  },
+  {
+   "record_number": "MF 151",
+   "length": 20,
+   "reason": "too short (20 characters)"
+  },
+  {
+   "record_number": "MF 153",
+   "length": 18,
+   "reason": "too short (18 characters)"
+  },
+  {
+   "record_number": "MF 154",
+   "length": 10,
+   "reason": "too short (10 characters)"
+  },
+  {
+   "record_number": "MF 158",
+   "length": 32,
+   "reason": "too little surviving text (17 certain letters, 74% of letter positions)"
+  },
+  {
+   "record_number": "MF 159",
+   "length": 26,
+   "reason": "mostly abbreviations (60% of words <= 2 letters)"
+  },
+  {
+   "record_number": "MF 16",
+   "length": 23,
+   "reason": "too short (23 characters)"
+  },
+  {
+   "record_number": "MF 160",
+   "length": 6,
+   "reason": "too short (6 characters)"
+  },
+  {
+   "record_number": "MF 161",
+   "length": 17,
+   "reason": "too short (17 characters)"
+  },
+  {
+   "record_number": "MF 162",
+   "length": 16,
+   "reason": "too short (16 characters)"
+  },
+  {
+   "record_number": "MF 163",
+   "length": 17,
+   "reason": "too short (17 characters)"
+  },
+  {
+   "record_number": "MF 164",
+   "length": 10,
+   "reason": "too short (10 characters)"
+  },
+  {
+   "record_number": "MF 165",
+   "length": 13,
+   "reason": "too short (13 characters)"
+  },
+  {
+   "record_number": "MF 166",
+   "length": 13,
+   "reason": "too short (13 characters)"
+  },
+  {
+   "record_number": "MF 167-168",
+   "length": 26,
+   "reason": "too little surviving text (8 certain letters, 57% of letter positions)"
+  },
+  {
+   "record_number": "MF 169",
+   "length": 8,
+   "reason": "too short (8 characters)"
+  },
+  {
+   "record_number": "MF 17",
+   "length": 36,
+   "reason": "too little surviving text (9 certain letters, 28% of letter positions)"
+  },
+  {
+   "record_number": "MF 170",
+   "length": 14,
+   "reason": "too short (14 characters)"
+  },
+  {
+   "record_number": "MF 174",
+   "length": 9,
+   "reason": "too short (9 characters)"
+  },
+  {
+   "record_number": "MF 175",
+   "length": 8,
+   "reason": "too short (8 characters)"
+  },
+  {
+   "record_number": "MF 176",
+   "length": 9,
+   "reason": "too short (9 characters)"
+  },
+  {
+   "record_number": "MF 178",
+   "length": 7,
+   "reason": "too short (7 characters)"
+  },
+  {
+   "record_number": "MF 179",
+   "length": 4,
+   "reason": "too short (4 characters)"
+  },
+  {
+   "record_number": "MF 18",
+   "length": 13,
+   "reason": "too short (13 characters)"
+  },
+  {
+   "record_number": "MF 180",
+   "length": 7,
+   "reason": "too short (7 characters)"
+  },
+  {
+   "record_number": "MF 181",
+   "length": 6,
+   "reason": "too short (6 characters)"
+  },
+  {
+   "record_number": "MF 182",
+   "length": 9,
+   "reason": "too short (9 characters)"
+  },
+  {
+   "record_number": "MF 183",
+   "length": 11,
+   "reason": "too short (11 characters)"
+  },
+  {
+   "record_number": "MF 184",
+   "length": 5,
+   "reason": "too short (5 characters)"
+  },
+  {
+   "record_number": "MF 185",
+   "length": 4,
+   "reason": "too short (4 characters)"
+  },
+  {
+   "record_number": "MF 186",
+   "length": 3,
+   "reason": "too short (3 characters)"
+  },
+  {
+   "record_number": "MF 187",
+   "length": 4,
+   "reason": "too short (4 characters)"
+  },
+  {
+   "record_number": "MF 188",
+   "length": 4,
+   "reason": "too short (4 characters)"
+  },
+  {
+   "record_number": "MF 189",
+   "length": 3,
+   "reason": "too short (3 characters)"
+  },
+  {
+   "record_number": "MF 19",
+   "length": 9,
+   "reason": "too short (9 characters)"
+  },
+  {
+   "record_number": "MF 190",
+   "length": 3,
+   "reason": "too short (3 characters)"
+  },
+  {
+   "record_number": "MF 191",
+   "length": 15,
+   "reason": "too short (15 characters)"
+  },
+  {
+   "record_number": "MF 192",
+   "length": 8,
+   "reason": "too short (8 characters)"
+  },
+  {
+   "record_number": "MF 193",
+   "length": 12,
+   "reason": "too short (12 characters)"
+  },
+  {
+   "record_number": "MF 194",
+   "length": 3,
+   "reason": "too short (3 characters)"
+  },
+  {
+   "record_number": "MF 195",
+   "length": 12,
+   "reason": "too short (12 characters)"
+  },
+  {
+   "record_number": "MF 196",
+   "length": 7,
+   "reason": "too short (7 characters)"
+  },
+  {
+   "record_number": "MF 197",
+   "length": 8,
+   "reason": "too short (8 characters)"
+  },
+  {
+   "record_number": "MF 198",
+   "length": 4,
+   "reason": "too short (4 characters)"
+  },
+  {
+   "record_number": "MF 20",
+   "length": 7,
+   "reason": "too short (7 characters)"
+  },
+  {
+   "record_number": "MF 200",
+   "length": 6,
+   "reason": "too short (6 characters)"
+  },
+  {
+   "record_number": "MF 201",
+   "length": 6,
+   "reason": "too short (6 characters)"
+  },
+  {
+   "record_number": "MF 22-27",
+   "length": 35,
+   "reason": "too short (5 characters after removing 5 repeats)"
+  },
+  {
+   "record_number": "MF 253",
+   "length": 2,
+   "reason": "too short (2 characters)"
+  },
+  {
+   "record_number": "MF 254",
+   "length": 2,
+   "reason": "too short (2 characters)"
+  },
+  {
+   "record_number": "MF 255",
+   "length": 2,
+   "reason": "too short (2 characters)"
+  },
+  {
+   "record_number": "MF 257",
+   "length": 16,
+   "reason": "too short (16 characters)"
+  },
+  {
+   "record_number": "MF 258",
+   "length": 18,
+   "reason": "too short (18 characters)"
+  },
+  {
+   "record_number": "MF 259",
+   "length": 7,
+   "reason": "too short (7 characters)"
+  },
+  {
+   "record_number": "MF 260",
+   "length": 7,
+   "reason": "too short (7 characters)"
+  },
+  {
+   "record_number": "MF 266",
+   "length": 19,
+   "reason": "too short (19 characters)"
+  },
+  {
+   "record_number": "MF 269",
+   "length": 19,
+   "reason": "too short (19 characters)"
+  },
+  {
+   "record_number": "MF 270",
+   "length": 21,
+   "reason": "too short (21 characters)"
+  },
+  {
+   "record_number": "MF 271",
+   "length": 14,
+   "reason": "too short (14 characters)"
+  },
+  {
+   "record_number": "MF 273",
+   "length": 9,
+   "reason": "too short (9 characters)"
+  },
+  {
+   "record_number": "MF 274",
+   "length": 2,
+   "reason": "too short (2 characters)"
+  },
+  {
+   "record_number": "MF 275",
+   "length": 20,
+   "reason": "too short (20 characters)"
+  },
+  {
+   "record_number": "MF 276",
+   "length": 22,
+   "reason": "too short (22 characters)"
+  },
+  {
+   "record_number": "MF 29",
+   "length": 6,
+   "reason": "too short (6 characters)"
+  },
+  {
+   "record_number": "MF 31",
+   "length": 10,
+   "reason": "too short (10 characters)"
+  },
+  {
+   "record_number": "MF 32",
+   "length": 10,
+   "reason": "too short (10 characters)"
+  },
+  {
+   "record_number": "MF 336",
+   "length": 20,
+   "reason": "too short (20 characters)"
+  },
+  {
+   "record_number": "MF 34-36",
+   "length": 17,
+   "reason": "too short (5 characters after removing 2 repeats)"
+  },
+  {
+   "record_number": "MF 376",
+   "length": 12,
+   "reason": "too short (12 characters)"
+  },
+  {
+   "record_number": "MF 38",
+   "length": 5,
+   "reason": "too short (5 characters)"
+  },
+  {
+   "record_number": "MF 39",
+   "length": 10,
+   "reason": "too short (10 characters)"
+  },
+  {
+   "record_number": "MF 40",
+   "length": 24,
+   "reason": "too short (24 characters)"
+  },
+  {
+   "record_number": "MF 43",
+   "length": 12,
+   "reason": "too short (12 characters)"
+  },
+  {
+   "record_number": "MF 44",
+   "length": 3,
+   "reason": "too short (3 characters)"
+  },
+  {
+   "record_number": "MF 45",
+   "length": 3,
+   "reason": "too short (3 characters)"
+  },
+  {
+   "record_number": "MF 47",
+   "length": 6,
+   "reason": "too short (6 characters)"
+  },
+  {
+   "record_number": "MF 48",
+   "length": 19,
+   "reason": "too short (19 characters)"
+  },
+  {
+   "record_number": "MF 49",
+   "length": 23,
+   "reason": "too short (23 characters)"
+  },
+  {
+   "record_number": "MF 50",
+   "length": 20,
+   "reason": "too short (20 characters)"
+  },
+  {
+   "record_number": "MF 51",
+   "length": 20,
+   "reason": "too short (20 characters)"
+  },
+  {
+   "record_number": "MF 52",
+   "length": 13,
+   "reason": "too short (13 characters)"
+  },
+  {
+   "record_number": "MF 53",
+   "length": 12,
+   "reason": "too short (12 characters)"
+  },
+  {
+   "record_number": "MF 54",
+   "length": 15,
+   "reason": "too short (15 characters)"
+  },
+  {
+   "record_number": "MF 55",
+   "length": 2,
+   "reason": "too short (2 characters)"
+  },
+  {
+   "record_number": "MF 56",
+   "length": 18,
+   "reason": "too short (18 characters)"
+  },
+  {
+   "record_number": "MF 57",
+   "length": 12,
+   "reason": "too short (12 characters)"
+  },
+  {
+   "record_number": "MF 58",
+   "length": 6,
+   "reason": "too short (6 characters)"
+  },
+  {
+   "record_number": "LtF 63",
+   "length": 4,
+   "reason": "too short (4 characters)"
+  },
+  {
+   "record_number": "MF/Etr 64",
+   "length": 6,
+   "reason": "not Faliscan or Latin (MF/Etr)"
+  },
+  {
+   "record_number": "MF 65",
+   "length": 5,
+   "reason": "too short (5 characters)"
+  },
+  {
+   "record_number": "MF 68",
+   "length": 2,
+   "reason": "too short (2 characters)"
+  },
+  {
+   "record_number": "MF 69-70",
+   "length": 29,
+   "reason": "too short (14 characters after removing 1 repeats)"
+  },
+  {
+   "record_number": "MF 71-72",
+   "length": 20,
+   "reason": "too short (20 characters)"
+  },
+  {
+   "record_number": "MF 73",
+   "length": 4,
+   "reason": "too short (4 characters)"
+  },
+  {
+   "record_number": "MF 74",
+   "length": 5,
+   "reason": "too short (5 characters)"
+  },
+  {
+   "record_number": "MF 75",
+   "length": 6,
+   "reason": "too short (6 characters)"
+  },
+  {
+   "record_number": "MF 81",
+   "length": 27,
+   "reason": "too little surviving text (16 certain letters, 70% of letter positions)"
+  },
+  {
+   "record_number": "MF 82",
+   "length": 15,
+   "reason": "too short (15 characters)"
+  },
+  {
+   "record_number": "MF 83",
+   "length": 16,
+   "reason": "too short (16 characters)"
+  },
+  {
+   "record_number": "MF 84",
+   "length": 15,
+   "reason": "too short (15 characters)"
+  },
+  {
+   "record_number": "MF 85",
+   "length": 6,
+   "reason": "too short (6 characters)"
+  },
+  {
+   "record_number": "MF 86",
+   "length": 5,
+   "reason": "too short (5 characters)"
+  },
+  {
+   "record_number": "MF 87",
+   "length": 8,
+   "reason": "too short (8 characters)"
+  },
+  {
+   "record_number": "MF 88-89",
+   "length": 49,
+   "reason": "too little surviving text (27 certain letters, 63% of letter positions)"
+  },
+  {
+   "record_number": "MF 90-91",
+   "length": 91,
+   "reason": "too little surviving text (24 certain letters, 31% of letter positions)"
+  },
+  {
+   "record_number": "MF 92",
+   "length": 13,
+   "reason": "too short (13 characters)"
+  },
+  {
+   "record_number": "MF 93",
+   "length": 14,
+   "reason": "too short (14 characters)"
+  },
+  {
+   "record_number": "MF 94",
+   "length": 29,
+   "reason": "too little surviving text (16 certain letters, 84% of letter positions)"
+  },
+  {
+   "record_number": "MF 95",
+   "length": 20,
+   "reason": "too short (20 characters)"
+  },
+  {
+   "record_number": "MF 96",
+   "length": 22,
+   "reason": "too short (22 characters)"
+  },
+  {
+   "record_number": "MF 97",
+   "length": 17,
+   "reason": "too short (17 characters)"
+  },
+  {
+   "record_number": "MF 98",
+   "length": 16,
+   "reason": "too short (16 characters)"
+  },
+  {
+   "record_number": "MF 99",
+   "length": 18,
+   "reason": "too short (18 characters)"
+  },
+  {
+   "record_number": "MF/Etr 108",
+   "length": 15,
+   "reason": "too short (15 characters)"
+  },
+  {
+   "record_number": "MF/Etr 199",
+   "length": 6,
+   "reason": "not Faliscan or Latin (MF/Etr)"
+  },
+  {
+   "record_number": "MF/Etr 256",
+   "length": 3,
+   "reason": "not Faliscan or Latin (MF/Etr)"
+  },
+  {
+   "record_number": "MF/Etr 264",
+   "length": 7,
+   "reason": "not Faliscan or Latin (MF/Etr)"
+  },
+  {
+   "record_number": "MF/Etr 267",
+   "length": 11,
+   "reason": "not Faliscan or Latin (MF/Etr)"
+  },
+  {
+   "record_number": "MF/Etr 279",
+   "length": 4,
+   "reason": "not Faliscan or Latin (MF/Etr)"
+  },
+  {
+   "record_number": "MF/Etr 280",
+   "length": 3,
+   "reason": "not Faliscan or Latin (MF/Etr)"
+  },
+  {
+   "record_number": "MF/Etr 282",
+   "length": 3,
+   "reason": "not Faliscan or Latin (MF/Etr)"
+  },
+  {
+   "record_number": "MF/Etr 37",
+   "length": 5,
+   "reason": "not Faliscan or Latin (MF/Etr)"
+  },
+  {
+   "record_number": "MF/Etr 66",
+   "length": 9,
+   "reason": "not Faliscan or Latin (MF/Etr)"
+  },
+  {
+   "record_number": "MF/Etr 67",
+   "length": 7,
+   "reason": "not Faliscan or Latin (MF/Etr)"
+  },
+  {
+   "record_number": "MF/Etr 77",
+   "length": 7,
+   "reason": "not Faliscan or Latin (MF/Etr)"
+  },
+  {
+   "record_number": "MF/LtF 21",
+   "length": 4,
+   "reason": "too short (4 characters)"
+  },
+  {
+   "record_number": "MF/LtF 252",
+   "length": 2,
+   "reason": "too short (2 characters)"
+  },
+  {
+   "record_number": "MF? 111",
+   "length": 2,
+   "reason": "too short (2 characters)"
+  },
+  {
+   "record_number": "MF? 128",
+   "length": 4,
+   "reason": "too short (4 characters)"
+  },
+  {
+   "record_number": "MF? 129",
+   "length": 13,
+   "reason": "too short (13 characters)"
+  },
+  {
+   "record_number": "MF? 130",
+   "length": 4,
+   "reason": "too short (4 characters)"
+  },
+  {
+   "record_number": "MF? 131",
+   "length": 2,
+   "reason": "too short (2 characters)"
+  },
+  {
+   "record_number": "MF? 133",
+   "length": 2,
+   "reason": "too short (2 characters)"
+  },
+  {
+   "record_number": "MF? 134",
+   "length": 2,
+   "reason": "too short (2 characters)"
+  },
+  {
+   "record_number": "MF? 202",
+   "length": 6,
+   "reason": "too short (6 characters)"
+  },
+  {
+   "record_number": "MF? 203",
+   "length": 3,
+   "reason": "too short (3 characters)"
+  },
+  {
+   "record_number": "MF? 204",
+   "length": 2,
+   "reason": "too short (2 characters)"
+  },
+  {
+   "record_number": "MF? 261",
+   "length": 3,
+   "reason": "too short (3 characters)"
+  },
+  {
+   "record_number": "MF? 262",
+   "length": 3,
+   "reason": "too short (3 characters)"
+  },
+  {
+   "record_number": "MF? 28",
+   "length": 3,
+   "reason": "too short (3 characters)"
+  },
+  {
+   "record_number": "MF? 281",
+   "length": 2,
+   "reason": "too short (2 characters)"
+  },
+  {
+   "record_number": "MF? 283",
+   "length": 2,
+   "reason": "too short (2 characters)"
+  },
+  {
+   "record_number": "MF? 284",
+   "length": 2,
+   "reason": "too short (2 characters)"
+  },
+  {
+   "record_number": "MF? 30",
+   "length": 2,
+   "reason": "too short (2 characters)"
+  },
+  {
+   "record_number": "MF? 33",
+   "length": 5,
+   "reason": "too short (5 characters)"
+  },
+  {
+   "record_number": "MF? 46",
+   "length": 3,
+   "reason": "too short (3 characters)"
+  },
+  {
+   "record_number": "MF? 76",
+   "length": 2,
+   "reason": "too short (2 characters)"
+  },
+  {
+   "record_number": "MF? 78",
+   "length": 3,
+   "reason": "too short (3 characters)"
+  },
+  {
+   "record_number": "MLF 206",
+   "length": 17,
+   "reason": "too short (17 characters)"
+  },
+  {
+   "record_number": "MLF 207",
+   "length": 12,
+   "reason": "too short (12 characters)"
+  },
+  {
+   "record_number": "MLF 210",
+   "length": 14,
+   "reason": "too short (14 characters)"
+  },
+  {
+   "record_number": "MLF 211",
+   "length": 17,
+   "reason": "too short (17 characters)"
+  },
+  {
+   "record_number": "MLF 212",
+   "length": 6,
+   "reason": "too short (6 characters)"
+  },
+  {
+   "record_number": "MLF 263",
+   "length": 10,
+   "reason": "too short (10 characters)"
+  },
+  {
+   "record_number": "MLF 285",
+   "length": 23,
+   "reason": "too short (23 characters)"
+  },
+  {
+   "record_number": "MLF 286",
+   "length": 2,
+   "reason": "too short (2 characters)"
+  },
+  {
+   "record_number": "MLF 293",
+   "length": 10,
+   "reason": "too short (10 characters)"
+  },
+  {
+   "record_number": "MLF 302",
+   "length": 16,
+   "reason": "too short (16 characters)"
+  },
+  {
+   "record_number": "MLF 303",
+   "length": 14,
+   "reason": "too short (14 characters)"
+  },
+  {
+   "record_number": "MLF 304",
+   "length": 7,
+   "reason": "too short (7 characters)"
+  },
+  {
+   "record_number": "MLF 306",
+   "length": 9,
+   "reason": "too short (9 characters)"
+  },
+  {
+   "record_number": "MLF 307",
+   "length": 18,
+   "reason": "too short (18 characters)"
+  },
+  {
+   "record_number": "MLF 309",
+   "length": 21,
+   "reason": "too short (21 characters)"
+  },
+  {
+   "record_number": "MLF 311",
+   "length": 6,
+   "reason": "too short (6 characters)"
+  },
+  {
+   "record_number": "MLF 314",
+   "length": 12,
+   "reason": "too short (12 characters)"
+  },
+  {
+   "record_number": "MLF 315",
+   "length": 26,
+   "reason": "too little surviving text (19 certain letters, 86% of letter positions)"
+  },
+  {
+   "record_number": "MLF 316",
+   "length": 15,
+   "reason": "too short (15 characters)"
+  },
+  {
+   "record_number": "MLF 317",
+   "length": 14,
+   "reason": "too short (14 characters)"
+  },
+  {
+   "record_number": "MLF 318",
+   "length": 12,
+   "reason": "too short (12 characters)"
+  },
+  {
+   "record_number": "MLF 319",
+   "length": 6,
+   "reason": "too short (6 characters)"
+  },
+  {
+   "record_number": "MLF 320",
+   "length": 2,
+   "reason": "too short (2 characters)"
+  },
+  {
+   "record_number": "MLF 321",
+   "length": 2,
+   "reason": "too short (2 characters)"
+  },
+  {
+   "record_number": "MLF 322",
+   "length": 2,
+   "reason": "too short (2 characters)"
+  },
+  {
+   "record_number": "MLF 323",
+   "length": 2,
+   "reason": "too short (2 characters)"
+  },
+  {
+   "record_number": "MLF 324",
+   "length": 12,
+   "reason": "too short (12 characters)"
+  },
+  {
+   "record_number": "MLF 334",
+   "length": 13,
+   "reason": "too short (13 characters)"
+  },
+  {
+   "record_number": "MLF 338",
+   "length": 11,
+   "reason": "too short (11 characters)"
+  },
+  {
+   "record_number": "MLF 339",
+   "length": 15,
+   "reason": "too short (15 characters)"
+  },
+  {
+   "record_number": "MLF 342",
+   "length": 4,
+   "reason": "too short (4 characters)"
+  },
+  {
+   "record_number": "MLF 344",
+   "length": 5,
+   "reason": "too short (5 characters)"
+  },
+  {
+   "record_number": "MLF 345",
+   "length": 4,
+   "reason": "too short (4 characters)"
+  },
+  {
+   "record_number": "MLF 347",
+   "length": 15,
+   "reason": "too short (15 characters)"
+  },
+  {
+   "record_number": "MLF 348",
+   "length": 13,
+   "reason": "too short (13 characters)"
+  },
+  {
+   "record_number": "MLF 349",
+   "length": 12,
+   "reason": "too short (12 characters)"
+  },
+  {
+   "record_number": "MLF 350",
+   "length": 10,
+   "reason": "too short (10 characters)"
+  },
+  {
+   "record_number": "MLF 351",
+   "length": 12,
+   "reason": "too short (12 characters)"
+  },
+  {
+   "record_number": "MLF 352",
+   "length": 6,
+   "reason": "too short (6 characters)"
+  },
+  {
+   "record_number": "MLF 353",
+   "length": 16,
+   "reason": "too short (16 characters)"
+  },
+  {
+   "record_number": "MLF 354",
+   "length": 11,
+   "reason": "too short (11 characters)"
+  },
+  {
+   "record_number": "MLF 355",
+   "length": 7,
+   "reason": "too short (7 characters)"
+  },
+  {
+   "record_number": "MLF 360",
+   "length": 13,
+   "reason": "too short (13 characters)"
+  },
+  {
+   "record_number": "MLF 361",
+   "length": 20,
+   "reason": "too short (20 characters)"
+  },
+  {
+   "record_number": "MLF 362",
+   "length": 12,
+   "reason": "too short (12 characters)"
+  },
+  {
+   "record_number": "MLF 367-370",
+   "length": 27,
+   "reason": "too short (6 characters after removing 3 repeats)"
+  },
+  {
+   "record_number": "MLF 373-375",
+   "length": 8,
+   "reason": "too short (2 characters after removing 2 repeats)"
+  },
+  {
+   "record_number": "MLF 459",
+   "length": 12,
+   "reason": "too short (12 characters)"
+  },
+  {
+   "record_number": "MLF 460",
+   "length": 3,
+   "reason": "too short (3 characters)"
+  },
+  {
+   "record_number": "MLF 463",
+   "length": 8,
+   "reason": "too short (8 characters)"
+  },
+  {
+   "record_number": "MLF/Etr 208",
+   "length": 6,
+   "reason": "not Faliscan or Latin (MLF/Etr)"
+  },
+  {
+   "record_number": "MLF/Etr 209",
+   "length": 2,
+   "reason": "not Faliscan or Latin (MLF/Etr)"
+  },
+  {
+   "record_number": "MLF/Etr 289",
+   "length": 27,
+   "reason": "not Faliscan or Latin (MLF/Etr)"
+  },
+  {
+   "record_number": "MLF/Etr 371-372",
+   "length": 27,
+   "reason": "too short (13 characters after removing 1 repeats)"
+  },
+  {
+   "record_number": "MLF/LtF 241",
+   "length": 2,
+   "reason": "too short (2 characters)"
+  },
+  {
+   "record_number": "MF 79",
+   "length": 20,
+   "reason": "too short (20 characters)"
+  },
+  {
+   "record_number": "MF 135",
+   "length": 6,
+   "reason": "no edition; unpublished tile reported by Colonna"
+  },
+  {
+   "record_number": "LtF 140",
+   "length": 22,
+   "reason": "too short (22 characters)"
+  },
+  {
+   "record_number": "MF 144-145",
+   "length": 27,
+   "reason": "too little surviving text (16 certain letters, 70% of letter positions)"
+  },
+  {
+   "record_number": "MF 152",
+   "length": 21,
+   "reason": "too short (21 characters)"
+  },
+  {
+   "record_number": "MF 155",
+   "length": 20,
+   "reason": "too short (20 characters)"
+  },
+  {
+   "record_number": "MF 156-157",
+   "length": 28,
+   "reason": "too little surviving text (18 certain letters, 90% of letter positions)"
+  },
+  {
+   "record_number": "MLF 363",
+   "length": 14,
+   "reason": "too short (14 characters)"
+  },
+  {
+   "record_number": "MLF 364",
+   "length": 10,
+   "reason": "too short (10 characters)"
+  },
+  {
+   "record_number": "MLF 365-366",
+   "length": 14,
+   "reason": "too short (14 characters)"
+  },
+  {
+   "record_number": "EF 467",
+   "length": 11,
+   "reason": "too short (11 characters)"
+  },
+  {
+   "record_number": "Sab 468",
+   "length": 14,
+   "reason": "not Faliscan or Latin (Sab)"
+  },
+  {
+   "record_number": "MF 469",
+   "length": 13,
+   "reason": "too short (13 characters)"
+  },
+  {
+   "record_number": "MF 471",
+   "length": 19,
+   "reason": "too short (19 characters)"
+  },
+  {
+   "record_number": "MF 472",
+   "length": 13,
+   "reason": "too short (13 characters)"
+  },
+  {
+   "record_number": "MF 473",
+   "length": 14,
+   "reason": "too short (14 characters)"
+  },
+  {
+   "record_number": "MLF/Cap 474",
+   "length": 22,
+   "reason": "too short (22 characters)"
+  },
+  {
+   "record_number": "MLF/Cap 475",
+   "length": 5,
+   "reason": "too short (5 characters)"
+  },
+  {
+   "record_number": "MLF/Cap 476",
+   "length": 7,
+   "reason": "too short (7 characters)"
+  },
+  {
+   "record_number": "Lat 477",
+   "length": 8,
+   "reason": "too short (8 characters)"
+  },
+  {
+   "record_number": "Lat 478",
+   "length": 8,
+   "reason": "too short (8 characters)"
+  }
+ ]
+}
