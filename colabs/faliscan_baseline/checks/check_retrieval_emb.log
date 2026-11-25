@@ -1,0 +1,27 @@
+E1125 10:23:39.149166 2589692 numa_hwloc.cc:121] Call to hwloc_set_cpubind() failed: Invalid argument [22]
+E1125 10:23:39.149506 2589693 numa_hwloc.cc:121] Call to hwloc_set_cpubind() failed: Invalid argument [22]
+E1125 10:23:39.149649 2589694 numa_hwloc.cc:121] Call to hwloc_set_cpubind() failed: Invalid argument [22]
+stored: 180110 keys of one entry: ['avg']
+5501297 train 100 avg vs stored avg: 1.0000
+5501297 train 100 first vs stored avg: 0.2122
+37700427 train 32 avg vs stored avg: 1.0000
+37700427 train 32 first vs stored avg: 0.2943
+494791 train 57 avg vs stored avg: 1.0000
+494791 train 57 first vs stored avg: 0.3443
+247311 train 40 avg vs stored avg: 1.0000
+247311 train 40 first vs stored avg: 0.2749
+23700989 train 36 avg vs stored avg: 1.0000
+23700989 train 36 first vs stored avg: 0.2705
+23701880 train 58 avg vs stored avg: 1.0000
+23701880 train 58 first vs stored avg: 0.2488
+8501390 train 75 avg vs stored avg: 1.0000
+8501390 train 75 first vs stored avg: 0.2405
+618444 test 46 avg vs stored avg: 1.0000
+618444 test 46 first vs stored avg: 0.1846
+28100202 train 85 avg vs stored avg: 1.0000
+28100202 train 85 first vs stored avg: 0.2601
+26900522 train 29 avg vs stored avg: 1.0000
+26900522 train 29 first vs stored avg: 0.4384
+44000405 train 31 avg vs stored avg: 1.0000
+44000405 train 31 first vs stored avg: 0.4502
+124010 error KeyError(',')
