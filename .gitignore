@@ -8,3 +8,6 @@ dist/
 
 # Bakkum source PDFs (copyrighted)
 Bakkum/*.pdf
+
+# Saved activations (large; regenerate with colabs/run_rule_contrast.sub)
+colabs/rule_contrast/*/acts.npz

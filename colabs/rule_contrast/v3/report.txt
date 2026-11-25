@@ -1,0 +1,50 @@
+
+## qu_cu  (400 pairs; Faliscan letter 'c')
+  site consistency (lat/fal/shift): emb 1.00/1.00/1.00  block3 0.66/0.72/0.75  block7 0.66/0.66/0.79  block11 0.65/0.71/0.76  block15 0.88/0.87/0.54  final 0.88/0.85/0.56
+  layer     dist rank/top3/closest   absorb rank top3   generic spec_share  align fal/alts/rank   one_draw pair/mean  freq  |  sos align fal/alts/rank   real fal [alts min..max]
+  emb        16 0.00 kxh         1.00   1  cxv     0.65    0.76       1.00  1.00   3       0.70  0.95     0.95
+  block3      2 0.86 ocv         0.78   2  oca     0.88    0.54       0.80  0.86  23       0.67  0.94     0.94  |   0.60  0.64  23      -0.13 [-0.42..+0.37]
+  block7      2 0.93 oci         0.70   2  oci     0.77    0.72       0.83  0.88  23       0.66  0.94     0.94  |   0.63  0.68  21      -0.39 [-0.36..+0.24]
+  block11     2 0.93 ocs         0.68   2  oci     0.77    0.74       0.78  0.83  22       0.70  0.96     0.95  |   0.62  0.64  17      -0.46 [-0.48..+0.27]
+  block15     2 0.86 ocv         0.54   2  oca     0.52    1.36       0.80  0.57   1       0.81  0.99     0.99  |   0.31  0.27   5      -0.64 [-0.62..+0.39]
+  final       2 0.88 ocl         0.51   2  oci     0.52    1.19       0.70  0.61   2       0.63  0.96     0.96  |   0.27  0.28  13      -0.38 [-0.36..+0.18]
+
+## b_p  (400 pairs; Faliscan letter 'p')
+  site consistency (lat/fal/shift): emb 1.00/1.00/1.00  block3 0.68/0.73/0.74  block7 0.70/0.76/0.83  block11 0.69/0.81/0.77  block15 0.82/0.80/0.66  final 0.80/0.69/0.60
+  layer     dist rank/top3/closest   absorb rank top3   generic spec_share  align fal/alts/rank   one_draw pair/mean  freq  |  sos align fal/alts/rank   real fal [alts min..max]
+  emb         1 1.00 pqv         1.00   1  pxv     0.54    0.89       1.00  1.00  18       0.74  0.96     0.96
+  block3      4 0.43 vmf         1.01  17  iem     0.86    0.53       0.79  0.85  20       0.66  0.93     0.93  |   0.58  0.59  16      -0.04 [-0.39..+0.27]
+  block7      5 0.45 vmc         1.02  15  eiu     0.77    0.65       0.89  0.90  16       0.69  0.96     0.96  |   0.68  0.69  14      -0.27 [-0.39..+0.24]
+  block11     4 0.23 vmc         1.06  17  eim     0.75    0.67       0.85  0.84   9       0.71  0.97     0.97  |   0.66  0.65  11      -0.32 [-0.48..+0.26]
+  block15     4 0.14 vce         1.03  13  eiv     0.80    0.63       0.60  0.57   6       0.71  0.97     0.97  |   0.28  0.27  11      -0.31 [-0.52..+0.39]
+  final       4 0.18 vec         1.00  14  evi     0.67    0.77       0.59  0.60  13       0.69  0.96     0.96  |   0.26  0.27  14      -0.18 [-0.35..+0.29]
+
+## ae_e  (400 pairs; Faliscan letter 'e')
+  site consistency (lat/fal/shift): emb 1.00/1.00/1.00  block3 0.64/0.72/0.78  block7 0.53/0.54/0.71  block11 0.58/0.56/0.61  block15 0.80/0.71/0.71  final 0.82/0.68/0.59
+  layer     dist rank/top3/closest   absorb rank top3   generic spec_share  align fal/alts/rank   one_draw pair/mean  freq  |  sos align fal/alts/rank   real fal [alts min..max]
+  emb         1 1.00 eio         1.00   1  exv     0.03    1.88       1.00  1.00   3       0.79  0.97     0.97
+  block3      1 0.99 eio         1.12  20  cpf     0.27    1.55       0.89  0.85   8       0.79  0.96     0.96  |   0.45  0.56  23      -0.42 [-0.22..+0.20]
+  block7      1 1.00 eio         0.94   8  uio     0.47    1.52       0.83  0.89  23       0.69  0.95     0.95  |   0.57  0.65  23      -0.58 [-0.36..+0.24]
+  block11     1 0.98 eoi         1.21  22  pcu     0.53    1.26       0.71  0.78  23       0.78  0.97     0.97  |   0.59  0.62  16      -0.64 [-0.46..+0.28]
+  block15     1 0.89 eui         1.61  23  zfg     0.79    0.76       0.67  0.55   1       0.83  0.99     0.99  |   0.36  0.27   4      -0.68 [-0.52..+0.42]
+  final       1 0.90 eiu         1.58  23  fzs     0.47    1.04       0.66  0.54   1       0.75  0.99     0.99  |   0.29  0.29  10      -0.51 [-0.42..+0.24]
+
+## us_o  (400 pairs; Faliscan letter 'o')
+  site consistency (lat/fal/shift): emb 1.00/1.00/1.00  block3 0.82/0.85/0.92  block7 0.71/0.74/0.83  block11 0.82/0.81/0.84  block15 0.91/0.83/0.86  final 0.91/0.71/0.80
+  layer     dist rank/top3/closest   absorb rank top3   generic spec_share  align fal/alts/rank   one_draw pair/mean  freq  |  sos align fal/alts/rank   real fal [alts min..max]
+  emb         8 0.00 skq         1.00   1  oxv     0.30    1.01       1.00  1.00   4       0.75  0.96     0.96
+  block3      3 0.69 sao         0.87   3  aio     0.62    0.85       0.93  0.87   3       0.77  0.97     0.96  |   0.67  0.63   6      -0.01 [-0.32..+0.27]
+  block7      2 0.61 soa         0.81   3  aio     0.75    0.74       0.83  0.89  21       0.69  0.94     0.94  |   0.69  0.68  11      +0.04 [-0.42..+0.21]
+  block11     2 0.89 soa         0.76   2  aoi     0.75    0.76       0.83  0.85  18       0.70  0.96     0.95  |   0.66  0.65  10      -0.10 [-0.50..+0.26]
+  block15     2 0.57 sox         0.93   5  zxi     0.86    0.54       0.70  0.66   5       0.76  0.96     0.94  |   0.35  0.32   7      -0.43 [-0.63..+0.36]
+  final       5 0.17 sat         0.98  13  zai     0.70    0.72       0.71  0.68   4       0.76  0.98     0.97  |   0.33  0.31  10      -0.21 [-0.46..+0.26]
+
+## um_o  (400 pairs; Faliscan letter 'o')
+  site consistency (lat/fal/shift): emb 1.00/1.00/1.00  block3 0.82/0.86/0.93  block7 0.71/0.72/0.84  block11 0.82/0.80/0.80  block15 0.85/0.73/0.75  final 0.86/0.59/0.65
+  layer     dist rank/top3/closest   absorb rank top3   generic spec_share  align fal/alts/rank   one_draw pair/mean  freq  |  sos align fal/alts/rank   real fal [alts min..max]
+  emb         7 0.00 mky         1.00   1  oxv     0.30    1.00       1.00  1.00   3       0.78  0.95     0.96
+  block3      4 0.59 mia         0.82   3  aio     0.55    0.94       0.94  0.87   3       0.77  0.96     0.96  |   0.64  0.63   7      -0.01 [-0.19..+0.16]
+  block7      2 0.76 moi         0.69   2  aoi     0.60    0.92       0.86  0.88  20       0.64  0.93     0.94  |   0.68  0.68  14      -0.19 [-0.32..+0.24]
+  block11     1 0.92 oma         0.68   1  oai     0.61    0.95       0.84  0.83   9       0.67  0.95     0.95  |   0.64  0.64  10      -0.25 [-0.39..+0.27]
+  block15     2 0.51 moa         0.90   3  zao     0.82    0.63       0.59  0.59  12       0.72  0.94     0.94  |   0.33  0.31   8      -0.55 [-0.55..+0.38]
+  final       3 0.32 mao         0.92   4  aez     0.69    0.74       0.59  0.60  13       0.70  0.96     0.96  |   0.31  0.32  14      -0.31 [-0.41..+0.23]

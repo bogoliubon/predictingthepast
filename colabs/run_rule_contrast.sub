@@ -1,0 +1,15 @@
+#!/bin/bash
+#SBATCH --job-name=rule_contrast
+#SBATCH --partition=kilian
+#SBATCH --gres=gpu:1
+# Pre-Turing GPUs (Maxwell/Pascal) fail in cuDNN with this JAX build.
+#SBATCH --exclude=nikola-compute-[01-05],tripods-compute-02
+#SBATCH --cpus-per-task=4
+#SBATCH --mem=32G
+#SBATCH --time=2:00:00
+#SBATCH --output=rule_contrast/%x_%j.log
+
+# Usage (from colabs/): sbatch run_rule_contrast.sub [extra args]
+cd /home/cw862/predictingthepast/colabs
+mkdir -p rule_contrast
+/home/cw862/anaconda3/envs/predictingthepast/bin/python -u rule_contrast.py "$@"
